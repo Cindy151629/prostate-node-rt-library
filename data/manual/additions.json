@@ -1,0 +1,218 @@
+[
+  {
+    "id": "PMID42028344",
+    "pmid": "42028344",
+    "doi": "10.1016/j.ctro.2026.101168",
+    "pmcid": "PMC13101549",
+    "seed_id": "X001",
+    "seed_title": "Outcomes of stereotactic body radiotherapy for supraclavicular lymph node metastasis among patients with metastatic prostate cancer.",
+    "links": []
+  },
+  {
+    "id": "PMID40114834",
+    "pmid": "40114834",
+    "doi": "10.21037/tau-24-489",
+    "pmcid": "PMC11921305",
+    "seed_id": "X002",
+    "seed_title": "Clinical characteristics and prognostic factors of low metastatic burden prostate cancer with non-regional lymph node metastases: role of cytoreductive radiotherapy?",
+    "links": []
+  },
+  {
+    "id": "PMID40581618",
+    "pmid": "40581618",
+    "doi": "10.1093/bjr/tqaf142",
+    "pmcid": "",
+    "seed_id": "X003",
+    "seed_title": "Optimizing lymph node metastasis imaging in MR-guided radiotherapy for oligometastatic prostate cancer.",
+    "links": []
+  },
+  {
+    "id": "PMID39895963",
+    "pmid": "39895963",
+    "doi": "10.5603/rpor.101528",
+    "pmcid": "PMC11785391",
+    "seed_id": "X004",
+    "seed_title": "Stereotactic ablative radiotherapy (SABR) for pelvic nodal oligorecurrence in prostate cancer.",
+    "links": []
+  },
+  {
+    "id": "PMID36483057",
+    "pmid": "36483057",
+    "doi": "10.1016/j.adro.2022.101040",
+    "pmcid": "PMC9723301",
+    "seed_id": "X005",
+    "seed_title": "Salvage Involved-Field and Extended-Field Radiation Therapy in Positron Emission Tomography-Positive Nodal Recurrent Prostate Cancer: Outcomes and Patterns of Failure.",
+    "links": []
+  },
+  {
+    "id": "PMID36605290",
+    "pmid": "36605290",
+    "doi": "10.1016/j.ctro.2022.100571",
+    "pmcid": "PMC9807861",
+    "seed_id": "X006",
+    "seed_title": "Elective nodal radiotherapy with a gapless radiation field junction for oligorecurrent prostate cancer after previous radiotherapy.",
+    "links": []
+  },
+  {
+    "id": "PMID37035766",
+    "pmid": "37035766",
+    "doi": "10.1259/bjro.20220030",
+    "pmcid": "PMC10077404",
+    "seed_id": "X007",
+    "seed_title": "Outcomes following external beam radiotherapy to the prostate and pelvic lymph nodes in addition to androgen deprivation therapy in non-metastatic prostate adenocarcinoma with regional lymph node involvement: a retrospective cohort study.",
+    "links": []
+  },
+  {
+    "id": "PMID37629732",
+    "pmid": "37629732",
+    "doi": "10.3390/medicina59081442",
+    "pmcid": "PMC10456704",
+    "seed_id": "X008",
+    "seed_title": "Stereotactic Body Radiotherapy for Lymph-Nodal Oligometastatic Prostate Cancer: A Multicenter Retrospective Experience.",
+    "links": []
+  },
+  {
+    "id": "PMID38047214",
+    "pmid": "38047214",
+    "doi": "10.1016/j.adro.2023.101290",
+    "pmcid": "PMC10692293",
+    "seed_id": "X009",
+    "seed_title": "Elective Nodal Irradiation for Oligorecurrent Nodal Prostate Cancer: Interobserver Variability in the PEACE V-STORM Randomized Phase 2 Trial.",
+    "links": []
+  },
+  {
+    "id": "PMID35476942",
+    "pmid": "35476942",
+    "doi": "10.1016/j.radonc.2022.04.020",
+    "pmcid": "",
+    "seed_id": "X010",
+    "seed_title": "Oligorecurrent nodal prostate cancer: Radiotherapy quality assurance of the randomized PEACE V-STORM phase II trial.",
+    "links": []
+  },
+  {
+    "id": "PMID35954430",
+    "pmid": "35954430",
+    "doi": "10.3390/cancers14153766",
+    "pmcid": "PMC9367596",
+    "seed_id": "X011",
+    "seed_title": "Salvage Nodal Radiotherapy as Metastasis-Directed Therapy for Oligorecurrent Prostate Cancer Detected by Positron Emission Tomography Shows Favorable Outcome in Long-Term Follow-Up.",
+    "links": []
+  },
+  {
+    "id": "PMID32451312",
+    "pmid": "32451312",
+    "doi": "10.1016/j.euo.2020.04.004",
+    "pmcid": "",
+    "seed_id": "X012",
+    "seed_title": "PSMA-PET/CT-based Lymph Node Atlas for Prostate Cancer Patients Recurring After Primary Treatment: Clinical Implications for Salvage Radiation Therapy.",
+    "links": []
+  },
+  {
+    "id": "PMID33386290",
+    "pmid": "33386290",
+    "doi": "10.1016/j.euf.2020.12.010",
+    "pmcid": "",
+    "seed_id": "X013",
+    "seed_title": "The Multicenter, Randomized, Phase 2 PEACE V-STORM Trial: Defining the Best Salvage Treatment for Oligorecurrent Nodal Prostate Cancer Metastases.",
+    "links": []
+  },
+  {
+    "id": "PMID34323648",
+    "pmid": "34323648",
+    "doi": "10.1080/0284186x.2021.1955970",
+    "pmcid": "",
+    "seed_id": "X014",
+    "seed_title": "Progression-free survival in patients with 68Ga-PSMA-PET-directed SBRT for lymph node oligometastases.",
+    "links": []
+  },
+  {
+    "id": "PMID34651242",
+    "pmid": "34651242",
+    "doi": "10.1007/s10585-021-10126-7",
+    "pmcid": "",
+    "seed_id": "X015",
+    "seed_title": "Stereotactic body radiotherapy to lymph nodes in oligoprogressive castration-resistant prostate cancer patients: a post hoc analysis from two phase I clinical trials.",
+    "links": []
+  },
+  {
+    "id": "PMID32398040",
+    "pmid": "32398040",
+    "doi": "10.1186/s12885-020-06911-4",
+    "pmcid": "PMC7216526",
+    "seed_id": "X016",
+    "seed_title": "PEACE V - Salvage Treatment of OligoRecurrent nodal prostate cancer Metastases (STORM): a study protocol for a randomized controlled phase II trial.",
+    "links": []
+  },
+  {
+    "id": "PMID32583860",
+    "pmid": "32583860",
+    "doi": "10.1093/jrr/rraa044",
+    "pmcid": "PMC7336814",
+    "seed_id": "X017",
+    "seed_title": "Long-term clinical outcomes of salvage pelvic radiation therapy for oligo-recurrent pelvic lymph nodes after definitive external-beam radiation therapy for non-metastatic prostate cancer.",
+    "links": []
+  },
+  {
+    "id": "PMID29626845",
+    "pmid": "29626845",
+    "doi": "10.1111/bju.14241",
+    "pmcid": "",
+    "seed_id": "X018",
+    "seed_title": "Adjuvant radiation with androgen-deprivation therapy for men with lymph node metastases after radical prostatectomy: identifying men who benefit.",
+    "links": []
+  },
+  {
+    "id": "PMID30503072",
+    "pmid": "30503072",
+    "doi": "10.1016/j.eururo.2018.10.044",
+    "pmcid": "",
+    "seed_id": "X019",
+    "seed_title": "Nodal Oligorecurrent Prostate Cancer: Anatomic Pattern of Possible Treatment Failure in Relation to Elective Surgical and Radiotherapy Treatment Templates.",
+    "links": []
+  },
+  {
+    "id": "PMID31177044",
+    "pmid": "31177044",
+    "doi": "10.1016/j.radonc.2019.05.016",
+    "pmcid": "",
+    "seed_id": "X020",
+    "seed_title": "Radiotherapy for node-positive prostate cancer: 2019 Recommendations of the Australian and New Zealand Radiation Oncology Genito-Urinary group.",
+    "links": []
+  },
+  {
+    "id": "PMID31673659",
+    "pmid": "31673659",
+    "doi": "10.1016/j.adro.2019.06.006",
+    "pmcid": "PMC6817538",
+    "seed_id": "X021",
+    "seed_title": "11C-Choline PET Guided Salvage Radiation Therapy for Isolated Pelvic and Paraortic Nodal Recurrence of Prostate Cancer After Radical Prostatectomy: Rationale and Early Genitourinary or Gastrointestinal Toxicities.",
+    "links": []
+  },
+  {
+    "id": "PMID29315174",
+    "pmid": "29315174",
+    "doi": "10.1097/coc.0000000000000419",
+    "pmcid": "",
+    "seed_id": "X022",
+    "seed_title": "Oligorecurrent Nodal Prostate Cancer: Long-term Results of an Elective Nodal Irradiation Approach.",
+    "links": []
+  },
+  {
+    "id": "PMID26895459",
+    "pmid": "26895459",
+    "doi": "10.1016/j.advms.2016.01.003",
+    "pmcid": "",
+    "seed_id": "X024",
+    "seed_title": "PET/CT and MRI directed extended salvage radiotherapy in recurrent prostate cancer with lymph node metastases.",
+    "links": []
+  },
+  {
+    "id": "PMID25326142",
+    "pmid": "25326142",
+    "doi": "10.1007/s00066-014-0763-5",
+    "pmcid": "",
+    "seed_id": "X025",
+    "seed_title": "Adjuvant radiotherapy after salvage lymph node dissection because of nodal relapse of prostate cancer versus salvage lymph node dissection only.",
+    "links": []
+  }
+]

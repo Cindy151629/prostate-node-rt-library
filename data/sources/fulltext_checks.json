@@ -1,0 +1,3812 @@
+{
+  "PMID42457456": {
+    "id": "PMID42457456",
+    "seed_id": "G002",
+    "checked_at": "2026-09-14T10:02:15.687318+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 937,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2026.04.014",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2026.04.014",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID41421764": {
+    "status": "body_obtained",
+    "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/331410/331410.pdf",
+    "version": "机构仓储PDF；版本见原文页首",
+    "verified_at": "2026-09-14T09:38:59.695382+00:00",
+    "method": "PDF文件头、正文及DOI对应核验",
+    "sha256": "4469e8582286e74c64104788aa6cb750ee3229feb97ba72ba08d5a54658e9189",
+    "body_chars": 94533,
+    "identity_match": true
+  },
+  "PMID42457454": {
+    "id": "PMID42457454",
+    "seed_id": "G001",
+    "checked_at": "2026-09-14T10:02:15.685615+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 945,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2026.04.013",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2026.04.013",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40940889": {
+    "id": "PMID40940889",
+    "seed_id": "G005",
+    "checked_at": "2026-09-14T10:02:15.689033+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12427371",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12427371",
+      "pmcaid": "12427371",
+      "pmcaiid": "12427371",
+      "pmid": "40940889",
+      "doi": "10.3390/cancers17172792"
+    },
+    "body_chars": 44353,
+    "article_title": "A Narrative Review of Treatment Options for Patients with Node-Positive Disease After Radical Prostatectomy: Current Evidence and Controversies",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12427371/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12427371/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "8ba0056e7a504efd055261a296bc602d72dfefd941e9365c34c8fffb1e90c776"
+  },
+  "PMID38421243": {
+    "id": "PMID38421243",
+    "seed_id": "G007",
+    "checked_at": "2026-09-14T10:02:16.565600+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1097/ju.0000000000003891: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1097/ju.0000000000003891",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/ju.0000000000003891",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38421252": {
+    "id": "PMID38421252",
+    "seed_id": "G006",
+    "checked_at": "2026-09-14T10:02:15.692175+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1097/ju.0000000000003890: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1097/ju.0000000000003890",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/ju.0000000000003890",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37730526": {
+    "id": "PMID37730526",
+    "seed_id": "G008",
+    "checked_at": "2026-09-14T10:02:16.985907+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 904,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2023.09.002",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2023.09.002",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38186065": {
+    "id": "PMID38186065",
+    "seed_id": "G009",
+    "checked_at": "2026-09-14T10:02:16.987598+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 29073,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.56434/j.arch.esp.urol.20237610.88",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.56434/j.arch.esp.urol.20237610.88",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID36372736": {
+    "id": "PMID36372736",
+    "seed_id": "G010",
+    "checked_at": "2026-09-14T10:02:16.991812+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 926,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2022.10.002",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2022.10.002",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37296924": {
+    "id": "PMID37296924",
+    "seed_id": "G011",
+    "checked_at": "2026-09-14T10:02:16.992894+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10251924",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10251924",
+      "pmcaid": "10251924",
+      "pmcaiid": "10251924",
+      "pmid": "37296924",
+      "doi": "10.3390/cancers15112962"
+    },
+    "body_chars": 54464,
+    "article_title": "Treating Primary Node-Positive Prostate Cancer: A Scoping Review of Available Treatment Options",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10251924/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10251924/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "3ebfbc566a13e01fae69a93d89f91b8db8d0d777de504910487d68b3dec66867"
+  },
+  "PMID34812201": {
+    "id": "PMID34812201",
+    "seed_id": "G012",
+    "checked_at": "2026-09-14T10:02:16.999394+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 600889,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1097/mou.0000000000000946",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/mou.0000000000000946",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35475128": {
+    "id": "PMID35475128",
+    "seed_id": "G013",
+    "checked_at": "2026-09-14T10:02:17.022676+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC8988794",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC8988794",
+      "pmcaid": "8988794",
+      "pmcaiid": "8988794",
+      "pmid": "35475128",
+      "doi": "10.1002/bco2.73"
+    },
+    "body_chars": 38748,
+    "article_title": "M1a prostate cancer: Results of a Dutch multidisciplinary consensus meeting",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8988794/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8988794/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "e8ac4b8052cf3020e975ee8c4f01da60d2abf61242ad7ee8eb1d5c95d5d51b21"
+  },
+  "PMID33914101": {
+    "id": "PMID33914101",
+    "seed_id": "G015",
+    "checked_at": "2026-09-14T10:17:28.508959+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC8219546",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC8219546",
+      "pmcaid": "8219546",
+      "pmcaiid": "8219546",
+      "pmid": "33914101",
+      "doi": "10.1007/s00066-021-01778-1"
+    },
+    "body_chars": 26019,
+    "article_title": "Radiotherapy in nodal oligorecurrent prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8219546/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8219546/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "6bda57c6bc211e202b54c5cb37095d229ff8dcbdbaaa8cd4a260cf78d9c7dce6"
+  },
+  "PMID32861817": {
+    "id": "PMID32861817",
+    "seed_id": "G014",
+    "checked_at": "2026-09-14T10:17:27.548613+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC7736505",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 926,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2020.08.034",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7736505/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7736505/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2020.08.034",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7736505/",
+    "index_open_access": false
+  },
+  "PMID32150055": {
+    "id": "PMID32150055",
+    "seed_id": "G016",
+    "checked_at": "2026-09-14T10:17:28.511838+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7478562",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7478562",
+      "pmcid-ver": "PMC7478562.1",
+      "pmcaid": "7478562",
+      "pmcaiid": "7478562",
+      "pmid": "32150055",
+      "doi": "10.1097/MD.0000000000019153",
+      "publisher-id": "MD-D-19-07953"
+    },
+    "body_chars": 15375,
+    "article_title": "Adding radiotherapy to androgen deprivation therapy in men with node-positive prostate cancer after radical prostatectomy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7478562/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7478562/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "5b60b93fa3a438ed182cd74b82ecf2cbf8e1bfb8d24309379c563633edabab61"
+  },
+  "PMID31200844": {
+    "id": "PMID31200844",
+    "seed_id": "G018",
+    "checked_at": "2026-09-14T10:17:28.515800+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 927,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2019.02.001",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2019.02.001",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40273649": {
+    "id": "PMID40273649",
+    "seed_id": "A001",
+    "checked_at": "2026-09-14T10:17:28.516474+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 915,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.canrad.2025.104619",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.canrad.2025.104619",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40052287": {
+    "id": "PMID40052287",
+    "seed_id": "A002",
+    "checked_at": "2026-09-14T10:17:28.516927+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11932344",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11932344",
+      "pmcid-ver": "PMC11932344.1",
+      "pmcaid": "11932344",
+      "pmcaiid": "11932344",
+      "pmid": "40052287",
+      "doi": "10.1093/jrr/rraf005",
+      "publisher-id": "rraf005"
+    },
+    "body_chars": 27476,
+    "article_title": "Prostate dose escalation may positively impact survival in patients with clinically node-positive prostate cancer definitively treated by radiotherapy: surveillance study of the Japanese Radiation Oncology Study Group (JROSG)",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11932344/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11932344/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "1af905586e028d62e8f932c145dd33616aaf90fa450082f01627db2df56719dc"
+  },
+  "PMID41031987": {
+    "id": "PMID41031987",
+    "seed_id": "A003",
+    "checked_at": "2026-09-14T10:17:28.520359+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1014,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2025.06.3858",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2025.06.3858",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40693104": {
+    "id": "PMID40693104",
+    "seed_id": "A004",
+    "checked_at": "2026-09-14T10:17:28.521618+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12277652",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12277652",
+      "pmcaid": "12277652",
+      "pmcaiid": "12277652",
+      "pmid": "40693104",
+      "doi": "10.1002/bco2.70059"
+    },
+    "body_chars": 36050,
+    "article_title": "A population‐based analyses of the evolving management of cN1M0 prostate cancer in the PSMA‐PET era",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12277652/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12277652/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "cd54cc56feb78bbf0676740f95fb7fa933fb1631ef38132fa3245024f1f44ef1"
+  },
+  "PMID37640867": {
+    "id": "PMID37640867",
+    "seed_id": "A005",
+    "checked_at": "2026-09-14T10:17:28.524746+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10876493",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10876493",
+      "pmcaid": "10876493",
+      "pmcaiid": "10876493",
+      "pmid": "37640867",
+      "doi": "10.1007/s00066-023-02129-y"
+    },
+    "body_chars": 24800,
+    "article_title": "Whole-pelvic irradiation with boost to involved nodes and prostate in node-positive prostate cancer—long-term data from the prospective PLATIN-2 trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10876493/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10876493/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "6325c366d574e5c9e8b1781f3a4993c5c0d23a15555aa4d68adbf052878d2a26"
+  },
+  "PMID38946076": {
+    "id": "PMID38946076",
+    "seed_id": "A006",
+    "checked_at": "2026-09-14T10:17:28.527467+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11215505",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11215505",
+      "pmcaid": "11215505",
+      "pmcaiid": "11215505",
+      "pmid": "38946076",
+      "doi": "10.3857/roj.2024.00080"
+    },
+    "body_chars": 30083,
+    "article_title": "Hypofractionated radiation therapy combined with androgen deprivation therapy for clinically node-positive prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11215505/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11215505/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "69bd9bedd52cd53c2392ff50e7e750a050523568cf8794a473e4d08b0b16b9d0"
+  },
+  "PMID38589463": {
+    "id": "PMID38589463",
+    "seed_id": "A007",
+    "checked_at": "2026-09-14T10:17:28.530442+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11001889",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11001889",
+      "pmcaid": "11001889",
+      "pmcaiid": "11001889",
+      "pmid": "38589463",
+      "doi": "10.1038/s41598-024-54976-z"
+    },
+    "body_chars": 32482,
+    "article_title": "Androgen deprivation alone versus combined with pelvic radiation for adverse events and quality of life in clinically node-positive prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11001889/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11001889/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "e5607a9c1e2c785f44aef6b9927be5575be11a943be0ce5f3a766e15a2c8faa4"
+  },
+  "PMID40516971": {
+    "id": "PMID40516971",
+    "seed_id": "G004",
+    "checked_at": "2026-09-14T10:02:15.687881+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 892,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.semradonc.2025.04.013",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.semradonc.2025.04.013",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37330057": {
+    "id": "PMID37330057",
+    "seed_id": "A009",
+    "checked_at": "2026-09-14T09:30:17.318081+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 936,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2023.109746",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2023.109746",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38847441": {
+    "id": "PMID38847441",
+    "seed_id": "A008",
+    "checked_at": "2026-09-14T09:30:14.545382+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 312523,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1097/rlu.0000000000005284",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/rlu.0000000000005284",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32933887": {
+    "id": "PMID32933887",
+    "seed_id": "G017",
+    "checked_at": "2026-09-14T10:17:28.513975+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 938,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2020.08.005",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2020.08.005",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37186452": {
+    "id": "PMID37186452",
+    "seed_id": "A011",
+    "checked_at": "2026-09-14T09:30:19.298741+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1111/1754-9485.13534: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1111/1754-9485.13534",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1111/1754-9485.13534",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35226380": {
+    "id": "PMID35226380",
+    "seed_id": "A012",
+    "checked_at": "2026-09-14T09:30:19.996838+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9311819",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9311819",
+      "pmcid-ver": "PMC9311819.1",
+      "pmcaid": "9311819",
+      "pmcaiid": "9311819",
+      "pmid": "35226380",
+      "doi": "10.1002/pros.24317",
+      "publisher-id": "PROS24317"
+    },
+    "body_chars": 24915,
+    "article_title": "Survival after radical prostatectomy versus radiation therapy in clinical node‐positive prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9311819/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9311819/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "f7cbeb7c06d2cfd811b653a9312d8835393c6acb260768451cee1f11c6c95ff7"
+  },
+  "PMID35870708": {
+    "id": "PMID35870708",
+    "seed_id": "A013",
+    "checked_at": "2026-09-14T09:30:20.379581+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 896,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2022.07.011",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2022.07.011",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35747822": {
+    "id": "PMID35747822",
+    "seed_id": "A014",
+    "checked_at": "2026-09-14T09:30:21.439223+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9209705",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9209705",
+      "pmcid-ver": "PMC9209705.1",
+      "pmcaid": "9209705",
+      "pmcaiid": "9209705",
+      "pmid": "35747822",
+      "doi": "10.3389/fonc.2022.898774"
+    },
+    "body_chars": 22114,
+    "article_title": "Risk Factors for Biochemical Recurrence After PSMA-PET-Guided Definitive Radiotherapy in Patients With De Novo Lymph Node-Positive Prostate Cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9209705/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9209705/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "ab1139fd5cadedd807d369f9c7b1e69e704b53bc6ba9dfa6ab43ebc5ee3591da"
+  },
+  "PMID37652494": {
+    "id": "PMID37652494",
+    "seed_id": "A010",
+    "checked_at": "2026-09-14T09:30:18.947880+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC10500494",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.21873/invivo.13341: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.21873/invivo.13341",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10500494/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10500494/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.21873/invivo.13341",
+        "status": "access_restricted"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10500494/",
+    "index_open_access": false
+  },
+  "PMID32900626": {
+    "id": "PMID32900626",
+    "seed_id": "A015",
+    "checked_at": "2026-09-14T09:30:21.794377+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 970,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.urolonc.2020.08.018",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.urolonc.2020.08.018",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID33301015": {
+    "id": "PMID33301015",
+    "seed_id": "A016",
+    "checked_at": "2026-09-14T09:30:23.055858+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7729429",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7729429",
+      "pmcid-ver": "PMC7729429.1",
+      "pmcaid": "7729429",
+      "pmcaiid": "7729429",
+      "pmid": "33301015",
+      "doi": "10.1001/jamanetworkopen.2020.25143",
+      "publisher-id": "zoi200824"
+    },
+    "body_chars": 26216,
+    "article_title": "Analysis of Radiation Facility Volume and Survival in Men With Lymph Node–Positive Prostate Cancer Treated With Radiation and Androgen Deprivation Therapy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7729429/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7729429/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "379560a74f839d1a45dec31e53e1f42534120d8d895353f8d28aed8bedc05006"
+  },
+  "PMID29891203": {
+    "id": "PMID29891203",
+    "seed_id": "A017",
+    "checked_at": "2026-09-14T09:30:23.838715+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 887,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2018.04.023",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2018.04.023",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID24674370": {
+    "id": "PMID24674370",
+    "seed_id": "A019",
+    "checked_at": "2026-09-14T09:30:24.524315+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1046,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.prro.2012.11.011",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.prro.2012.11.011",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID15681524": {
+    "id": "PMID15681524",
+    "seed_id": "A020",
+    "checked_at": "2026-09-14T09:30:25.253953+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1200/jco.2005.08.141: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1200/jco.2005.08.141",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1200/jco.2005.08.141",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID25957435": {
+    "id": "PMID25957435",
+    "seed_id": "A018",
+    "checked_at": "2026-09-14T09:30:24.047468+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 80267,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1093/jnci/djv119",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1093/jnci/djv119",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID11444402": {
+    "id": "PMID11444402",
+    "seed_id": "A022",
+    "checked_at": "2026-09-14T09:30:26.780515+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 937,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.4065/76.7.702",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.4065/76.7.702",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID11489709": {
+    "id": "PMID11489709",
+    "seed_id": "A023",
+    "checked_at": "2026-09-14T09:30:28.013974+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 917,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s0090-4295(01)01168-2",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/s0090-4295(01)01168-2",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID7527796": {
+    "id": "PMID7527796",
+    "seed_id": "A025",
+    "checked_at": "2026-09-14T09:30:29.332852+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 890,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/0360-3016(94)00324-e",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/0360-3016(94)00324-e",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID9336149": {
+    "id": "PMID9336149",
+    "seed_id": "A024",
+    "checked_at": "2026-09-14T09:30:28.511775+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 917,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s0360-3016(97)00369-6",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/s0360-3016(97)00369-6",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID7542824": {
+    "id": "PMID7542824",
+    "seed_id": "A026",
+    "checked_at": "2026-09-14T09:30:30.681688+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 881,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s0090-4295(99)80196-4",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/s0090-4295(99)80196-4",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID15356680": {
+    "id": "PMID15356680",
+    "seed_id": "A021",
+    "checked_at": "2026-09-14T09:30:26.262565+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 79165,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1038/sj.pcan.4500751",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1038/sj.pcan.4500751",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42362416": {
+    "id": "PMID42362416",
+    "seed_id": "B002",
+    "checked_at": "2026-09-14T09:30:32.227068+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 909,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euf.2026.06.008",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euf.2026.06.008",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42005712": {
+    "id": "PMID42005712",
+    "seed_id": "B003",
+    "checked_at": "2026-09-14T09:30:32.709697+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC13091081",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC13091081",
+      "pmcid-ver": "PMC13091081.1",
+      "pmcaid": "13091081",
+      "pmcaiid": "13091081",
+      "pmid": "42005712",
+      "doi": "10.1016/j.ctro.2026.101161",
+      "pii": "S2405-6308(26)00056-X",
+      "publisher-id": "101161"
+    },
+    "body_chars": 29880,
+    "article_title": "Oncological outcomes following PSMA PET/CT-guided salvage whole-pelvis radiotherapy for recurrent prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13091081/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13091081/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "8ef594f59a471a9bf69cc80b615096601545f82441c44f638acfca55e2c86caa"
+  },
+  "PMID39929079": {
+    "id": "PMID39929079",
+    "seed_id": "B005",
+    "checked_at": "2026-09-14T09:30:35.416854+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1097/ju.0000000000004468: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1097/ju.0000000000004468",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/ju.0000000000004468",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID39733964": {
+    "id": "PMID39733964",
+    "seed_id": "B004",
+    "checked_at": "2026-09-14T09:30:33.598612+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1032,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.prro.2024.12.006",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.prro.2024.12.006",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40883115": {
+    "id": "PMID40883115",
+    "seed_id": "B006",
+    "checked_at": "2026-09-14T09:30:36.232599+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 912,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clgc.2025.102413",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clgc.2025.102413",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "DOI07e046102f40f016": {
+    "status": "body_obtained",
+    "url": "https://link.springer.com/content/pdf/10.1007/s12672-026-05458-3_reference.pdf",
+    "version": "出版社已接收待排版版本",
+    "verified_at": "2026-09-14T09:39:17.953429+00:00",
+    "method": "PDF文件头、正文及DOI对应核验",
+    "sha256": "bc3824faaad2b6e16494accd4fe4582c60e8b8db7ebd2f64a4dbb1e6fefb8577",
+    "body_chars": 52389,
+    "identity_match": true
+  },
+  "PMID35304077": {
+    "id": "PMID35304077",
+    "seed_id": "B009",
+    "checked_at": "2026-09-14T09:30:38.305456+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 972,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clgc.2022.01.018",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clgc.2022.01.018",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35485635": {
+    "id": "PMID35485635",
+    "seed_id": "B010",
+    "checked_at": "2026-09-14T09:30:39.872099+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9277249",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9277249",
+      "pmcid-ver": "PMC9277249.1",
+      "pmcaid": "9277249",
+      "pmcaiid": "9277249",
+      "pmid": "35485635",
+      "doi": "10.1111/cas.15383",
+      "publisher-id": "CAS15383"
+    },
+    "body_chars": 25464,
+    "article_title": "Radiotherapy plus androgen deprivation therapy for prostate‐specific antigen persistence in lymph node–positive prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9277249/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9277249/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "9ad1c29dc96ddc53862a3eb5227e9da3e01a48390ae122bf456180b7b1f5f85f"
+  },
+  "PMID35290082": {
+    "id": "PMID35290082",
+    "seed_id": "B011",
+    "checked_at": "2026-09-14T09:30:41.795092+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9273369",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9273369",
+      "pmcid-ver": "PMC9273369.1",
+      "pmcaid": "9273369",
+      "pmcaiid": "9273369",
+      "pmid": "35290082",
+      "doi": "10.1200/JCO.21.02800",
+      "publisher-id": "JCO.21.02800"
+    },
+    "body_chars": 20010,
+    "article_title": "Adjuvant Versus Early Salvage Radiation Therapy After Radical Prostatectomy for pN1 Prostate Cancer and the Risk of Death",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9273369/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9273369/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "cffa64349e47685641bccea2ccca8d71febdae665c7639ee3e6f7f5ae5635ea8"
+  },
+  "PMID36434164": {
+    "id": "PMID36434164",
+    "seed_id": "B007",
+    "checked_at": "2026-09-14T09:30:36.264954+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 80144,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1038/s41391-022-00619-1",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1038/s41391-022-00619-1",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID31653565": {
+    "id": "PMID31653565",
+    "seed_id": "B012",
+    "checked_at": "2026-09-14T09:30:42.917753+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC8142939",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 912,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8142939/",
+    "index_open_access": false
+  },
+  "PMID29720348": {
+    "id": "PMID29720348",
+    "seed_id": "B013",
+    "checked_at": "2026-09-14T09:30:44.414637+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 912,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2018.04.017",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2018.04.017",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID27859018": {
+    "id": "PMID27859018",
+    "seed_id": "B015",
+    "checked_at": "2026-09-14T09:30:46.861504+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1002/cncr.30373: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1002/cncr.30373",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1002/cncr.30373",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID29042125": {
+    "id": "PMID29042125",
+    "seed_id": "B014",
+    "checked_at": "2026-09-14T09:30:46.209379+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC6049832",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 968,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6049832/",
+    "index_open_access": false
+  },
+  "PMID29299174": {
+    "id": "PMID29299174",
+    "seed_id": "B016",
+    "checked_at": "2026-09-14T09:30:48.128281+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC5746409",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC5746409",
+      "pmcaid": "5746409",
+      "pmcaiid": "5746409",
+      "pmid": "29299174",
+      "doi": "10.18632/oncotarget.22610"
+    },
+    "body_chars": 32953,
+    "article_title": "Lymph node ratio determines the benefit of adjuvant radiotherapy in pathologically 3 or less lymph node-positive prostate cancer after radical prostatectomy: a population-based analysis with propensity-score matching",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5746409/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5746409/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "91753a85ffe4fef31d9bd3017a59b769154b838176d2e0776ea1324a7b9829ab"
+  },
+  "PMID27743493": {
+    "id": "PMID27743493",
+    "seed_id": "B017",
+    "checked_at": "2026-09-14T09:30:49.207224+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1111/bju.13679: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1111/bju.13679",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1111/bju.13679",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID21354694": {
+    "id": "PMID21354694",
+    "seed_id": "B019",
+    "checked_at": "2026-09-14T09:30:50.225563+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 962,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2011.02.024",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2011.02.024",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID25245445": {
+    "id": "PMID25245445",
+    "seed_id": "B018",
+    "checked_at": "2026-09-14T09:30:50.174173+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1200/jco.2013.54.7893: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1200/jco.2013.54.7893",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1200/jco.2013.54.7893",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID19211184": {
+    "id": "PMID19211184",
+    "seed_id": "B020",
+    "checked_at": "2026-09-14T09:30:51.995208+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 981,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2009.01.046",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2009.01.046",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42140755": {
+    "id": "PMID42140755",
+    "seed_id": "C002",
+    "checked_at": "2026-09-14T09:30:53.625078+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 964,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2026.111533",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2026.111533",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID41864432": {
+    "id": "PMID41864432",
+    "seed_id": "C001",
+    "checked_at": "2026-09-14T09:30:53.370486+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 987,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2026.03.020",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2026.03.020",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID41825803": {
+    "id": "PMID41825803",
+    "seed_id": "C004",
+    "checked_at": "2026-09-14T09:30:56.501218+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 951,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2026.111476",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2026.111476",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42691517": {
+    "id": "PMID42691517",
+    "seed_id": "C003",
+    "checked_at": "2026-09-14T09:30:55.479282+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1057,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.jmir.2026.102569",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.jmir.2026.102569",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID41565552": {
+    "id": "PMID41565552",
+    "seed_id": "C006",
+    "checked_at": "2026-09-14T09:30:58.273155+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1035,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2026.01.001",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2026.01.001",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID39676999": {
+    "id": "PMID39676999",
+    "seed_id": "C007",
+    "checked_at": "2026-09-14T09:31:04.390209+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11638620",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11638620",
+      "pmcaid": "11638620",
+      "pmcaiid": "11638620",
+      "pmid": "39676999",
+      "doi": "10.1016/j.ctro.2024.100896"
+    },
+    "body_chars": 22400,
+    "article_title": "Avoiding prostate bed radiation for the PSMA-PET detected nodal recurrence patient post prostatectomy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11638620/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11638620/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "026c358f89e6d62602c4e4b8a2a2f4e8a4148ad10a082ece6f06a297b3de2712"
+  },
+  "PMID40654037": {
+    "id": "PMID40654037",
+    "seed_id": "C008",
+    "checked_at": "2026-09-14T09:31:06.025040+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12337913",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12337913",
+      "pmcid-ver": "PMC12337913.1",
+      "pmcaid": "12337913",
+      "pmcaiid": "12337913",
+      "pmid": "40654037",
+      "doi": "10.1097/MOU.0000000000001322",
+      "publisher-id": "MOU350507"
+    },
+    "body_chars": 27911,
+    "article_title": "The role of radiotherapy in pelvic nodal recurrence following definitive treatment for prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12337913/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12337913/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "f16a2b3a948ebb52a80518f77994c25d3cd79a74ed54ccfa013b131e0f370f58"
+  },
+  "PMID36308526": {
+    "id": "PMID36308526",
+    "seed_id": "B008",
+    "checked_at": "2026-09-14T09:30:37.640364+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC11796632",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1007/s00432-022-04409-z: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "url": "https://doi.org/10.1007/s00432-022-04409-z",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00432-022-04409-z",
+        "status": "access_restricted"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11796632/",
+    "index_open_access": false
+  },
+  "PMID40339593": {
+    "id": "PMID40339593",
+    "seed_id": "C009",
+    "checked_at": "2026-09-14T09:31:07.530069+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 992,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s1470-2045(25)00197-4",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/s1470-2045(25)00197-4",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38490854": {
+    "id": "PMID38490854",
+    "seed_id": "C010",
+    "checked_at": "2026-09-14T09:31:12.389800+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 989,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2024.02.013",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2024.02.013",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40991040": {
+    "id": "PMID40991040",
+    "seed_id": "C011",
+    "checked_at": "2026-09-14T09:31:15.979849+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12460443",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12460443",
+      "pmcid-ver": "PMC12460443.1",
+      "pmcaid": "12460443",
+      "pmcaiid": "12460443",
+      "pmid": "40991040",
+      "doi": "10.1007/s00345-025-05950-5",
+      "publisher-id": "5950"
+    },
+    "body_chars": 22696,
+    "article_title": "PSMA-PET/CT-based salvage elective nodal radiotherapy for lymph node recurrence following radical prostatectomy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12460443/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12460443/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "9d415be6c60e0b65f7e9ac355cbeb7ae21d15464665f65692a601440e69966b8"
+  },
+  "PMID41472927": {
+    "id": "PMID41472927",
+    "seed_id": "C012",
+    "checked_at": "2026-09-14T09:31:16.842843+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12746252",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12746252",
+      "pmcaid": "12746252",
+      "pmcaiid": "12746252",
+      "pmid": "41472927",
+      "doi": "10.1016/j.prnil.2025.05.002"
+    },
+    "body_chars": 53115,
+    "article_title": "Oncologic outcomes of salvage radiotherapy and lymphadenectomy for positron emission tomography–positive lymph nodes in biochemical recurrence: A systematic review to inform treatment decisions",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12746252/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12746252/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "df70c05156ad11bd504efec0e21b5252fa38004987b3ae35a35324a1d2d0fcc7"
+  },
+  "PMID37863242": {
+    "id": "PMID37863242",
+    "seed_id": "C013",
+    "checked_at": "2026-09-14T09:31:17.465796+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 941,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2023.10.009",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2023.10.009",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID39525616": {
+    "id": "PMID39525616",
+    "seed_id": "C015",
+    "checked_at": "2026-09-14T09:31:19.669271+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11543566",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11543566",
+      "pmcid-ver": "PMC11543566.1",
+      "pmcaid": "11543566",
+      "pmcaiid": "11543566",
+      "pmid": "39525616",
+      "doi": "10.3389/fonc.2024.1468248"
+    },
+    "body_chars": 25599,
+    "article_title": "Nodal radiotherapy for prostate adenocarcinoma recurrence: predictive factors for efficacy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11543566/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11543566/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "b1e6f325bf2ee38f1c7255face164533cd24714cc3a6adf489300c5ebcee7c1b"
+  },
+  "PMID39484030": {
+    "id": "PMID39484030",
+    "seed_id": "C016",
+    "checked_at": "2026-09-14T09:31:21.270923+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11524995",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11524995",
+      "pmcid-ver": "PMC11524995.1",
+      "pmcaid": "11524995",
+      "pmcaiid": "11524995",
+      "pmid": "39484030",
+      "doi": "10.3389/fonc.2024.1434504"
+    },
+    "body_chars": 17742,
+    "article_title": "Safety and early efficacy of involved-field SBRT for nodal oligo-recurrent prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11524995/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11524995/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "b75b3fbae54aa066b93373d43a5552e8e69190fa76ec1280d64351a91d414f27"
+  },
+  "PMID37821242": {
+    "id": "PMID37821242",
+    "seed_id": "C017",
+    "checked_at": "2026-09-14T09:31:23.325159+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 932,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2023.09.007",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2023.09.007",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38893002": {
+    "id": "PMID38893002",
+    "seed_id": "C018",
+    "checked_at": "2026-09-14T09:31:25.669132+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11173227",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11173227",
+      "pmcid-ver": "PMC11173227.1",
+      "pmcaid": "11173227",
+      "pmcaiid": "11173227",
+      "pmid": "38893002",
+      "doi": "10.3390/jcm13113291",
+      "publisher-id": "jcm-13-03291"
+    },
+    "body_chars": 21127,
+    "article_title": "SBRT in Lymph-Nodal Oligometastases from Prostate Cancer: Different Outcomes between Pelvic and Para-Aortic Disease",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11173227/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11173227/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "f3839d96d138b3c4d0c1cc77541214a0a404f488096e0f33a5e895d3a5183437"
+  },
+  "PMID38940843": {
+    "id": "PMID38940843",
+    "seed_id": "C019",
+    "checked_at": "2026-09-14T09:31:27.331441+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11445306",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11445306",
+      "pmcid-ver": "PMC11445306.1",
+      "pmcaid": "11445306",
+      "pmcaiid": "11445306",
+      "pmid": "38940843",
+      "doi": "10.1007/s00259-024-06802-x",
+      "publisher-id": "6802"
+    },
+    "body_chars": 22068,
+    "article_title": "Whole pelvis vs. hemi pelvis elective nodal radiotherapy in patients with PSMA-positive nodal recurrence after radical prostatectomy - a retrospective multi-institutional propensity score analysis",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11445306/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11445306/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "b1a6e27d4ae51e70ee893bbf71e60ca49aeb3ab25dba4dae8417a0de0696ba4f"
+  },
+  "PMID39326304": {
+    "id": "PMID39326304",
+    "seed_id": "C020",
+    "checked_at": "2026-09-14T09:31:28.734407+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1000,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ejso.2024.108704",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ejso.2024.108704",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42693211": {
+    "id": "PMID42693211",
+    "seed_id": "C005",
+    "checked_at": "2026-09-14T09:30:57.914554+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1007/s00259-026-08147-z: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "url": "https://doi.org/10.1007/s00259-026-08147-z",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00259-026-08147-z",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID38384065": {
+    "id": "PMID38384065",
+    "seed_id": "C022",
+    "checked_at": "2026-09-14T09:31:31.938971+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 236164,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.4103/jcrt.jcrt_1493_22",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.4103/jcrt.jcrt_1493_22",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37747578": {
+    "id": "PMID37747578",
+    "seed_id": "C014",
+    "checked_at": "2026-09-14T09:31:18.348794+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1007/s00259-023-06445-4: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "url": "https://doi.org/10.1007/s00259-023-06445-4",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00259-023-06445-4",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37597125": {
+    "id": "PMID37597125",
+    "seed_id": "C021",
+    "checked_at": "2026-09-14T09:31:30.239020+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1007/s11547-023-01701-x: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "url": "https://doi.org/10.1007/s11547-023-01701-x",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s11547-023-01701-x",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37395949": {
+    "id": "PMID37395949",
+    "seed_id": "C023",
+    "checked_at": "2026-09-14T09:31:34.012998+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1007/s11934-023-01174-5: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "url": "https://doi.org/10.1007/s11934-023-01174-5",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s11934-023-01174-5",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID34757443": {
+    "id": "PMID34757443",
+    "seed_id": "C024",
+    "checked_at": "2026-09-14T09:31:56.403223+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 104448,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00066-021-01871-5",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00066-021-01871-5",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35671868": {
+    "id": "PMID35671868",
+    "seed_id": "C026",
+    "checked_at": "2026-09-14T09:32:20.043734+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 866,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2022.05.040",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2022.05.040",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID34628521": {
+    "id": "PMID34628521",
+    "seed_id": "C027",
+    "checked_at": "2026-09-14T09:32:21.082007+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC8921036",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC8921036",
+      "pmcid-ver": "PMC8921036.1",
+      "pmcaid": "8921036",
+      "pmcaiid": "8921036",
+      "pmid": "34628521",
+      "doi": "10.1007/s00259-021-05557-z",
+      "publisher-id": "5557"
+    },
+    "body_chars": 24613,
+    "article_title": "Outcome after PSMA-PET/CT-based salvage radiotherapy for nodal recurrence after radical prostatectomy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8921036/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8921036/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "d095e7ee20cf13a989145c7e491a17508476e2cc3727abe74e96177db76eedc2"
+  },
+  "PMID35980556": {
+    "id": "PMID35980556",
+    "seed_id": "C028",
+    "checked_at": "2026-09-14T09:32:21.734813+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9637632",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9637632",
+      "pmcaid": "9637632",
+      "pmcaiid": "9637632",
+      "pmid": "35980556",
+      "doi": "10.1007/s10585-022-10183-6"
+    },
+    "body_chars": 70718,
+    "article_title": "Stereotactic radiotherapy of nodal oligometastases from prostate cancer: a prisma-compliant systematic review",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9637632/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9637632/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "66852fbb8a7bbeffd7d1026d3403c6e9b6f571286a5397fb328986e66d29b563"
+  },
+  "PMID34247896": {
+    "id": "PMID34247896",
+    "seed_id": "C029",
+    "checked_at": "2026-09-14T09:32:22.916595+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 974,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2021.06.010",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2021.06.010",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32536241": {
+    "id": "PMID32536241",
+    "seed_id": "C030",
+    "checked_at": "2026-09-14T09:32:23.998693+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 3634,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1080/0284186x.2020.1775291",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1080/0284186x.2020.1775291",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32211942": {
+    "id": "PMID32211942",
+    "seed_id": "C032",
+    "checked_at": "2026-09-14T09:32:27.963208+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7305083",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7305083",
+      "pmcaid": "7305083",
+      "pmcaiid": "7305083",
+      "pmid": "32211942",
+      "doi": "10.1007/s00066-020-01605-z"
+    },
+    "body_chars": 38400,
+    "article_title": "PSMA-positive nodal recurrence in prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7305083/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7305083/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "4f3c067e687ddf71568f71c4590517077abf5b9a5016fb5e1bb407f6f205a594"
+  },
+  "PMID31331782": {
+    "id": "PMID31331782",
+    "seed_id": "C033",
+    "checked_at": "2026-09-14T09:32:29.540105+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1011,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2019.07.009",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2019.07.009",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32418156": {
+    "id": "PMID32418156",
+    "seed_id": "C031",
+    "checked_at": "2026-09-14T09:32:27.026885+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 90238,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s12094-020-02364-0",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s12094-020-02364-0",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID31500621": {
+    "id": "PMID31500621",
+    "seed_id": "C035",
+    "checked_at": "2026-09-14T09:32:37.652863+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC6734440",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC6734440",
+      "pmcid-ver": "PMC6734440.1",
+      "pmcaid": "6734440",
+      "pmcaiid": "6734440",
+      "pmid": "31500621",
+      "doi": "10.1186/s12894-019-0515-z",
+      "publisher-id": "515"
+    },
+    "body_chars": 21883,
+    "article_title": "Predictive factors for response to salvage stereotactic body radiotherapy in oligorecurrent prostate cancer limited to lymph nodes: a single institution experience",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6734440/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6734440/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "bfceebf3f5d7ad66051b7ddbb76c834e0f641870473874101f78b73a093fd8db"
+  },
+  "PMID29530632": {
+    "id": "PMID29530632",
+    "seed_id": "C036",
+    "checked_at": "2026-09-14T09:32:38.881690+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 983,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euf.2018.02.015",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euf.2018.02.015",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID34598843": {
+    "id": "PMID34598843",
+    "seed_id": "C025",
+    "checked_at": "2026-09-14T09:32:02.421174+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 955,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clon.2021.09.014",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clon.2021.09.014",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID30557672": {
+    "id": "PMID30557672",
+    "seed_id": "C037",
+    "checked_at": "2026-09-14T09:32:40.314390+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 976,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2018.12.020",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2018.12.020",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID28185875": {
+    "id": "PMID28185875",
+    "seed_id": "C039",
+    "checked_at": "2026-09-14T09:32:41.704952+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 964,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clgc.2017.01.004",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clgc.2017.01.004",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID30267117": {
+    "id": "PMID30267117",
+    "seed_id": "C034",
+    "checked_at": "2026-09-14T09:32:31.162328+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 97543,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00259-018-4159-0",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00259-018-4159-0",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID27133946": {
+    "id": "PMID27133946",
+    "seed_id": "C040",
+    "checked_at": "2026-09-14T09:32:43.424310+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 915,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clon.2016.04.040",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clon.2016.04.040",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID25604915": {
+    "id": "PMID25604915",
+    "seed_id": "C042",
+    "checked_at": "2026-09-14T09:32:45.968460+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 938,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clgc.2014.12.014",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clgc.2014.12.014",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID21528664": {
+    "id": "PMID21528664",
+    "seed_id": "C043",
+    "checked_at": "2026-09-14T09:32:47.350706+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 354374,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1177/030089161109700110",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1177/030089161109700110",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID27233779": {
+    "id": "PMID27233779",
+    "seed_id": "C038",
+    "checked_at": "2026-09-14T09:32:40.699090+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 85172,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00345-016-1860-0",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00345-016-1860-0",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42081701": {
+    "id": "PMID42081701",
+    "seed_id": "D001",
+    "checked_at": "2026-09-14T09:32:48.773090+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC13132049",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC13132049",
+      "pmcaid": "13132049",
+      "pmcaiid": "13132049",
+      "pmid": "42081701",
+      "doi": "10.1097/RLU.0000000000006418"
+    },
+    "body_chars": 42047,
+    "article_title": "Outcomes of Radiotherapy With or Without Dose Escalation to Lymph Node Metastases Detected by PET PSMA or Conventional Imaging in Node-Positive Prostate Cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13132049/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13132049/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "3740067773636269f2183db81e76916273f2b169825bc6b09a128c9807ef989d"
+  },
+  "PMID42519375": {
+    "id": "PMID42519375",
+    "seed_id": "D002",
+    "checked_at": "2026-09-14T09:32:50.164828+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC13382578",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC13382578",
+      "pmcaid": "13382578",
+      "pmcaiid": "13382578",
+      "pmid": "42519375",
+      "doi": "10.1016/j.adro.2026.102072"
+    },
+    "body_chars": 38241,
+    "article_title": "Hematological Toxicity and Bone Marrow Dose-Volume Effects in Chemotherapy-Naïve Patients Treated With Whole Pelvic and Para-aortic Lymph Node Radiation Therapy For Pathologic Pelvic Lymph Node–Positive Prostate Cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382578/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382578/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "f77991374148f1b3ed519784ffbe55ac164bbd229c60ecff5bc43b48f5b4c62f"
+  },
+  "PMID42201380": {
+    "id": "PMID42201380",
+    "seed_id": "D003",
+    "checked_at": "2026-09-14T09:32:50.167760+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC13421286",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC13421286",
+      "pmcaid": "13421286",
+      "pmcaiid": "13421286",
+      "pmid": "42201380",
+      "doi": "10.1007/s00259-026-07956-6"
+    },
+    "body_chars": 44092,
+    "article_title": "PROQURE-I: a phase I study adding concurrent [177Lu]Lu-PSMA-617 to EBRT and ADT in curative intent treatment of N1 prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13421286/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13421286/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "c4b39083c96d5a4813b529cc49da23bab7310afb887856394d1106ceef27a571"
+  },
+  "PMID25342516": {
+    "id": "PMID25342516",
+    "seed_id": "C041",
+    "checked_at": "2026-09-14T09:32:43.873329+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 92473,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00345-014-1427-x",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00345-014-1427-x",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40882818": {
+    "id": "PMID40882818",
+    "seed_id": "D004",
+    "checked_at": "2026-09-14T09:32:51.564421+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1032,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2025.111112",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2025.111112",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID39075567": {
+    "id": "PMID39075567",
+    "seed_id": "D005",
+    "checked_at": "2026-09-14T09:32:52.100688+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11285572",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11285572",
+      "pmcaid": "11285572",
+      "pmcaiid": "11285572",
+      "pmid": "39075567",
+      "doi": "10.1186/s40644-024-00742-3"
+    },
+    "body_chars": 25528,
+    "article_title": "Pelvic lymph node mapping in prostate cancer: examining the impact of PSMA PET/CT on radiotherapy decision-making in patients with node-positive disease",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11285572/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11285572/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "53ed0d1d3e3d80c4834a9a55218138f4f39e208f9c7497e1f79b543dea86ff64"
+  },
+  "PMID36536528": {
+    "id": "PMID36536528",
+    "seed_id": "D007",
+    "checked_at": "2026-09-14T09:32:53.048001+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10134326",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10134326",
+      "pmcid-ver": "PMC10134326.1",
+      "pmcaid": "10134326",
+      "pmcaiid": "10134326",
+      "pmid": "36536528",
+      "doi": "10.1002/cam4.5554",
+      "publisher-id": "CAM45554",
+      "other": "CAM4-2022-11-4914.R1"
+    },
+    "body_chars": 25702,
+    "article_title": "Ten‐year outcomes of whole‐pelvic intensity‐modulated radiation therapy for prostate cancer with regional lymph node metastasis",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10134326/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10134326/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "87e3a0783ddf4cd378e642c7069f9717038d5bc870f0027cc2dc0e64c68dfea7"
+  },
+  "PMID36732055": {
+    "id": "PMID36732055",
+    "seed_id": "D009",
+    "checked_at": "2026-09-14T09:32:54.696004+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.2967/jnumed.122.265159: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.2967/jnumed.122.265159",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.2967/jnumed.122.265159",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID37201758": {
+    "id": "PMID37201758",
+    "seed_id": "D008",
+    "checked_at": "2026-09-14T09:32:53.298914+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1048,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2023.05.017",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2023.05.017",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID35521072": {
+    "id": "PMID35521072",
+    "seed_id": "D011",
+    "checked_at": "2026-09-14T09:33:01.520088+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9061255",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9061255",
+      "pmcaid": "9061255",
+      "pmcaiid": "9061255",
+      "pmid": "35521072",
+      "doi": "10.1016/j.adro.2022.100944"
+    },
+    "body_chars": 29974,
+    "article_title": "Prostate-Centric Versus Bony-Centric Registration in the Definitive Treatment of Node-Positive Prostate Cancer with Simultaneous Integrated Boost: A Dosimetric Comparison",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9061255/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9061255/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "7f859aa63d838e64e757a3d61d453ae507d948516d4b9beaa3593b75b8374441"
+  },
+  "PMID36154809": {
+    "id": "PMID36154809",
+    "seed_id": "D006",
+    "checked_at": "2026-09-14T09:32:52.808265+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 971,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euf.2022.09.005",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euf.2022.09.005",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID34359768": {
+    "id": "PMID34359768",
+    "seed_id": "D012",
+    "checked_at": "2026-09-14T09:33:03.110816+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC8345592",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC8345592",
+      "pmcaid": "8345592",
+      "pmcaiid": "8345592",
+      "pmid": "34359768",
+      "doi": "10.3390/cancers13153868"
+    },
+    "body_chars": 47288,
+    "article_title": "Intensity-Modulated Radiation Therapy with Simultaneous Integrated Boost for Clinically Node-Positive Prostate Cancer: A Single-Institutional Retrospective Study",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8345592/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8345592/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "bbd3352b28506bdad85b9e51dd8aab41aaead0cf37679e599de8631b92119c4f"
+  },
+  "PMID34148727": {
+    "id": "PMID34148727",
+    "seed_id": "D013",
+    "checked_at": "2026-09-14T09:33:03.877401+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1038,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.meddos.2021.05.002",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.meddos.2021.05.002",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID33214044": {
+    "id": "PMID33214044",
+    "seed_id": "D014",
+    "checked_at": "2026-09-14T09:33:04.591486+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 881,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clon.2020.10.019",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clon.2020.10.019",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID33489887": {
+    "id": "PMID33489887",
+    "seed_id": "D015",
+    "checked_at": "2026-09-14T09:33:05.536500+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7820617",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7820617",
+      "pmcid-ver": "PMC7820617.1",
+      "pmcaid": "7820617",
+      "pmcaiid": "7820617",
+      "pmid": "33489887",
+      "doi": "10.3389/fonc.2020.590722"
+    },
+    "body_chars": 53127,
+    "article_title": "The Distribution of Pelvic Nodal Metastases in Prostate Cancer Reveals Potential to Advance and Personalize Pelvic Radiotherapy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7820617/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7820617/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "f35c2a3a117f29cc1d688e2577b46287432a675bfbf78e44e23c54a39a5e002a"
+  },
+  "PMID32624405": {
+    "id": "PMID32624405",
+    "seed_id": "D016",
+    "checked_at": "2026-09-14T09:33:06.190662+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1102,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.brachy.2020.05.007",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.brachy.2020.05.007",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32154392": {
+    "id": "PMID32154392",
+    "seed_id": "D017",
+    "checked_at": "2026-09-14T09:33:06.962231+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7056599",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7056599",
+      "pmcaid": "7056599",
+      "pmcaiid": "7056599",
+      "pmid": "32154392",
+      "doi": "10.1016/j.ctro.2020.02.006"
+    },
+    "body_chars": 30986,
+    "article_title": "Nodal recurrence patterns on PET/CT after RTOG-based nodal radiotherapy for prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7056599/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7056599/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "12b91850b131856781250471459cc1f52e580fa50f57c490d9737277076d0d73"
+  },
+  "PMID32750234": {
+    "id": "PMID32750234",
+    "seed_id": "D018",
+    "checked_at": "2026-09-14T09:33:07.605564+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7520291",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7520291",
+      "pmcid-ver": "PMC7520291.1",
+      "pmcaid": "7520291",
+      "pmcaiid": "7520291",
+      "pmid": "32750234",
+      "doi": "10.1002/cam4.2985",
+      "publisher-id": "CAM42985"
+    },
+    "body_chars": 22873,
+    "article_title": "Clinical outcomes of definitive whole pelvic radiotherapy for clinical lymph node metastatic prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7520291/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7520291/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "2c48d18f15043e9344b8fa960c07ea453cbceb8c49231fdf83455abde85b363e"
+  },
+  "PMID24252686": {
+    "id": "PMID24252686",
+    "seed_id": "D020",
+    "checked_at": "2026-09-14T09:33:08.949496+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC3842657",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC3842657",
+      "pmcid-ver": "PMC3842657.1",
+      "pmcaid": "3842657",
+      "pmcaiid": "3842657",
+      "pmid": "24252686",
+      "doi": "10.1186/1748-717X-8-271",
+      "publisher-id": "1748-717X-8-271"
+    },
+    "body_chars": 19374,
+    "article_title": "Low rate of lymphedema after extended pelvic lymphadenectomy followed by pelvic irradiation of node-positive prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3842657/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3842657/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "85f7626722498470b0f7a09c0f4f77b19b3f68279884a2ae89b7e44303897411"
+  },
+  "PMID30718087": {
+    "id": "PMID30718087",
+    "seed_id": "D019",
+    "checked_at": "2026-09-14T09:33:08.541751+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 875,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clon.2019.01.004",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clon.2019.01.004",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID21075555": {
+    "id": "PMID21075555",
+    "seed_id": "D021",
+    "checked_at": "2026-09-14T09:33:10.311455+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 902,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2010.09.023",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2010.09.023",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42276876": {
+    "id": "PMID42276876",
+    "seed_id": "F001",
+    "checked_at": "2026-09-14T09:33:10.647506+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1100,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2026.04.009",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2026.04.009",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID36280446": {
+    "id": "PMID36280446",
+    "seed_id": "D010",
+    "checked_at": "2026-09-14T09:32:57.681844+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1030,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2022.09.006",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2022.09.006",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID39725427": {
+    "id": "PMID39725427",
+    "seed_id": "F002",
+    "checked_at": "2026-09-14T09:33:11.714810+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11683931",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11683931",
+      "pmcid-ver": "PMC11683931.1",
+      "pmcaid": "11683931",
+      "pmcaiid": "11683931",
+      "pmid": "39725427",
+      "doi": "10.1136/bmjopen-2024-095560",
+      "publisher-id": "bmjopen-2024-095560"
+    },
+    "body_chars": 31314,
+    "article_title": "Pelvis Or Involved Node Treatment: Eradicating Recurrence in Prostate Cancer (POINTER-PC) – study protocol paper for a phase III multicentre, open-label randomised controlled trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11683931/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11683931/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "389df7d8fe4e6516969e86bb291bae4e823a3fc002a81226dc39aafed75abef2"
+  },
+  "PMID36959540": {
+    "id": "PMID36959540",
+    "seed_id": "F003",
+    "checked_at": "2026-09-14T09:33:12.258908+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10035228",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10035228",
+      "pmcid-ver": "PMC10035228.1",
+      "pmcaid": "10035228",
+      "pmcaiid": "10035228",
+      "pmid": "36959540",
+      "doi": "10.1186/s12885-023-10725-5",
+      "publisher-id": "10725"
+    },
+    "body_chars": 42930,
+    "article_title": "Tolerability of concurrent external beam radiotherapy and [177Lu]Lu-PSMA-617 for node-positive prostate cancer in treatment naïve patients, phase I study (PROQURE-I trial)",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10035228/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10035228/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "378d93ccaf7435e5f240aa3516282633b8532ad3e0f40bbb37067f1690bb4106"
+  },
+  "PMID32114475": {
+    "id": "PMID32114475",
+    "seed_id": "F004",
+    "checked_at": "2026-09-14T09:33:12.477822+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7050316",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7050316",
+      "pmcaid": "7050316",
+      "pmcaiid": "7050316",
+      "pmid": "32114475",
+      "doi": "10.1136/bmjopen-2019-034623"
+    },
+    "body_chars": 32385,
+    "article_title": "Study protocol of a randomised controlled trial of prostate radiotherapy in high-risk and node-positive disease comparing moderate and extreme hypofractionation (PRIME TRIAL)",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7050316/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7050316/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "da62b5b0f9236411d1e925bc6417a0a507aa8362fa5a2bd8a21501abf7ff35e2"
+  },
+  "PMID30545809": {
+    "id": "PMID30545809",
+    "seed_id": "F005",
+    "checked_at": "2026-09-14T09:33:13.302725+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC6315267",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC6315267",
+      "pmcaid": "6315267",
+      "pmcaiid": "6315267",
+      "pmid": "30545809",
+      "doi": "10.2196/11256"
+    },
+    "body_chars": 44434,
+    "article_title": "Benefits of Elective Para-Aortic Radiotherapy for pN1 Prostate Cancer Using Arc Therapy (Intensity-Modulated or Volumetric Modulated Arc Therapy): Protocol for a Nonrandomized Phase II Trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315267/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315267/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "253bcc1a9b9a21e7e86041af49a6a3c6aa8542e85957f2886ad9cc4e9c96d0c0"
+  },
+  "PMID42177994": {
+    "id": "PMID42177994",
+    "seed_id": "E002",
+    "checked_at": "2026-09-14T09:33:13.881352+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 973,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2026.111614",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2026.111614",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID41438100": {
+    "id": "PMID41438100",
+    "seed_id": "E001",
+    "checked_at": "2026-09-14T09:33:13.736008+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC12719672",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC12719672",
+      "pmcid-ver": "PMC12719672.1",
+      "pmcaid": "12719672",
+      "pmcaiid": "12719672",
+      "pmid": "41438100",
+      "doi": "10.1016/j.ctro.2025.101084",
+      "pii": "S2405-6308(25)00176-4",
+      "publisher-id": "101084"
+    },
+    "body_chars": 27730,
+    "article_title": "Pre-PROTO-PRIME: stereotactic body proton therapy to the prostate and pelvic nodes for high-risk and node-positive prostate cancer — feasibility, acute toxicity and dosimetric insights",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12719672/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12719672/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "c140c09f1cb9f5dd27f672f33c13a61fac17643baf5385e4195a428f17fae093"
+  },
+  "PMID41672869": {
+    "id": "PMID41672869",
+    "seed_id": "E003",
+    "checked_at": "2026-09-14T09:33:14.638192+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 998,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2025.12.001",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2025.12.001",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40049196": {
+    "id": "PMID40049196",
+    "seed_id": "E004",
+    "checked_at": "2026-09-14T09:33:15.279749+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 946,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s1470-2045(24)00730-7",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/s1470-2045(24)00730-7",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40446641": {
+    "id": "PMID40446641",
+    "seed_id": "E006",
+    "checked_at": "2026-09-14T09:33:16.231648+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 915,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.clgc.2025.102370",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.clgc.2025.102370",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID40750497": {
+    "id": "PMID40750497",
+    "seed_id": "E005",
+    "checked_at": "2026-09-14T09:33:15.934970+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC12921538",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 970,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2025.07.006",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2025.07.006",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921538/",
+    "index_open_access": false
+  },
+  "PMID38763153": {
+    "id": "PMID38763153",
+    "seed_id": "E007",
+    "checked_at": "2026-09-14T09:33:16.690886+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7616389",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7616389",
+      "pmcid-ver": "PMC7616389.1",
+      "pmcaid": "7616389",
+      "pmcaiid": "7616389",
+      "manuscript-id": "EMS197881",
+      "pmid": "38763153",
+      "doi": "10.1016/S0140-6736(24)00549-X",
+      "manuscript-id-alternative": "UKMS197881"
+    },
+    "body_chars": 25072,
+    "article_title": "Duration of androgen deprivation therapy with postoperative radiotherapy for prostate cancer: a comparison of long-course versus short-course androgen deprivation therapy in the RADICALS-HD randomised trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "fc236394215e43e1012aef53e87edc8a0f16513aeb5526ceb00ee52acf62d09b"
+  },
+  "PMID34953525": {
+    "id": "PMID34953525",
+    "seed_id": "E009",
+    "checked_at": "2026-09-14T09:33:18.218233+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC8811484",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC8811484",
+      "pmcid-ver": "PMC8811484.1",
+      "pmcaid": "8811484",
+      "pmcaiid": "8811484",
+      "pmid": "34953525",
+      "doi": "10.1016/S0140-6736(21)02437-5",
+      "pii": "S0140-6736(21)02437-5"
+    },
+    "body_chars": 42400,
+    "article_title": "Abiraterone acetate and prednisolone with or without enzalutamide for high-risk non-metastatic prostate cancer: a meta-analysis of primary results from two randomised controlled phase 3 trials of the STAMPEDE platform protocol",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8811484/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8811484/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "c60ef3f40803740af5f8881cc0c7954335591bd7a17544f7cc2414f9b255974c"
+  },
+  "PMID36001857": {
+    "id": "PMID36001857",
+    "seed_id": "E010",
+    "checked_at": "2026-09-14T09:33:18.234683+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10166371",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10166371",
+      "pmcid-ver": "PMC10166371.1",
+      "pmcaid": "10166371",
+      "pmcaiid": "10166371",
+      "pmid": "36001857",
+      "doi": "10.1200/JCO.22.00644",
+      "publisher-id": "JCO.22.00644"
+    },
+    "body_chars": 9038,
+    "article_title": "Long-Term Outcomes and Genetic Predictors of Response to Metastasis-Directed Therapy Versus Observation in Oligometastatic Prostate Cancer: Analysis of STOMP and ORIOLE Trials",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10166371/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10166371/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "fa7efcb9403b3b15313b5636f5e550ec65623316eeead8cb9a910958d65edc56"
+  },
+  "PMID37022702": {
+    "id": "PMID37022702",
+    "seed_id": "E008",
+    "checked_at": "2026-09-14T09:33:17.802851+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC10080407",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 104540,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1001/jamaoncol.2023.0161",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1001/jamaoncol.2023.0161",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10080407/",
+    "index_open_access": false
+  },
+  "PMID32215577": {
+    "id": "PMID32215577",
+    "seed_id": "E012",
+    "checked_at": "2026-09-14T09:33:20.224337+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7225913",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7225913",
+      "pmcaid": "7225913",
+      "pmcaiid": "7225913",
+      "pmid": "32215577",
+      "doi": "10.1001/jamaoncol.2020.0147"
+    },
+    "body_chars": 34060,
+    "article_title": "Outcomes of Observation vs Stereotactic Ablative Radiation for Oligometastatic Prostate Cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7225913/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7225913/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "5e612e8d3362b18009cc05744f7e81235bf6c8d6dca727d52df624633a75c047"
+  },
+  "PMID29240541": {
+    "id": "PMID29240541",
+    "seed_id": "E013",
+    "checked_at": "2026-09-14T09:33:21.253093+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1200/jco.2017.75.4853: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1200/jco.2017.75.4853",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1200/jco.2017.75.4853",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID26606329": {
+    "id": "PMID26606329",
+    "seed_id": "E015",
+    "checked_at": "2026-09-14T09:33:22.447569+00:00",
+    "body_confirmed": false,
+    "pmcid": "PMC4789485",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 86208,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1001/jamaoncol.2015.4350",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML",
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML: HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://doi.org/10.1001/jamaoncol.2015.4350",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4789485/",
+    "index_open_access": false
+  },
+  "PMID34494172": {
+    "id": "PMID34494172",
+    "seed_id": "E011",
+    "checked_at": "2026-09-14T09:33:19.858423+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 96427,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s10147-021-02023-6",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s10147-021-02023-6",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID27598803": {
+    "id": "PMID27598803",
+    "seed_id": "E016",
+    "checked_at": "2026-09-14T09:33:28.374142+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1005,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2016.06.011",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2016.06.011",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID24661660": {
+    "id": "PMID24661660",
+    "seed_id": "E017",
+    "checked_at": "2026-09-14T09:33:28.493921+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 906,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.ijrobp.2014.01.008",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.ijrobp.2014.01.008",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID28101585": {
+    "id": "PMID28101585",
+    "seed_id": "E014",
+    "checked_at": "2026-09-14T09:33:21.661716+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 97993,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00066-016-1094-5",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00066-016-1094-5",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID18544987": {
+    "id": "PMID18544987",
+    "seed_id": "E018",
+    "checked_at": "2026-09-14T09:33:29.997670+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 18471,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1159/000139880",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1159/000139880",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID42028344": {
+    "id": "PMID42028344",
+    "seed_id": "X001",
+    "checked_at": "2026-09-14T09:56:47.648139+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC13101549",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC13101549",
+      "pmcid-ver": "PMC13101549.1",
+      "pmcaid": "13101549",
+      "pmcaiid": "13101549",
+      "pmid": "42028344",
+      "doi": "10.1016/j.ctro.2026.101168",
+      "pii": "S2405-6308(26)00063-7",
+      "publisher-id": "101168"
+    },
+    "body_chars": 20011,
+    "article_title": "Outcomes of stereotactic body radiotherapy for supraclavicular lymph node metastasis among patients with metastatic prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13101549/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13101549/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "c8816f701df6c7397b23e98fb2f447e9f2caf2a3ba9a42574f8c9836efe53017"
+  },
+  "PMID40114834": {
+    "id": "PMID40114834",
+    "seed_id": "X002",
+    "checked_at": "2026-09-14T09:56:47.648902+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11921305",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11921305",
+      "pmcid-ver": "PMC11921305.1",
+      "pmcaid": "11921305",
+      "pmcaiid": "11921305",
+      "pmid": "40114834",
+      "doi": "10.21037/tau-24-489",
+      "publisher-id": "tau-14-02-228"
+    },
+    "body_chars": 23840,
+    "article_title": "Clinical characteristics and prognostic factors of low metastatic burden prostate cancer with non-regional lymph node metastases: role of cytoreductive radiotherapy?",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11921305/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11921305/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "75d5cc06d1a5d1c1ca4f0422142ad385e5974020f00e46761b3c8bc7dfd3b9b1"
+  },
+  "PMID39895963": {
+    "id": "PMID39895963",
+    "seed_id": "X004",
+    "checked_at": "2026-09-14T09:56:49.271836+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC11785391",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC11785391",
+      "pmcaid": "11785391",
+      "pmcaiid": "11785391",
+      "pmid": "39895963",
+      "doi": "10.5603/rpor.101528"
+    },
+    "body_chars": 30646,
+    "article_title": "Stereotactic ablative radiotherapy (SABR) for pelvic nodal oligorecurrence in prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11785391/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11785391/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "e0475940bd4d39a66814b9509fc470be9c2037240f9a541697a677756c7592b8"
+  },
+  "PMID36483057": {
+    "id": "PMID36483057",
+    "seed_id": "X005",
+    "checked_at": "2026-09-14T09:56:49.737213+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9723301",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9723301",
+      "pmcaid": "9723301",
+      "pmcaiid": "9723301",
+      "pmid": "36483057",
+      "doi": "10.1016/j.adro.2022.101040"
+    },
+    "body_chars": 37587,
+    "article_title": "Salvage Involved-Field and Extended-Field Radiation Therapy in Positron Emission Tomography–Positive Nodal Recurrent Prostate Cancer: Outcomes and Patterns of Failure",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9723301/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9723301/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "3062607280188f055051dfc2df626770421e06bc15fce314ce03bdb599fc80b5"
+  },
+  "PMID40581618": {
+    "id": "PMID40581618",
+    "seed_id": "X003",
+    "checked_at": "2026-09-14T09:56:47.648959+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 97414,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1093/bjr/tqaf142",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1093/bjr/tqaf142",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID36605290": {
+    "id": "PMID36605290",
+    "seed_id": "X006",
+    "checked_at": "2026-09-14T09:56:50.614131+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9807861",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9807861",
+      "pmcaid": "9807861",
+      "pmcaiid": "9807861",
+      "pmid": "36605290",
+      "doi": "10.1016/j.ctro.2022.100571"
+    },
+    "body_chars": 36234,
+    "article_title": "Elective nodal radiotherapy with a gapless radiation field junction for oligorecurrent prostate cancer after previous radiotherapy",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9807861/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9807861/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "ff67ddbac7c93ba4f89cf5361d8454b9e1385e4abe19f50cc4ece9b9b504d549"
+  },
+  "PMID37629732": {
+    "id": "PMID37629732",
+    "seed_id": "X008",
+    "checked_at": "2026-09-14T09:56:51.098181+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10456704",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10456704",
+      "pmcaid": "10456704",
+      "pmcaiid": "10456704",
+      "pmid": "37629732",
+      "doi": "10.3390/medicina59081442"
+    },
+    "body_chars": 30412,
+    "article_title": "Stereotactic Body Radiotherapy for Lymph-Nodal Oligometastatic Prostate Cancer: A Multicenter Retrospective Experience",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10456704/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10456704/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "0604d9db87e1acf4e544669c37a5f36b7172dfa6f5e26505e8636ce8946d9b2c"
+  },
+  "PMID37035766": {
+    "id": "PMID37035766",
+    "seed_id": "X007",
+    "checked_at": "2026-09-14T09:56:51.078251+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10077404",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10077404",
+      "pmcid-ver": "PMC10077404.1",
+      "pmcaid": "10077404",
+      "pmcaiid": "10077404",
+      "pmid": "37035766",
+      "doi": "10.1259/bjro.20220030"
+    },
+    "body_chars": 26897,
+    "article_title": "Outcomes following external beam radiotherapy to the prostate and pelvic lymph nodes in addition to androgen deprivation therapy in non-metastatic prostate adenocarcinoma with regional lymph node involvement: a retrospective cohort study",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10077404/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10077404/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "a12d562c513de181ff3fcb82ee5671427d17556952cf1aeb2af75c318935ce32"
+  },
+  "PMID35954430": {
+    "id": "PMID35954430",
+    "seed_id": "X011",
+    "checked_at": "2026-09-14T09:56:53.014923+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC9367596",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC9367596",
+      "pmcid-ver": "PMC9367596.1",
+      "pmcaid": "9367596",
+      "pmcaiid": "9367596",
+      "pmid": "35954430",
+      "doi": "10.3390/cancers14153766",
+      "publisher-id": "cancers-14-03766"
+    },
+    "body_chars": 21820,
+    "article_title": "Salvage Nodal Radiotherapy as Metastasis-Directed Therapy for Oligorecurrent Prostate Cancer Detected by Positron Emission Tomography Shows Favorable Outcome in Long-Term Follow-Up",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9367596/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9367596/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "d5499fe9d4a217ae9134aeae9093dc7e8fca3c27373e4cfb52c4f3e229fc031a"
+  },
+  "PMID38047214": {
+    "id": "PMID38047214",
+    "seed_id": "X009",
+    "checked_at": "2026-09-14T09:56:51.895767+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC10692293",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC10692293",
+      "pmcaid": "10692293",
+      "pmcaiid": "10692293",
+      "pmid": "38047214",
+      "doi": "10.1016/j.adro.2023.101290"
+    },
+    "body_chars": 28790,
+    "article_title": "Elective Nodal Irradiation for Oligorecurrent Nodal Prostate Cancer: Interobserver Variability in the PEACE V-STORM Randomized Phase 2 Trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10692293/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10692293/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "35cb171bec354d436be93949298da26caf91ea70476bc8a8cc1898b9d067c68c"
+  },
+  "PMID35476942": {
+    "id": "PMID35476942",
+    "seed_id": "X010",
+    "checked_at": "2026-09-14T09:56:52.868192+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 917,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2022.04.020",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2022.04.020",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID33386290": {
+    "id": "PMID33386290",
+    "seed_id": "X013",
+    "checked_at": "2026-09-14T09:56:54.798316+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 947,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euf.2020.12.010",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euf.2020.12.010",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32451312": {
+    "id": "PMID32451312",
+    "seed_id": "X012",
+    "checked_at": "2026-09-14T09:56:54.621681+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 953,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.euo.2020.04.004",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.euo.2020.04.004",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32398040": {
+    "id": "PMID32398040",
+    "seed_id": "X016",
+    "checked_at": "2026-09-14T09:56:56.614184+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7216526",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7216526",
+      "pmcid-ver": "PMC7216526.1",
+      "pmcaid": "7216526",
+      "pmcaiid": "7216526",
+      "pmid": "32398040",
+      "doi": "10.1186/s12885-020-06911-4",
+      "publisher-id": "6911"
+    },
+    "body_chars": 34485,
+    "article_title": "PEACE V – Salvage Treatment of OligoRecurrent nodal prostate cancer Metastases (STORM): a study protocol for a randomized controlled phase II trial",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7216526/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7216526/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "235f7b77a8fececb2526fd580eb5865df59bfc47181cbbbc8b96c3083384a582"
+  },
+  "PMID34323648": {
+    "id": "PMID34323648",
+    "seed_id": "X014",
+    "checked_at": "2026-09-14T09:56:56.281349+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 3910,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1080/0284186x.2021.1955970",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1080/0284186x.2021.1955970",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID32583860": {
+    "id": "PMID32583860",
+    "seed_id": "X017",
+    "checked_at": "2026-09-14T09:56:58.179602+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC7336814",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC7336814",
+      "pmcaid": "7336814",
+      "pmcaiid": "7336814",
+      "pmid": "32583860",
+      "doi": "10.1093/jrr/rraa044"
+    },
+    "body_chars": 26871,
+    "article_title": "Long-term clinical outcomes of salvage pelvic radiation therapy for oligo-recurrent pelvic lymph nodes after definitive external-beam radiation therapy for non-metastatic prostate cancer",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7336814/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7336814/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "e18439b0caabe198da4a50ec6d7418acdd294f84581f09d73d8c295d5e647b49"
+  },
+  "PMID29626845": {
+    "id": "PMID29626845",
+    "seed_id": "X018",
+    "checked_at": "2026-09-14T09:56:58.219969+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1111/bju.14241: HTTP Error 403: Forbidden",
+    "url": "https://doi.org/10.1111/bju.14241",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1111/bju.14241",
+        "status": "access_restricted"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID30503072": {
+    "id": "PMID30503072",
+    "seed_id": "X019",
+    "checked_at": "2026-09-14T09:56:59.488953+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 956,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.eururo.2018.10.044",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.eururo.2018.10.044",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID31177044": {
+    "id": "PMID31177044",
+    "seed_id": "X020",
+    "checked_at": "2026-09-14T09:57:00.859881+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 944,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.radonc.2019.05.016",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.radonc.2019.05.016",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID31673659": {
+    "id": "PMID31673659",
+    "seed_id": "X021",
+    "checked_at": "2026-09-14T09:57:01.636764+00:00",
+    "body_confirmed": true,
+    "pmcid": "PMC6817538",
+    "status": "body_obtained",
+    "found_ids": {
+      "pmcid": "PMC6817538",
+      "pmcaid": "6817538",
+      "pmcaiid": "6817538",
+      "pmid": "31673659",
+      "doi": "10.1016/j.adro.2019.06.006"
+    },
+    "body_chars": 32021,
+    "article_title": "11C-Choline PET Guided Salvage Radiation Therapy for Isolated Pelvic and Paraortic Nodal Recurrence of Prostate Cancer After Radical Prostatectomy: Rationale and Early Genitourinary or Gastrointestinal Toxicities",
+    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6817538/fullTextXML",
+    "attempts": [
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6817538/fullTextXML",
+        "status": "body_obtained"
+      }
+    ],
+    "body_sha256": "307a9c35d22706e7588031255ffc6eed2a0d9f9842a8d30c662566ccbf42f38f"
+  },
+  "PMID34651242": {
+    "id": "PMID34651242",
+    "seed_id": "X015",
+    "checked_at": "2026-09-14T09:56:56.417006+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 95754,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s10585-021-10126-7",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s10585-021-10126-7",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID29315174": {
+    "id": "PMID29315174",
+    "seed_id": "X022",
+    "checked_at": "2026-09-14T09:57:02.449711+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 166887,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1097/coc.0000000000000419",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1097/coc.0000000000000419",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID26895459": {
+    "id": "PMID26895459",
+    "seed_id": "X024",
+    "checked_at": "2026-09-14T09:57:03.174994+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 912,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.advms.2016.01.003",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.advms.2016.01.003",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  },
+  "PMID25326142": {
+    "id": "PMID25326142",
+    "seed_id": "X025",
+    "checked_at": "2026-09-14T09:57:05.111437+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 96846,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s00066-014-0763-5",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s00066-014-0763-5",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false
+  }
+}

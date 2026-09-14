@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+data/candidates/
+data/sources/*
+!data/sources/fulltext_checks.json
+!data/sources/crossref.json
+!data/sources/crossref_relations.json
+!data/sources/corrections.json

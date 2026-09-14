@@ -1,0 +1,821 @@
+[
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2026.04.014",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:39.090567+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.annonc.2025.12.009",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:39.382931+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2026.04.013",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:39.493457+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12427371/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:41.166947+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1097/ju.0000000000003891",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:29:42.552637+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1097/ju.0000000000003890",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:29:43.829536+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2023.09.002",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:44.017341+00:00"
+  },
+  {
+    "url": "https://doi.org/10.56434/j.arch.esp.urol.20237610.88",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:45.468707+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2022.10.002",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:46.028490+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10251924/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:47.093237+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1097/mou.0000000000000946",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:48.367351+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8988794/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:48.763797+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7736505/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:29:49.186517+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8219546/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:50.048200+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2020.08.034",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:50.622760+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7478562/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:51.699462+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2019.02.001",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:53.053710+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.canrad.2025.104619",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:54.386404+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11932344/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:29:56.256543+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2025.06.3858",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:07.515405+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12277652/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:08.899984+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10876493/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:10.415352+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11215505/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:13.040316+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11001889/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:14.539038+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.semradonc.2025.04.013",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:17.317684+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.radonc.2023.109746",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:18.946976+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1097/rlu.0000000000005284",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:19.273542+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2020.08.005",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:19.995949+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1111/1754-9485.13534",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:20.379439+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10500494/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:30:20.804491+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9311819/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:21.429737+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2022.07.011",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:21.793473+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9209705/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:23.048722+00:00"
+  },
+  {
+    "url": "https://doi.org/10.21873/invivo.13341",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:23.838685+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.urolonc.2020.08.018",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:24.046593+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7729429/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:24.515377+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2018.04.023",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:25.252812+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.prro.2012.11.011",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:26.261728+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1200/jco.2005.08.141",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:26.780356+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1093/jnci/djv119",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:27.998757+00:00"
+  },
+  {
+    "url": "https://doi.org/10.4065/76.7.702",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:28.510775+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/s0090-4295(01)01168-2",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:29.331914+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/0360-3016(94)00324-e",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:30.680846+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/s0360-3016(97)00369-6",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:31.640999+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/s0090-4295(99)80196-4",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:32.226497+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1038/sj.pcan.4500751",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:32.699585+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euf.2026.06.008",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:33.597767+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13091081/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:35.410417+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1097/ju.0000000000004468",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:36.232567+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.prro.2024.12.006",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:36.264705+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clgc.2025.102413",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:37.640074+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s12672-026-05458-3",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:38.302731+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:30:38.522820+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clgc.2022.01.018",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:39.871826+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9277249/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:41.784597+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9273369/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:42.915637+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:30:43.653289+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1038/s41391-022-00619-1",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:44.410866+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:46.209084+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2018.04.017",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:46.861230+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:30:47.156939+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1002/cncr.30373",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:48.128247+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:49.206950+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5746409/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:50.171363+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1111/bju.13679",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:50.225491+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2011.02.024",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:51.992257+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1200/jco.2013.54.7893",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:30:53.370453+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2009.01.046",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:53.624819+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.radonc.2026.111533",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:55.478584+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2026.03.020",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:56.500920+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.radonc.2026.111476",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:57.914035+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jmir.2026.102569",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:30:58.272888+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2026.01.001",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:04.389258+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11638620/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:06.023187+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12337913/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:07.524712+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00432-022-04409-z",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "attempted_at": "2026-09-14T09:31:12.389716+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/s1470-2045(25)00197-4",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:15.979530+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2024.02.013",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:16.842518+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12460443/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:17.463273+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12746252/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:18.342212+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2023.10.009",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:19.668960+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11543566/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:21.264608+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11524995/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:23.322945+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2023.09.007",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:25.668812+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11173227/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:27.329383+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11445306/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:28.730397+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ejso.2024.108704",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:30.238742+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00259-026-08147-z",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "attempted_at": "2026-09-14T09:31:31.938905+00:00"
+  },
+  {
+    "url": "https://doi.org/10.4103/jcrt.jcrt_1493_22",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:31:34.003835+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00259-023-06445-4",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "attempted_at": "2026-09-14T09:31:56.403030+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s11547-023-01701-x",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "attempted_at": "2026-09-14T09:32:02.420990+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s11934-023-01174-5",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "attempted_at": "2026-09-14T09:32:20.043563+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00066-021-01871-5",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:21.068364+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2022.05.040",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:21.733900+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8921036/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:22.908112+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9637632/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:23.985153+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2021.06.010",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:27.025674+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1080/0284186x.2020.1775291",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:27.961146+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7305083/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:29.530557+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2019.07.009",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:31.161691+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s12094-020-02364-0",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:37.640510+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6734440/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:38.878781+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euf.2018.02.015",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:40.314128+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clon.2021.09.014",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:40.698168+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2018.12.020",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:41.704032+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clgc.2017.01.004",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:43.423544+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00259-018-4159-0",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:43.859082+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clon.2016.04.040",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:45.967478+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clgc.2014.12.014",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:47.350216+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1177/030089161109700110",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:48.751622+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00345-016-1860-0",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:50.150892+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13132049/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:50.159475+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382578/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:51.553239+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13421286/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:52.090440+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00345-014-1427-x",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:52.795479+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.radonc.2025.111112",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:53.047099+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11285572/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:53.290899+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10134326/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:32:54.687773+00:00"
+  },
+  {
+    "url": "https://doi.org/10.2967/jnumed.122.265159",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:32:57.681673+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2023.05.017",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:01.519231+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9061255/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:03.103012+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euf.2022.09.005",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:03.876242+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8345592/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:04.581166+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.meddos.2021.05.002",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:05.535650+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clon.2020.10.019",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:06.189952+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7820617/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:06.952568+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.brachy.2020.05.007",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:07.604717+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7056599/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:08.535145+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7520291/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:08.941751+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3842657/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:10.302885+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clon.2019.01.004",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:10.646572+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2010.09.023",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:11.713839+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2026.04.009",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:12.258118+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.euo.2022.09.006",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:12.476355+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11683931/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:13.294718+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10035228/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:13.726602+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7050316/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:13.873142+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315267/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:14.634382+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.radonc.2026.111614",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:15.278799+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12719672/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:15.928148+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2025.12.001",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:16.230966+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/s1470-2045(24)00730-7",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:16.690026+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:33:16.784222+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.clgc.2025.102370",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:17.801903+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eururo.2025.07.006",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:18.217316+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:18.227474+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:33:18.607260+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8811484/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:19.846042+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10166371/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:20.218103+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1001/jamaoncol.2023.0161",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:21.236664+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7225913/fullTextXML",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:21.652984+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1200/jco.2017.75.4853",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "attempted_at": "2026-09-14T09:33:22.447409+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "attempted_at": "2026-09-14T09:33:23.232817+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1001/jamaoncol.2015.4350",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:28.359776+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s10147-021-02023-6",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:28.481184+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2016.06.011",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:29.996862+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijrobp.2014.01.008",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:30.376422+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1007/s00066-016-1094-5",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:32.291589+00:00"
+  },
+  {
+    "url": "https://doi.org/10.1159/000139880",
+    "status": "ok",
+    "retrieved_at": "2026-09-14T09:33:47.062597+00:00"
+  }
+]

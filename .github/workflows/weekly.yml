@@ -1,0 +1,117 @@
+name: Weekly literature update
+on:
+  schedule:
+    - cron: '17 1 * * 1'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'auto=monthly history when due; republish=last validated snapshot'
+        type: choice
+        options: [auto, weekly, history, republish]
+        default: auto
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: prostate-literature-update
+  cancel-in-progress: false
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore durable state branch
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git worktree add /tmp/prostate-state origin/data
+            cp -a /tmp/prostate-state/state/. data/
+          else
+            git worktree add --detach /tmp/prostate-state HEAD
+            git -C /tmp/prostate-state switch --orphan data
+          fi
+          python - <<'PY'
+          import json,os
+          p='config/search.json'
+          c=json.load(open(p));repo=os.environ['GITHUB_REPOSITORY']
+          c['receipt_url']=f'https://raw.githubusercontent.com/{repo}/data/state/publication-status.json'
+          c['deployment']='github_pages_configured'
+          open(p,'w').write(json.dumps(c,ensure_ascii=False,indent=2))
+          PY
+      - name: Verify code and failure guards
+        run: python -m unittest discover -s tests -v
+      - name: Update sources and validate snapshot
+        id: update
+        env:
+          UPDATE_MODE: ${{ inputs.mode || 'auto' }}
+        run: |
+          if [ "$UPDATE_MODE" != 'republish' ]; then
+            python scripts/update.py --mode "$UPDATE_MODE"
+          fi
+          python scripts/build.py
+      - name: Persist validated source progress before deployment
+        if: always() && steps.update.outcome != 'skipped'
+        id: persistence
+        run: |
+          python scripts/persist.py /tmp/prostate-state/state
+          git -C /tmp/prostate-state add state
+          if ! git -C /tmp/prostate-state diff --cached --quiet; then
+            git -C /tmp/prostate-state commit -m 'Persist literature update state'
+            git push origin "$(git -C /tmp/prostate-state rev-parse HEAD):refs/heads/data"
+          fi
+      - uses: actions/configure-pages@v5
+        if: success()
+      - uses: actions/upload-pages-artifact@v3
+        if: success()
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        if: success()
+        id: deployment
+      - name: Verify real deployed HTML and its embedded data
+        id: verify
+        if: success()
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: python scripts/verify_deployment.py "$SITE_URL"
+      - name: Save post-deployment outcome without preclaiming success
+        if: always()
+        env:
+          VERIFY_OUTCOME: ${{ steps.verify.outcome }}
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ "$VERIFY_OUTCOME" = 'success' ]; then
+            python scripts/publication.py published --url "$SITE_URL"
+          else
+            python scripts/publication.py failed
+          fi
+          python scripts/persist.py /tmp/prostate-state/state
+          git -C /tmp/prostate-state add state
+          if ! git -C /tmp/prostate-state diff --cached --quiet; then
+            git -C /tmp/prostate-state commit -m 'Record verified publication outcome'
+            git push origin "$(git -C /tmp/prostate-state rev-parse HEAD):refs/heads/data"
+          fi
+      - name: Keep run logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: literature-run-${{ github.run_id }}
+          path: |
+            data/reports/
+            data/runs/
+            data/publication-status.json
+          retention-days: 90

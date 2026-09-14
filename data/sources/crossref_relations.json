@@ -1,0 +1,158 @@
+{
+  "PMID42457454": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:04.667905+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2026.04.013",
+    "doi": "10.1016/j.eururo.2026.04.013",
+    "title": [
+      "EAU–EANM–ESTRO–ESUR–ISUP–SIOG Guidelines on Prostate Cancer—2026 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42457456": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:05.813059+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2026.04.014",
+    "doi": "10.1016/j.eururo.2026.04.014",
+    "title": [
+      "EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer. Part II—2026 Update: Treatment of Relapsing and Metastatic Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41421764": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:07.034087+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.annonc.2025.12.009",
+    "doi": "10.1016/j.annonc.2025.12.009",
+    "title": [
+      "Local and locoregional prostate cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40516971": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:07.940993+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.semradonc.2025.04.013",
+    "doi": "10.1016/j.semradonc.2025.04.013",
+    "title": [
+      "Radiation Therapy in Node-Positive Prostate Cancer: Current Evidence and Future Directions"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40940889": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:08.842014+00:00",
+    "url": "https://api.crossref.org/works/10.3390%2Fcancers17172792",
+    "doi": "10.3390/cancers17172792",
+    "title": [
+      "A Narrative Review of Treatment Options for Patients with Node-Positive Disease After Radical Prostatectomy: Current Evidence and Controversies"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38421252": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:09.761928+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Fju.0000000000003890",
+    "doi": "10.1097/ju.0000000000003890",
+    "title": [
+      "Salvage Therapy for Prostate Cancer: AUA/ASTRO/SUO Guideline Part III: Salvage Therapy After Radiotherapy or Focal Therapy, Pelvic Nodal Recurrence and Oligometastasis, and Future Directions"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38421243": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:10.638493+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Fju.0000000000003891",
+    "doi": "10.1097/ju.0000000000003891",
+    "title": [
+      "Salvage Therapy for Prostate Cancer: AUA/ASTRO/SUO Guideline Part II: Treatment Delivery for Non-metastatic Biochemical Recurrence After Primary Radical Prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37730526": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:11.322301+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2023.09.002",
+    "doi": "10.1016/j.euo.2023.09.002",
+    "title": [
+      "Local Therapy on Clinically Lymph Node–positive Prostate Cancer: A Systematic Review and Meta-analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38186065": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:12.002420+00:00",
+    "url": "https://api.crossref.org/works/10.56434%2Fj.arch.esp.urol.20237610.88",
+    "doi": "10.56434/j.arch.esp.urol.20237610.88",
+    "title": [
+      "Role of Radiotherapy and Hormone Therapy in Patients with Node-Positive Locally Advanced Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36372736": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:18.895677+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2022.10.002",
+    "doi": "10.1016/j.euo.2022.10.002",
+    "title": [
+      "Role of Local and/or Metastasis-directed Therapy in Patients with Hormone-sensitive M1a Prostate Cancer—A Systematic Review"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37296924": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:26.649129+00:00",
+    "url": "https://api.crossref.org/works/10.3390%2Fcancers15112962",
+    "doi": "10.3390/cancers15112962",
+    "title": [
+      "Treating Primary Node-Positive Prostate Cancer: A Scoping Review of Available Treatment Options"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34812201": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:17:27.547225+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Fmou.0000000000000946",
+    "doi": "10.1097/mou.0000000000000946",
+    "title": [
+      "Features and management of men with pN1 cM0 prostate cancer after radical prostatectomy and lymphadenectomy: a systematic review of population-based evidence"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  }
+}

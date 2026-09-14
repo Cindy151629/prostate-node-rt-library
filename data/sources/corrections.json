@@ -1,0 +1,209 @@
+{
+  "40341922": {
+    "metadata": {
+      "pmid": "40341922",
+      "title": "Correction to: Prostate dose escalation may positively impact survival in patients with clinically node-positive prostate cancer definitively treated by radiotherapy: surveillance study of the Japanese Radiation Oncology Study Group (JROSG).",
+      "authors": [],
+      "journal": "Journal of radiation research",
+      "journal_abbr": "J Radiat Res",
+      "year": "2025",
+      "publication_date_parts": {
+        "Year": "2025",
+        "Month": "May",
+        "Day": "23"
+      },
+      "online_date_parts": [],
+      "dates": {
+        "medline": "2025-5-9",
+        "pubmed": "2025-5-9",
+        "entrez": "2025-5-9",
+        "pmc-release": "2025-5-9"
+      },
+      "revision_date": "2025-05-25",
+      "doi": "10.1093/jrr/rraf017",
+      "pmcid": "PMC12100481",
+      "abstract_sections": [],
+      "abstract": "",
+      "types": [
+        "Published Erratum"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumFor",
+          "pmid": "40052287",
+          "citation": "J Radiat Res. 2025 Mar 24;66(2):157-166. doi: 10.1093/jrr/rraf005.",
+          "note": ""
+        }
+      ],
+      "volume": "66",
+      "issue": "3",
+      "pages": "341-342"
+    },
+    "fulltext": {
+      "id": "PMID40341922",
+      "seed_id": null,
+      "checked_at": "2026-09-14T10:08:26.250919+00:00",
+      "body_confirmed": true,
+      "pmcid": "PMC12100481",
+      "status": "body_obtained",
+      "found_ids": {
+        "pmcid": "PMC12100481",
+        "pmcaid": "12100481",
+        "pmcaiid": "12100481",
+        "pmid": "40341922",
+        "doi": "10.1093/jrr/rraf017"
+      },
+      "body_chars": 2360,
+      "article_title": "Correction to: Prostate dose escalation may positively impact survival in patients with clinically node-positive prostate cancer definitively treated by radiotherapy: surveillance study of the Japanese Radiation Oncology Study Group (JROSG)",
+      "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12100481/fullTextXML",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12100481/fullTextXML",
+          "status": "body_obtained"
+        }
+      ],
+      "body_sha256": "559c5fa5790851b0eb56b13673fdf2f607bdc122ce1871e509ec82cd52c809f8"
+    }
+  },
+  "42164379": {
+    "metadata": {
+      "pmid": "42164379",
+      "title": "Erratum to clinical characteristics and prognostic factors of low metastatic burden prostate cancer with non-regional lymph node metastases: role of cytoreductive radiotherapy?",
+      "authors": [
+        "Editorial Office"
+      ],
+      "journal": "Translational andrology and urology",
+      "journal_abbr": "Transl Androl Urol",
+      "year": "2026",
+      "publication_date_parts": {
+        "Year": "2026",
+        "Month": "Apr",
+        "Day": "27"
+      },
+      "online_date_parts": [
+        {
+          "Year": "2026",
+          "Month": "04",
+          "Day": "21"
+        }
+      ],
+      "dates": {
+        "received": "2026-1-28",
+        "accepted": "2026-3-4",
+        "medline": "2026-5-21",
+        "pubmed": "2026-5-21",
+        "entrez": "2026-5-21",
+        "pmc-release": "2026-4-21"
+      },
+      "revision_date": "2026-08-13",
+      "doi": "10.21037/tau-20262-01",
+      "pmcid": "PMC13184192",
+      "abstract_sections": [
+        {
+          "label": "",
+          "text": "[This corrects the article DOI: 10.21037/tau-24-489.]."
+        }
+      ],
+      "abstract": "[This corrects the article DOI: 10.21037/tau-24-489.].",
+      "types": [
+        "Published Erratum"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumFor",
+          "pmid": "40114834",
+          "citation": "Transl Androl Urol. 2025 Feb 28;14(2):228-239. doi: 10.21037/tau-24-489.",
+          "note": ""
+        }
+      ],
+      "volume": "15",
+      "issue": "4",
+      "pages": "142"
+    },
+    "fulltext": {
+      "id": "PMID42164379",
+      "seed_id": null,
+      "checked_at": "2026-09-14T10:08:27.433229+00:00",
+      "body_confirmed": true,
+      "pmcid": "PMC13184192",
+      "status": "body_obtained",
+      "found_ids": {
+        "pmcid": "PMC13184192",
+        "pmcaid": "13184192",
+        "pmcaiid": "13184192",
+        "pmid": "42164379",
+        "doi": "10.21037/tau-20262-01"
+      },
+      "body_chars": 1155,
+      "article_title": "Erratum to clinical characteristics and prognostic factors of low metastatic burden prostate cancer with non-regional lymph node metastases: role of cytoreductive radiotherapy?",
+      "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13184192/fullTextXML",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13184192/fullTextXML",
+          "status": "body_obtained"
+        }
+      ],
+      "body_sha256": "64745c11b669c6e8c66ebd8d2b927632f112c89b90556b41654190be3f40d2f2"
+    }
+  },
+  "26869005": {
+    "metadata": {
+      "pmid": "26869005",
+      "title": "Error in Corresponding Author Address.",
+      "authors": [],
+      "journal": "JAMA oncology",
+      "journal_abbr": "JAMA Oncol",
+      "year": "2016",
+      "publication_date_parts": {
+        "Year": "2016",
+        "Month": "Feb"
+      },
+      "online_date_parts": [],
+      "dates": {
+        "entrez": "2016-2-13",
+        "pubmed": "2016-2-13",
+        "medline": "2016-2-13"
+      },
+      "revision_date": "2016-02-12",
+      "doi": "10.1001/jamaoncol.2016.0032",
+      "pmcid": "",
+      "abstract_sections": [],
+      "abstract": "",
+      "types": [
+        "Published Erratum"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumFor",
+          "pmid": "26606329",
+          "citation": "JAMA Oncol. 2016 Mar;2(3):348-57. doi: 10.1001/jamaoncol.2015.4350.",
+          "note": ""
+        }
+      ],
+      "volume": "2",
+      "issue": "2",
+      "pages": "279"
+    },
+    "fulltext": {
+      "id": "PMID26869005",
+      "seed_id": null,
+      "checked_at": "2026-09-14T10:08:28.612331+00:00",
+      "body_confirmed": false,
+      "pmcid": "",
+      "status": "publisher_page_unconfirmed",
+      "identity_hint": true,
+      "page_chars": 98859,
+      "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+      "url": "https://doi.org/10.1001/jamaoncol.2016.0032",
+      "attempts": [
+        {
+          "url": "https://doi.org/10.1001/jamaoncol.2016.0032",
+          "status": "publisher_page_unconfirmed"
+        }
+      ],
+      "index_open_access": false
+    }
+  }
+}

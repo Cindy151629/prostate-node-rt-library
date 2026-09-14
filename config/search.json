@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "topic": "前列腺癌＋淋巴结转移＋放疗",
+  "timezone": "Asia/Shanghai",
+  "schedule_utc": "17 1 * * 1",
+  "lookback_days": 90,
+  "monthly_history": true,
+  "stale_after_days": 9,
+  "site_url": null,
+  "deployment": "not_configured",
+  "query_version": "2026-09-14.2",
+  "queries": [
+    {
+      "id": "broad",
+      "label": "全主题交集",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT)"
+    },
+    {
+      "id": "initial",
+      "label": "初诊N1",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (cN1[Title/Abstract] OR definitive[Title/Abstract] OR \"newly diagnosed\"[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:cN1 OR TITLE_ABS:definitive OR TITLE_ABS:\"newly diagnosed\")"
+    },
+    {
+      "id": "postoperative",
+      "label": "前列腺切除术后",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (prostatectom*[Title/Abstract] OR postoperative[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:prostatectom* OR TITLE_ABS:postoperative)"
+    },
+    {
+      "id": "recurrent",
+      "label": "复发/持续",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (recurren*[Title/Abstract] OR salvage[Title/Abstract] OR persist*[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:recurren* OR TITLE_ABS:salvage OR TITLE_ABS:persist*)"
+    },
+    {
+      "id": "technique",
+      "label": "照射范围技术毒性",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (dose[Title/Abstract] OR toxicity[Title/Abstract] OR \"elective nodal\"[Title/Abstract] OR \"whole pelvis\"[Title/Abstract] OR reirradiation[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:dose OR TITLE_ABS:toxicity OR TITLE_ABS:\"elective nodal\" OR TITLE_ABS:\"whole pelvis\" OR TITLE_ABS:reirradiation)"
+    },
+    {
+      "id": "guidelines",
+      "label": "指南及综述",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (guideline[Publication Type] OR review[Publication Type] OR consensus[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (PUB_TYPE:review OR TITLE_ABS:guideline OR TITLE_ABS:consensus)"
+    },
+    {
+      "id": "trials",
+      "label": "关键试验追踪",
+      "pubmed": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"PEACE V\"[Title/Abstract] OR \"PEACE V-STORM\"[Title/Abstract] OR \"OLIGOPELVIS\"[Title/Abstract] OR \"PLATIN\"[Title/Abstract] OR \"PROPER trial\"[Title/Abstract] OR \"PROPER study\"[Title/Abstract] OR \"PRIMENOD\"[Title/Abstract] OR \"PROQURE\"[Title/Abstract] OR \"POINTER-PC\"[Title/Abstract] OR \"PRIME trial\"[Title/Abstract])",
+      "europepmc": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"PEACE V\" OR TITLE_ABS:\"PEACE V-STORM\" OR TITLE_ABS:\"OLIGOPELVIS\" OR TITLE_ABS:\"PLATIN\" OR TITLE_ABS:\"PROPER trial\" OR TITLE_ABS:\"PROPER study\" OR TITLE_ABS:\"PRIMENOD\" OR TITLE_ABS:\"PROQURE\" OR TITLE_ABS:\"POINTER-PC\" OR TITLE_ABS:\"PRIME trial\")"
+    }
+  ],
+  "trial_names": [
+    "PEACE V",
+    "PEACE V-STORM",
+    "OLIGOPELVIS",
+    "PLATIN",
+    "PROPER trial",
+    "PROPER study",
+    "PRIMENOD",
+    "PROQURE",
+    "POINTER-PC",
+    "PRIME trial"
+  ],
+  "sections": {
+    "A": "初诊淋巴结阳性的根治性放疗",
+    "B": "前列腺切除术后pN1放疗",
+    "C": "淋巴结复发及持续病灶的放疗",
+    "D": "照射范围、剂量、技术与毒性",
+    "G": "指南共识与证据综述",
+    "F": "试验方案与研究设计",
+    "E": "混合人群与治疗情境的补充证据"
+  },
+  "unconnected_sources": [
+    "Embase",
+    "Web of Science",
+    "知网",
+    "万方"
+  ]
+}

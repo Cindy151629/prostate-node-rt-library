@@ -1,0 +1,1884 @@
+[
+  {
+    "seed_id": "G001",
+    "seed_title": "EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer-2026 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42457454/",
+      "https://doi.org/10.1016/j.eururo.2026.04.013"
+    ],
+    "pmid": "42457454",
+    "doi": "10.1016/j.eururo.2026.04.013",
+    "pmcid": "",
+    "id": "PMID42457454"
+  },
+  {
+    "seed_id": "G002",
+    "seed_title": "EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer. Part II-2026 Update: Treatment of Relapsing and Metastatic Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42457456/",
+      "https://doi.org/10.1016/j.eururo.2026.04.014"
+    ],
+    "pmid": "42457456",
+    "doi": "10.1016/j.eururo.2026.04.014",
+    "pmcid": "",
+    "id": "PMID42457456"
+  },
+  {
+    "seed_id": "G003",
+    "seed_title": "Local and locoregional prostate cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41421764/",
+      "https://doi.org/10.1016/j.annonc.2025.12.009"
+    ],
+    "pmid": "41421764",
+    "doi": "10.1016/j.annonc.2025.12.009",
+    "pmcid": "",
+    "id": "PMID41421764"
+  },
+  {
+    "seed_id": "G004",
+    "seed_title": "Radiation Therapy in Node-Positive Prostate Cancer: Current Evidence and Future Directions.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40516971/",
+      "https://doi.org/10.1016/j.semradonc.2025.04.013"
+    ],
+    "pmid": "40516971",
+    "doi": "10.1016/j.semradonc.2025.04.013",
+    "pmcid": "",
+    "id": "PMID40516971"
+  },
+  {
+    "seed_id": "G005",
+    "seed_title": "A Narrative Review of Treatment Options for Patients with Node-Positive Disease After Radical Prostatectomy: Current Evidence and Controversies.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12427371/",
+      "https://pubmed.ncbi.nlm.nih.gov/40940889/",
+      "https://doi.org/10.3390/cancers17172792"
+    ],
+    "pmid": "40940889",
+    "doi": "10.3390/cancers17172792",
+    "pmcid": "PMC12427371",
+    "id": "PMID40940889"
+  },
+  {
+    "seed_id": "G006",
+    "seed_title": "Salvage Therapy for Prostate Cancer: AUA/ASTRO/SUO Guideline Part III: Salvage Therapy After Radiotherapy or Focal Therapy, Pelvic Nodal Recurrence and Oligometastasis, and Future Directions.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38421252/",
+      "https://doi.org/10.1097/ju.0000000000003890"
+    ],
+    "pmid": "38421252",
+    "doi": "10.1097/ju.0000000000003890",
+    "pmcid": "",
+    "id": "PMID38421252"
+  },
+  {
+    "seed_id": "G007",
+    "seed_title": "Salvage Therapy for Prostate Cancer: AUA/ASTRO/SUO Guideline Part II: Treatment Delivery for Non-metastatic Biochemical Recurrence After Primary Radical Prostatectomy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38421243/",
+      "https://doi.org/10.1097/ju.0000000000003891"
+    ],
+    "pmid": "38421243",
+    "doi": "10.1097/ju.0000000000003891",
+    "pmcid": "",
+    "id": "PMID38421243"
+  },
+  {
+    "seed_id": "G008",
+    "seed_title": "Local Therapy on Clinically Lymph Node-positive Prostate Cancer: A Systematic Review and Meta-analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37730526/",
+      "https://doi.org/10.1016/j.euo.2023.09.002"
+    ],
+    "pmid": "37730526",
+    "doi": "10.1016/j.euo.2023.09.002",
+    "pmcid": "",
+    "id": "PMID37730526"
+  },
+  {
+    "seed_id": "G009",
+    "seed_title": "Role of Radiotherapy and Hormone Therapy in Patients with Node-Positive Locally Advanced Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38186065/",
+      "https://doi.org/10.56434/j.arch.esp.urol.20237610.88"
+    ],
+    "pmid": "38186065",
+    "doi": "10.56434/j.arch.esp.urol.20237610.88",
+    "pmcid": "",
+    "id": "PMID38186065"
+  },
+  {
+    "seed_id": "G010",
+    "seed_title": "Role of Local and/or Metastasis-directed Therapy in Patients with Hormone-sensitive M1a Prostate Cancer-A Systematic Review.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/36372736/",
+      "https://doi.org/10.1016/j.euo.2022.10.002"
+    ],
+    "pmid": "36372736",
+    "doi": "10.1016/j.euo.2022.10.002",
+    "pmcid": "",
+    "id": "PMID36372736"
+  },
+  {
+    "seed_id": "G011",
+    "seed_title": "Treating Primary Node-Positive Prostate Cancer: A Scoping Review of Available Treatment Options.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10251924/",
+      "https://pubmed.ncbi.nlm.nih.gov/37296924/",
+      "https://doi.org/10.3390/cancers15112962"
+    ],
+    "pmid": "37296924",
+    "doi": "10.3390/cancers15112962",
+    "pmcid": "PMC10251924",
+    "id": "PMID37296924"
+  },
+  {
+    "seed_id": "G012",
+    "seed_title": "Features and management of men with pN1 cM0 prostate cancer after radical prostatectomy and lymphadenectomy: a systematic review of population-based evidence.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/34812201/",
+      "https://doi.org/10.1097/mou.0000000000000946"
+    ],
+    "pmid": "34812201",
+    "doi": "10.1097/mou.0000000000000946",
+    "pmcid": "",
+    "id": "PMID34812201"
+  },
+  {
+    "seed_id": "G013",
+    "seed_title": "M1a prostate cancer: Results of a Dutch multidisciplinary consensus meeting.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8988794/",
+      "https://pubmed.ncbi.nlm.nih.gov/35475128/",
+      "https://doi.org/10.1002/bco2.73"
+    ],
+    "pmid": "35475128",
+    "doi": "10.1002/bco2.73",
+    "pmcid": "PMC8988794",
+    "id": "PMID35475128"
+  },
+  {
+    "seed_id": "G014",
+    "seed_title": "NRG Oncology Updated International Consensus Atlas on Pelvic Lymph Node Volumes for Intact and Postoperative Prostate Cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7736505/",
+      "https://pubmed.ncbi.nlm.nih.gov/32861817/",
+      "https://doi.org/10.1016/j.ijrobp.2020.08.034"
+    ],
+    "pmid": "32861817",
+    "doi": "10.1016/j.ijrobp.2020.08.034",
+    "pmcid": "PMC7736505",
+    "id": "PMID32861817"
+  },
+  {
+    "seed_id": "G015",
+    "seed_title": "Radiotherapy in nodal oligorecurrent prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8219546/",
+      "https://pubmed.ncbi.nlm.nih.gov/33914101/",
+      "https://doi.org/10.1007/s00066-021-01778-1"
+    ],
+    "pmid": "33914101",
+    "doi": "10.1007/s00066-021-01778-1",
+    "pmcid": "PMC8219546",
+    "id": "PMID33914101"
+  },
+  {
+    "seed_id": "G016",
+    "seed_title": "Adding radiotherapy to androgen deprivation therapy in men with node-positive prostate cancer after radical prostatectomy: A meta-analysis.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7478562/",
+      "https://pubmed.ncbi.nlm.nih.gov/32150055/",
+      "https://doi.org/10.1097/md.0000000000019153"
+    ],
+    "pmid": "32150055",
+    "doi": "10.1097/md.0000000000019153",
+    "pmcid": "PMC7478562",
+    "id": "PMID32150055"
+  },
+  {
+    "seed_id": "G017",
+    "seed_title": "Management of Patients with Node-positive Prostate Cancer at Radical Prostatectomy and Pelvic Lymph Node Dissection: A Systematic Review.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/32933887/",
+      "https://doi.org/10.1016/j.euo.2020.08.005"
+    ],
+    "pmid": "32933887",
+    "doi": "10.1016/j.euo.2020.08.005",
+    "pmcid": "",
+    "id": "PMID32933887"
+  },
+  {
+    "seed_id": "G018",
+    "seed_title": "A Systematic Review of the Role of Definitive Local Treatment in Patients with Clinically Lymph Node-positive Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/31200844/",
+      "https://doi.org/10.1016/j.euo.2019.02.001"
+    ],
+    "pmid": "31200844",
+    "doi": "10.1016/j.euo.2019.02.001",
+    "pmcid": "",
+    "id": "PMID31200844"
+  },
+  {
+    "seed_id": "A001",
+    "seed_title": "Long-term outcomes of radiotherapy and impact of nodal disease burden in clinically node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40273649/",
+      "https://doi.org/10.1016/j.canrad.2025.104619"
+    ],
+    "pmid": "40273649",
+    "doi": "10.1016/j.canrad.2025.104619",
+    "pmcid": "",
+    "id": "PMID40273649"
+  },
+  {
+    "seed_id": "A002",
+    "seed_title": "Prostate dose escalation may positively impact survival in patients with clinically node-positive prostate cancer definitively treated by radiotherapy: surveillance study of the Japanese Radiation Oncology Study Group (JROSG).",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11932344/",
+      "https://pubmed.ncbi.nlm.nih.gov/40052287/",
+      "https://doi.org/10.1093/jrr/rraf005"
+    ],
+    "pmid": "40052287",
+    "doi": "10.1093/jrr/rraf005",
+    "pmcid": "PMC11932344",
+    "id": "PMID40052287"
+  },
+  {
+    "seed_id": "A003",
+    "seed_title": "Gallium-68-Labeled Prostate-Specific Membrane Antigen Positron Emission Tomography/Computed Tomography Response in Pelvic Node-Positive Prostate Cancer After Definitive Radiation Therapy: Prognostic Implications.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41031987/",
+      "https://doi.org/10.1016/j.ijrobp.2025.06.3858"
+    ],
+    "pmid": "41031987",
+    "doi": "10.1016/j.ijrobp.2025.06.3858",
+    "pmcid": "",
+    "id": "PMID41031987"
+  },
+  {
+    "seed_id": "A004",
+    "seed_title": "A population-based analyses of the evolving management of cN1M0 prostate cancer in the PSMA-PET era.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12277652/",
+      "https://pubmed.ncbi.nlm.nih.gov/40693104/",
+      "https://doi.org/10.1002/bco2.70059"
+    ],
+    "pmid": "40693104",
+    "doi": "10.1002/bco2.70059",
+    "pmcid": "PMC12277652",
+    "id": "PMID40693104"
+  },
+  {
+    "seed_id": "A005",
+    "seed_title": "Whole-pelvic irradiation with boost to involved nodes and prostate in node-positive prostate cancer-long-term data from the prospective PLATIN-2 trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10876493/",
+      "https://pubmed.ncbi.nlm.nih.gov/37640867/",
+      "https://doi.org/10.1007/s00066-023-02129-y"
+    ],
+    "pmid": "37640867",
+    "doi": "10.1007/s00066-023-02129-y",
+    "pmcid": "PMC10876493",
+    "id": "PMID37640867"
+  },
+  {
+    "seed_id": "A006",
+    "seed_title": "Hypofractionated radiation therapy combined with androgen deprivation therapy for clinically node-positive prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11215505/",
+      "https://pubmed.ncbi.nlm.nih.gov/38946076/",
+      "https://doi.org/10.3857/roj.2024.00080"
+    ],
+    "pmid": "38946076",
+    "doi": "10.3857/roj.2024.00080",
+    "pmcid": "PMC11215505",
+    "id": "PMID38946076"
+  },
+  {
+    "seed_id": "A007",
+    "seed_title": "Androgen deprivation alone versus combined with pelvic radiation for adverse events and quality of life in clinically node-positive prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11001889/",
+      "https://pubmed.ncbi.nlm.nih.gov/38589463/",
+      "https://doi.org/10.1038/s41598-024-54976-z"
+    ],
+    "pmid": "38589463",
+    "doi": "10.1038/s41598-024-54976-z",
+    "pmcid": "PMC11001889",
+    "id": "PMID38589463"
+  },
+  {
+    "seed_id": "A008",
+    "seed_title": "Evaluation of Treatment Outcomes of Prostate Cancer Patients With Lymph Node Metastasis Treated With Definitive Radiotherapy: Comparative Analysis of PSMA PET/CT and Conventional Imaging.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38847441/",
+      "https://doi.org/10.1097/rlu.0000000000005284"
+    ],
+    "pmid": "38847441",
+    "doi": "10.1097/rlu.0000000000005284",
+    "pmcid": "",
+    "id": "PMID38847441"
+  },
+  {
+    "seed_id": "A009",
+    "seed_title": "Impact of prostate radiotherapy on survival outcomes in clinically node-positive prostate cancer: A multicentre retrospective analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37330057/",
+      "https://doi.org/10.1016/j.radonc.2023.109746"
+    ],
+    "pmid": "37330057",
+    "doi": "10.1016/j.radonc.2023.109746",
+    "pmcid": "",
+    "id": "PMID37330057"
+  },
+  {
+    "seed_id": "A010",
+    "seed_title": "Predictors of Outcomes in Patients With Clinically Lymph Node Positive Prostate Cancer After Definitive Radiotherapy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10500494/",
+      "https://pubmed.ncbi.nlm.nih.gov/37652494/",
+      "https://doi.org/10.21873/invivo.13341"
+    ],
+    "pmid": "37652494",
+    "doi": "10.21873/invivo.13341",
+    "pmcid": "PMC10500494",
+    "id": "PMID37652494"
+  },
+  {
+    "seed_id": "A011",
+    "seed_title": "PSMA-PET-guided dose-escalated volumetric arc therapy for newly diagnosed lymph node-positive prostate cancer: 5 Year outcomes following the FROGG and EviQ node-positive guidelines.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37186452/",
+      "https://doi.org/10.1111/1754-9485.13534"
+    ],
+    "pmid": "37186452",
+    "doi": "10.1111/1754-9485.13534",
+    "pmcid": "",
+    "id": "PMID37186452"
+  },
+  {
+    "seed_id": "A012",
+    "seed_title": "Survival after radical prostatectomy versus radiation therapy in clinical node-positive prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9311819/",
+      "https://pubmed.ncbi.nlm.nih.gov/35226380/",
+      "https://doi.org/10.1002/pros.24317"
+    ],
+    "pmid": "35226380",
+    "doi": "10.1002/pros.24317",
+    "pmcid": "PMC9311819",
+    "id": "PMID35226380"
+  },
+  {
+    "seed_id": "A013",
+    "seed_title": "Common Iliac Node-Positive Prostate Cancer Treated With Curative Radiation Therapy: N1 or M1a?",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/35870708/",
+      "https://doi.org/10.1016/j.ijrobp.2022.07.011"
+    ],
+    "pmid": "35870708",
+    "doi": "10.1016/j.ijrobp.2022.07.011",
+    "pmcid": "",
+    "id": "PMID35870708"
+  },
+  {
+    "seed_id": "A014",
+    "seed_title": "Risk Factors for Biochemical Recurrence After PSMA-PET-Guided Definitive Radiotherapy in Patients With De Novo Lymph Node-Positive Prostate Cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209705/",
+      "https://pubmed.ncbi.nlm.nih.gov/35747822/",
+      "https://doi.org/10.3389/fonc.2022.898774"
+    ],
+    "pmid": "35747822",
+    "doi": "10.3389/fonc.2022.898774",
+    "pmcid": "PMC9209705",
+    "id": "PMID35747822"
+  },
+  {
+    "seed_id": "A015",
+    "seed_title": "The prognosis and the impact of radiotherapy in clinically regional lymph node-positive prostate cancer: Which patients are candidates for local therapy with radiation?",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/32900626/",
+      "https://doi.org/10.1016/j.urolonc.2020.08.018"
+    ],
+    "pmid": "32900626",
+    "doi": "10.1016/j.urolonc.2020.08.018",
+    "pmcid": "",
+    "id": "PMID32900626"
+  },
+  {
+    "seed_id": "A016",
+    "seed_title": "Analysis of Radiation Facility Volume and Survival in Men With Lymph Node-Positive Prostate Cancer Treated With Radiation and Androgen Deprivation Therapy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7729429/",
+      "https://pubmed.ncbi.nlm.nih.gov/33301015/",
+      "https://doi.org/10.1001/jamanetworkopen.2020.25143"
+    ],
+    "pmid": "33301015",
+    "doi": "10.1001/jamanetworkopen.2020.25143",
+    "pmcid": "PMC7729429",
+    "id": "PMID33301015"
+  },
+  {
+    "seed_id": "A017",
+    "seed_title": "Definitive Radiation Therapy and Survival in Clinically Node-Positive Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/29891203/",
+      "https://doi.org/10.1016/j.ijrobp.2018.04.023"
+    ],
+    "pmid": "29891203",
+    "doi": "10.1016/j.ijrobp.2018.04.023",
+    "pmcid": "",
+    "id": "PMID29891203"
+  },
+  {
+    "seed_id": "A018",
+    "seed_title": "Androgen deprivation with or without radiation therapy for clinically node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/25957435/",
+      "https://doi.org/10.1093/jnci/djv119"
+    ],
+    "pmid": "25957435",
+    "doi": "10.1093/jnci/djv119",
+    "pmcid": "",
+    "id": "PMID25957435"
+  },
+  {
+    "seed_id": "A019",
+    "seed_title": "Radiation therapy for clinically node-positive prostate adenocarcinoma is correlated with improved overall and prostate cancer-specific survival.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/24674370/",
+      "https://doi.org/10.1016/j.prro.2012.11.011"
+    ],
+    "pmid": "24674370",
+    "doi": "10.1016/j.prro.2012.11.011",
+    "pmcid": "",
+    "id": "PMID24674370"
+  },
+  {
+    "seed_id": "A020",
+    "seed_title": "Androgen suppression plus radiation versus radiation alone for patients with stage D1/pathologic node-positive adenocarcinoma of the prostate: updated results based on national prospective randomized trial Radiation Therapy Oncology Group 85-31.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/15681524/",
+      "https://doi.org/10.1200/jco.2005.08.141"
+    ],
+    "pmid": "15681524",
+    "doi": "10.1200/jco.2005.08.141",
+    "pmcid": "",
+    "id": "PMID15681524"
+  },
+  {
+    "seed_id": "A021",
+    "seed_title": "Comparison of external radiation therapy vs radical prostatectomy in lymph node positive prostate cancer patients.",
+    "links": [
+      "https://www.nature.com/articles/4500751.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/15356680/",
+      "https://doi.org/10.1038/sj.pcan.4500751"
+    ],
+    "pmid": "15356680",
+    "doi": "10.1038/sj.pcan.4500751",
+    "pmcid": "",
+    "id": "PMID15356680"
+  },
+  {
+    "seed_id": "A022",
+    "seed_title": "Lymph node-positive prostate cancer: evaluation of the results of the combination of androgen deprivation therapy and radiation therapy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/11444402/",
+      "https://doi.org/10.4065/76.7.702"
+    ],
+    "pmid": "11444402",
+    "doi": "10.4065/76.7.702",
+    "pmcid": "",
+    "id": "PMID11444402"
+  },
+  {
+    "seed_id": "A023",
+    "seed_title": "Addition of radiation therapy to androgen ablation improves outcome for subclinically node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/11489709/",
+      "https://doi.org/10.1016/s0090-4295(01)01168-2"
+    ],
+    "pmid": "11489709",
+    "doi": "10.1016/s0090-4295(01)01168-2",
+    "pmcid": "",
+    "id": "PMID11489709"
+  },
+  {
+    "seed_id": "A024",
+    "seed_title": "The use of combined radiation therapy and hormonal therapy in the management of lymph node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/9336149/",
+      "https://doi.org/10.1016/s0360-3016(97)00369-6"
+    ],
+    "pmid": "9336149",
+    "doi": "10.1016/s0360-3016(97)00369-6",
+    "pmcid": "",
+    "id": "PMID9336149"
+  },
+  {
+    "seed_id": "A025",
+    "seed_title": "Influence of radiotherapy on node-positive prostate cancer treated with androgen ablation.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/7527796/",
+      "https://doi.org/10.1016/0360-3016(94)00324-e"
+    ],
+    "pmid": "7527796",
+    "doi": "10.1016/0360-3016(94)00324-e",
+    "pmcid": "",
+    "id": "PMID7527796"
+  },
+  {
+    "seed_id": "A026",
+    "seed_title": "Combined hormonal and radiation therapy for lymph node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/7542824/",
+      "https://doi.org/10.1016/s0090-4295(99)80196-4"
+    ],
+    "pmid": "7542824",
+    "doi": "10.1016/s0090-4295(99)80196-4",
+    "pmcid": "",
+    "id": "PMID7542824"
+  },
+  {
+    "seed_id": "B001",
+    "seed_title": "Postoperative radiotherapy improves survival in node-positive prostate cancer, particularly in patients receiving androgen deprivation therapy",
+    "links": [
+      "https://link.springer.com/content/pdf/10.1007/s12672-026-05458-3_reference.pdf",
+      "https://link.springer.com/article/10.1007/s12672-026-05458-3",
+      "https://doi.org/10.1007/s12672-026-05458-3"
+    ],
+    "pmid": "",
+    "doi": "10.1007/s12672-026-05458-3",
+    "pmcid": "",
+    "id": "DOI07e046102f40f016"
+  },
+  {
+    "seed_id": "B002",
+    "seed_title": "Postoperative Pelvic Lymph Node Radiation Therapy in Lymph Node-Positive Prostate Cancer and Mortality Risk.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42362416/",
+      "https://doi.org/10.1016/j.euf.2026.06.008"
+    ],
+    "pmid": "42362416",
+    "doi": "10.1016/j.euf.2026.06.008",
+    "pmcid": "",
+    "id": "PMID42362416"
+  },
+  {
+    "seed_id": "B003",
+    "seed_title": "Oncological outcomes following PSMA PET/CT-guided salvage whole-pelvis radiotherapy for recurrent prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13091081/",
+      "https://pubmed.ncbi.nlm.nih.gov/42005712/",
+      "https://doi.org/10.1016/j.ctro.2026.101161"
+    ],
+    "pmid": "42005712",
+    "doi": "10.1016/j.ctro.2026.101161",
+    "pmcid": "PMC13091081",
+    "id": "PMID42005712"
+  },
+  {
+    "seed_id": "B004",
+    "seed_title": "Patterns of Recurrence Following Radiation and ADT for Pathologic Lymph Node-Positive Prostate Cancer: A Multi-institutional Study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/39733964/",
+      "https://doi.org/10.1016/j.prro.2024.12.006"
+    ],
+    "pmid": "39733964",
+    "doi": "10.1016/j.prro.2024.12.006",
+    "pmcid": "",
+    "id": "PMID39733964"
+  },
+  {
+    "seed_id": "B005",
+    "seed_title": "Adjuvant Radiation Therapy or Observation With or Without Early Salvage Radiation Therapy for Men With Node-Positive Prostate Cancer After Surgery and Negative Preoperative Conventional Imaging: A Multicenter Study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/39929079/",
+      "https://doi.org/10.1097/ju.0000000000004468"
+    ],
+    "pmid": "39929079",
+    "doi": "10.1097/ju.0000000000004468",
+    "pmcid": "",
+    "id": "PMID39929079"
+  },
+  {
+    "seed_id": "B006",
+    "seed_title": "Treatment Patterns and Outcomes in Lymph-Node-Positive (pN1) Prostate Cancer: A National Cancer Database Study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40883115/",
+      "https://doi.org/10.1016/j.clgc.2025.102413"
+    ],
+    "pmid": "40883115",
+    "doi": "10.1016/j.clgc.2025.102413",
+    "pmcid": "",
+    "id": "PMID40883115"
+  },
+  {
+    "seed_id": "B007",
+    "seed_title": "Immediate radiotherapy versus observation in patients with node-positive prostate cancer after radical prostatectomy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/36434164/",
+      "https://doi.org/10.1038/s41391-022-00619-1"
+    ],
+    "pmid": "36434164",
+    "doi": "10.1038/s41391-022-00619-1",
+    "pmcid": "",
+    "id": "PMID36434164"
+  },
+  {
+    "seed_id": "B008",
+    "seed_title": "Adjuvant radiotherapy in patients with node-positive prostate cancer after radical prostatectomy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11796632/",
+      "https://pubmed.ncbi.nlm.nih.gov/36308526/",
+      "https://doi.org/10.1007/s00432-022-04409-z"
+    ],
+    "pmid": "36308526",
+    "doi": "10.1007/s00432-022-04409-z",
+    "pmcid": "PMC11796632",
+    "id": "PMID36308526"
+  },
+  {
+    "seed_id": "B009",
+    "seed_title": "Nomograms for Metastasis-Free and Overall Survival for Pathologically Node Positive Prostate Cancer Patients Treated With or Without Radiation Therapy Plus Short-Term ADT.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/35304077/",
+      "https://doi.org/10.1016/j.clgc.2022.01.018"
+    ],
+    "pmid": "35304077",
+    "doi": "10.1016/j.clgc.2022.01.018",
+    "pmcid": "",
+    "id": "PMID35304077"
+  },
+  {
+    "seed_id": "B010",
+    "seed_title": "Radiotherapy plus androgen deprivation therapy for prostate-specific antigen persistence in lymph node-positive prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9277249/",
+      "https://pubmed.ncbi.nlm.nih.gov/35485635/",
+      "https://doi.org/10.1111/cas.15383"
+    ],
+    "pmid": "35485635",
+    "doi": "10.1111/cas.15383",
+    "pmcid": "PMC9277249",
+    "id": "PMID35485635"
+  },
+  {
+    "seed_id": "B011",
+    "seed_title": "Adjuvant Versus Early Salvage Radiation Therapy After Radical Prostatectomy for pN1 Prostate Cancer and the Risk of Death.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273369/",
+      "https://pubmed.ncbi.nlm.nih.gov/35290082/",
+      "https://doi.org/10.1200/jco.21.02800"
+    ],
+    "pmid": "35290082",
+    "doi": "10.1200/jco.21.02800",
+    "pmcid": "PMC9273369",
+    "id": "PMID35290082"
+  },
+  {
+    "seed_id": "B012",
+    "seed_title": "Androgen deprivation therapy in men with node-positive prostate cancer treated with postoperative radiotherapy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8142939/",
+      "https://pubmed.ncbi.nlm.nih.gov/31653565/",
+      "https://doi.org/10.1016/j.urolonc.2019.09.018"
+    ],
+    "pmid": "31653565",
+    "doi": "10.1016/j.urolonc.2019.09.018",
+    "pmcid": "PMC8142939",
+    "id": "PMID31653565"
+  },
+  {
+    "seed_id": "B013",
+    "seed_title": "Impact of Adjuvant Radiotherapy in Node-positive Prostate Cancer Patients: The Importance of Patient Selection.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/29720348/",
+      "https://doi.org/10.1016/j.eururo.2018.04.017"
+    ],
+    "pmid": "29720348",
+    "doi": "10.1016/j.eururo.2018.04.017",
+    "pmcid": "",
+    "id": "PMID29720348"
+  },
+  {
+    "seed_id": "B014",
+    "seed_title": "Survival Outcomes of Men with Lymph Node-positive Prostate Cancer After Radical Prostatectomy: A Comparative Analysis of Different Postoperative Management Strategies.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6049832/",
+      "https://pubmed.ncbi.nlm.nih.gov/29042125/",
+      "https://doi.org/10.1016/j.eururo.2017.09.027"
+    ],
+    "pmid": "29042125",
+    "doi": "10.1016/j.eururo.2017.09.027",
+    "pmcid": "PMC6049832",
+    "id": "PMID29042125"
+  },
+  {
+    "seed_id": "B015",
+    "seed_title": "The role of adjuvant radiotherapy in pathologically lymph node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/27859018/",
+      "https://doi.org/10.1002/cncr.30373"
+    ],
+    "pmid": "27859018",
+    "doi": "10.1002/cncr.30373",
+    "pmcid": "",
+    "id": "PMID27859018"
+  },
+  {
+    "seed_id": "B016",
+    "seed_title": "Lymph node ratio determines the benefit of adjuvant radiotherapy in pathologically 3 or less lymph node-positive prostate cancer after radical prostatectomy: a population-based analysis with propensity-score matching.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5746409/",
+      "https://pubmed.ncbi.nlm.nih.gov/29299174/",
+      "https://doi.org/10.18632/oncotarget.22610"
+    ],
+    "pmid": "29299174",
+    "doi": "10.18632/oncotarget.22610",
+    "pmcid": "PMC5746409",
+    "id": "PMID29299174"
+  },
+  {
+    "seed_id": "B017",
+    "seed_title": "Adjuvant radiation therapy is associated with better oncological outcome compared with salvage radiation therapy in patients with pN1 prostate cancer treated with radical prostatectomy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/27743493/",
+      "https://doi.org/10.1111/bju.13679"
+    ],
+    "pmid": "27743493",
+    "doi": "10.1111/bju.13679",
+    "pmcid": "",
+    "id": "PMID27743493"
+  },
+  {
+    "seed_id": "B018",
+    "seed_title": "Impact of adjuvant radiotherapy on survival of patients with node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/25245445/",
+      "https://doi.org/10.1200/jco.2013.54.7893"
+    ],
+    "pmid": "25245445",
+    "doi": "10.1200/jco.2013.54.7893",
+    "pmcid": "",
+    "id": "PMID25245445"
+  },
+  {
+    "seed_id": "B019",
+    "seed_title": "Combination of adjuvant hormonal and radiation therapy significantly prolongs survival of patients with pT2-4 pN+ prostate cancer: results of a matched analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/21354694/",
+      "https://doi.org/10.1016/j.eururo.2011.02.024"
+    ],
+    "pmid": "21354694",
+    "doi": "10.1016/j.eururo.2011.02.024",
+    "pmcid": "",
+    "id": "PMID21354694"
+  },
+  {
+    "seed_id": "B020",
+    "seed_title": "Long-term follow-up of patients with prostate cancer and nodal metastases treated by pelvic lymphadenectomy and radical prostatectomy: the positive impact of adjuvant radiotherapy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/19211184/",
+      "https://doi.org/10.1016/j.eururo.2009.01.046"
+    ],
+    "pmid": "19211184",
+    "doi": "10.1016/j.eururo.2009.01.046",
+    "pmcid": "",
+    "id": "PMID19211184"
+  },
+  {
+    "seed_id": "C001",
+    "seed_title": "Pushing the Boundaries of Stereotactic Body Radiation Therapy in Irradiated Territories for Nodal Oligorecurrent Prostate Cancer: Outcomes of the CYGNUS Multicentric Retrospective Study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41864432/",
+      "https://doi.org/10.1016/j.ijrobp.2026.03.020"
+    ],
+    "pmid": "41864432",
+    "doi": "10.1016/j.ijrobp.2026.03.020",
+    "pmcid": "",
+    "id": "PMID41864432"
+  },
+  {
+    "seed_id": "C002",
+    "seed_title": "OLIGOPELVIS 2-GETUG P12- elective nodal radiotherapy for oligorecurrent pelvic/para-aortic nodes in prostate cancer: early toxicity of a randomized phase 3 trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42140755/",
+      "https://doi.org/10.1016/j.radonc.2026.111533"
+    ],
+    "pmid": "42140755",
+    "doi": "10.1016/j.radonc.2026.111533",
+    "pmcid": "",
+    "id": "PMID42140755"
+  },
+  {
+    "seed_id": "C003",
+    "seed_title": "Optimizing the therapeutic ratio of PSMA-PET-guided para-aortic radiotherapy for prostate cancer: A systematic review and structured quantitative synthesis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42691517/",
+      "https://doi.org/10.1016/j.jmir.2026.102569"
+    ],
+    "pmid": "42691517",
+    "doi": "10.1016/j.jmir.2026.102569",
+    "pmcid": "",
+    "id": "PMID42691517"
+  },
+  {
+    "seed_id": "C004",
+    "seed_title": "Cumulative dose analysis following elective pelvis re-irradiation at junction with primary prostate radiotherapy from the OLIGOPELVIS GETUG P07 trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41825803/",
+      "https://doi.org/10.1016/j.radonc.2026.111476"
+    ],
+    "pmid": "41825803",
+    "doi": "10.1016/j.radonc.2026.111476",
+    "pmcid": "",
+    "id": "PMID41825803"
+  },
+  {
+    "seed_id": "C005",
+    "seed_title": "PSMA PET/CT-guided salvage elective nodal radiotherapy for nodal metastases after radical prostatectomy: a bi-institutional long-term outcome analysis.",
+    "links": [
+      "https://link.springer.com/article/10.1007/s00259-026-08147-z",
+      "https://pubmed.ncbi.nlm.nih.gov/42693211/",
+      "https://doi.org/10.1007/s00259-026-08147-z"
+    ],
+    "pmid": "42693211",
+    "doi": "10.1007/s00259-026-08147-z",
+    "pmcid": "",
+    "id": "PMID42693211"
+  },
+  {
+    "seed_id": "C006",
+    "seed_title": "Health-related Quality of Life Outcomes of Salvage Metastasis-directed Treatment Versus Elective Nodal Treatment for Oligorecurrent Nodal Prostate Cancer: A Secondary Analysis of the Phase 2, Open-label PEACE V-STORM Randomized Trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41565552/",
+      "https://doi.org/10.1016/j.euo.2026.01.001"
+    ],
+    "pmid": "41565552",
+    "doi": "10.1016/j.euo.2026.01.001",
+    "pmcid": "",
+    "id": "PMID41565552"
+  },
+  {
+    "seed_id": "C007",
+    "seed_title": "Avoiding prostate bed radiation for the PSMA-PET detected nodal recurrence patient post prostatectomy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638620/",
+      "https://pubmed.ncbi.nlm.nih.gov/39676999/",
+      "https://doi.org/10.1016/j.ctro.2024.100896"
+    ],
+    "pmid": "39676999",
+    "doi": "10.1016/j.ctro.2024.100896",
+    "pmcid": "PMC11638620",
+    "id": "PMID39676999"
+  },
+  {
+    "seed_id": "C008",
+    "seed_title": "The role of radiotherapy in pelvic nodal recurrence following definitive treatment for prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12337913/",
+      "https://pubmed.ncbi.nlm.nih.gov/40654037/",
+      "https://doi.org/10.1097/mou.0000000000001322"
+    ],
+    "pmid": "40654037",
+    "doi": "10.1097/mou.0000000000001322",
+    "pmcid": "PMC12337913",
+    "id": "PMID40654037"
+  },
+  {
+    "seed_id": "C009",
+    "seed_title": "Salvage metastasis-directed therapy versus elective nodal radiotherapy for oligorecurrent nodal prostate cancer metastases (PEACE V-STORM): a phase 2, open-label, randomised controlled trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40339593/",
+      "https://doi.org/10.1016/s1470-2045(25)00197-4"
+    ],
+    "pmid": "40339593",
+    "doi": "10.1016/s1470-2045(25)00197-4",
+    "pmcid": "",
+    "id": "PMID40339593"
+  },
+  {
+    "seed_id": "C010",
+    "seed_title": "Long-term Outcomes and Patterns of Relapse Following High-dose Elective Salvage Radiotherapy and Hormone Therapy in Oligorecurrent Pelvic Nodes in Prostate Cancer: OLIGOPELVIS (GETUG-P07).",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38490854/",
+      "https://doi.org/10.1016/j.eururo.2024.02.013"
+    ],
+    "pmid": "38490854",
+    "doi": "10.1016/j.eururo.2024.02.013",
+    "pmcid": "",
+    "id": "PMID38490854"
+  },
+  {
+    "seed_id": "C011",
+    "seed_title": "PSMA-PET/CT-based salvage elective nodal radiotherapy for lymph node recurrence following radical prostatectomy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12460443/",
+      "https://pubmed.ncbi.nlm.nih.gov/40991040/",
+      "https://doi.org/10.1007/s00345-025-05950-5"
+    ],
+    "pmid": "40991040",
+    "doi": "10.1007/s00345-025-05950-5",
+    "pmcid": "PMC12460443",
+    "id": "PMID40991040"
+  },
+  {
+    "seed_id": "C012",
+    "seed_title": "Oncologic outcomes of salvage radiotherapy and lymphadenectomy for positron emission tomography-positive lymph nodes in biochemical recurrence: A systematic review to inform treatment decisions.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12746252/",
+      "https://pubmed.ncbi.nlm.nih.gov/41472927/",
+      "https://doi.org/10.1016/j.prnil.2025.05.002"
+    ],
+    "pmid": "41472927",
+    "doi": "10.1016/j.prnil.2025.05.002",
+    "pmcid": "PMC12746252",
+    "id": "PMID41472927"
+  },
+  {
+    "seed_id": "C013",
+    "seed_title": "Pelvic Irradiation for Node-Positive Prostate Cancer After Prostatectomy: Long-Term Results of the Prospective PLATIN-4 and PLATIN-5 Trials.",
+    "links": [
+      "https://www.redjournal.org/article/S0360-3016%2823%2908012-4/fulltext",
+      "https://pubmed.ncbi.nlm.nih.gov/37863242/",
+      "https://doi.org/10.1016/j.ijrobp.2023.10.009"
+    ],
+    "pmid": "37863242",
+    "doi": "10.1016/j.ijrobp.2023.10.009",
+    "pmcid": "",
+    "id": "PMID37863242"
+  },
+  {
+    "seed_id": "C014",
+    "seed_title": "Extended nodal radiotherapy for prostate cancer relapse guided with [11C]-choline PET/CT: ten-year results in patients enrolled in a prospective trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37747578/",
+      "https://doi.org/10.1007/s00259-023-06445-4"
+    ],
+    "pmid": "37747578",
+    "doi": "10.1007/s00259-023-06445-4",
+    "pmcid": "",
+    "id": "PMID37747578"
+  },
+  {
+    "seed_id": "C015",
+    "seed_title": "Nodal radiotherapy for prostate adenocarcinoma recurrence: predictive factors for efficacy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11543566/",
+      "https://pubmed.ncbi.nlm.nih.gov/39525616/",
+      "https://doi.org/10.3389/fonc.2024.1468248"
+    ],
+    "pmid": "39525616",
+    "doi": "10.3389/fonc.2024.1468248",
+    "pmcid": "PMC11543566",
+    "id": "PMID39525616"
+  },
+  {
+    "seed_id": "C016",
+    "seed_title": "Safety and early efficacy of involved-field SBRT for nodal oligo-recurrent prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11524995/",
+      "https://pubmed.ncbi.nlm.nih.gov/39484030/",
+      "https://doi.org/10.3389/fonc.2024.1434504"
+    ],
+    "pmid": "39484030",
+    "doi": "10.3389/fonc.2024.1434504",
+    "pmcid": "PMC11524995",
+    "id": "PMID39484030"
+  },
+  {
+    "seed_id": "C017",
+    "seed_title": "PEACE V-Salvage Treatment of OligoRecurrent nodal prostate cancer Metastases (STORM): Acute Toxicity of a Randomized Phase 2 Trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37821242/",
+      "https://doi.org/10.1016/j.euo.2023.09.007"
+    ],
+    "pmid": "37821242",
+    "doi": "10.1016/j.euo.2023.09.007",
+    "pmcid": "",
+    "id": "PMID37821242"
+  },
+  {
+    "seed_id": "C018",
+    "seed_title": "SBRT in Lymph-Nodal Oligometastases from Prostate Cancer: Different Outcomes between Pelvic and Para-Aortic Disease.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11173227/",
+      "https://pubmed.ncbi.nlm.nih.gov/38893002/",
+      "https://doi.org/10.3390/jcm13113291"
+    ],
+    "pmid": "38893002",
+    "doi": "10.3390/jcm13113291",
+    "pmcid": "PMC11173227",
+    "id": "PMID38893002"
+  },
+  {
+    "seed_id": "C019",
+    "seed_title": "Whole pelvis vs. hemi pelvis elective nodal radiotherapy in patients with PSMA-positive nodal recurrence after radical prostatectomy - a retrospective multi-institutional propensity score analysis.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11445306/",
+      "https://pubmed.ncbi.nlm.nih.gov/38940843/",
+      "https://doi.org/10.1007/s00259-024-06802-x"
+    ],
+    "pmid": "38940843",
+    "doi": "10.1007/s00259-024-06802-x",
+    "pmcid": "PMC11445306",
+    "id": "PMID38940843"
+  },
+  {
+    "seed_id": "C020",
+    "seed_title": "Salvage lymphadenectomy or radiation therapy in prostate cancer patients with biochemical recurrence and PET positive lymph nodes after radical prostatectomy: A systematic review and pooled analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/39326304/",
+      "https://doi.org/10.1016/j.ejso.2024.108704"
+    ],
+    "pmid": "39326304",
+    "doi": "10.1016/j.ejso.2024.108704",
+    "pmcid": "",
+    "id": "PMID39326304"
+  },
+  {
+    "seed_id": "C021",
+    "seed_title": "Pattern of recurrence after stereotactic body radiotherapy for para-aortic oligo-recurrent prostate cancer, a multicentric analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37597125/",
+      "https://doi.org/10.1007/s11547-023-01701-x"
+    ],
+    "pmid": "37597125",
+    "doi": "10.1007/s11547-023-01701-x",
+    "pmcid": "",
+    "id": "PMID37597125"
+  },
+  {
+    "seed_id": "C022",
+    "seed_title": "Outcomes of Sterotactic Body Radiotherapy (SBRT) for pelvic lymph node recurrences after adjuvant or primary radiotherapy for prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/38384065/",
+      "https://doi.org/10.4103/jcrt.jcrt_1493_22"
+    ],
+    "pmid": "38384065",
+    "doi": "10.4103/jcrt.jcrt_1493_22",
+    "pmcid": "",
+    "id": "PMID38384065"
+  },
+  {
+    "seed_id": "C023",
+    "seed_title": "Stereotactic Body Radiation Therapy Salvage for Lymph Node Recurrent Prostate Cancer in the Era of PSMA PET Imaging.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37395949/",
+      "https://doi.org/10.1007/s11934-023-01174-5"
+    ],
+    "pmid": "37395949",
+    "doi": "10.1007/s11934-023-01174-5",
+    "pmcid": "",
+    "id": "PMID37395949"
+  },
+  {
+    "seed_id": "C024",
+    "seed_title": "Prognostic factors, efficacy, and toxicity of involved-node stereotactic body radiation therapy for lymph node oligorecurrent prostate cancer : An investigation of 117 pelvic lymph nodes.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/34757443/",
+      "https://doi.org/10.1007/s00066-021-01871-5"
+    ],
+    "pmid": "34757443",
+    "doi": "10.1007/s00066-021-01871-5",
+    "pmcid": "",
+    "id": "PMID34757443"
+  },
+  {
+    "seed_id": "C025",
+    "seed_title": "Pattern of Recurrence After Stereotactic Radiotherapy in Prostate Cancer Patients With Nodal Pelvic Relapse. A Multi-Institutional Retrospective Analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/34598843/",
+      "https://doi.org/10.1016/j.clon.2021.09.014"
+    ],
+    "pmid": "34598843",
+    "doi": "10.1016/j.clon.2021.09.014",
+    "pmcid": "",
+    "id": "PMID34598843"
+  },
+  {
+    "seed_id": "C026",
+    "seed_title": "Para-Aortic Radiation Therapy for Oligorecurrent Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/35671868/",
+      "https://doi.org/10.1016/j.ijrobp.2022.05.040"
+    ],
+    "pmid": "35671868",
+    "doi": "10.1016/j.ijrobp.2022.05.040",
+    "pmcid": "",
+    "id": "PMID35671868"
+  },
+  {
+    "seed_id": "C027",
+    "seed_title": "Outcome after PSMA-PET/CT-based salvage radiotherapy for nodal recurrence after radical prostatectomy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8921036/",
+      "https://pubmed.ncbi.nlm.nih.gov/34628521/",
+      "https://doi.org/10.1007/s00259-021-05557-z"
+    ],
+    "pmid": "34628521",
+    "doi": "10.1007/s00259-021-05557-z",
+    "pmcid": "PMC8921036",
+    "id": "PMID34628521"
+  },
+  {
+    "seed_id": "C028",
+    "seed_title": "Stereotactic radiotherapy of nodal oligometastases from prostate cancer: a prisma-compliant systematic review.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9637632/",
+      "https://pubmed.ncbi.nlm.nih.gov/35980556/",
+      "https://doi.org/10.1007/s10585-022-10183-6"
+    ],
+    "pmid": "35980556",
+    "doi": "10.1007/s10585-022-10183-6",
+    "pmcid": "PMC9637632",
+    "id": "PMID35980556"
+  },
+  {
+    "seed_id": "C029",
+    "seed_title": "OLIGOPELVIS GETUG P07, a Multicenter Phase II Trial of Combined High-dose Salvage Radiotherapy and Hormone Therapy in Oligorecurrent Pelvic Node Relapses in Prostate Cancer.",
+    "links": [
+      "https://hal.science/hal-03612922v1/document",
+      "https://pubmed.ncbi.nlm.nih.gov/34247896/",
+      "https://doi.org/10.1016/j.eururo.2021.06.010"
+    ],
+    "pmid": "34247896",
+    "doi": "10.1016/j.eururo.2021.06.010",
+    "pmcid": "",
+    "id": "PMID34247896"
+  },
+  {
+    "seed_id": "C030",
+    "seed_title": "Radiotherapy treatment volumes for oligorecurrent nodal prostate cancer: a systematic review.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/32536241/",
+      "https://doi.org/10.1080/0284186x.2020.1775291"
+    ],
+    "pmid": "32536241",
+    "doi": "10.1080/0284186x.2020.1775291",
+    "pmcid": "",
+    "id": "PMID32536241"
+  },
+  {
+    "seed_id": "C031",
+    "seed_title": "Salvage radiotherapy in patients affected by oligorecurrent pelvic nodal prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/32418156/",
+      "https://doi.org/10.1007/s12094-020-02364-0"
+    ],
+    "pmid": "32418156",
+    "doi": "10.1007/s12094-020-02364-0",
+    "pmcid": "",
+    "id": "PMID32418156"
+  },
+  {
+    "seed_id": "C032",
+    "seed_title": "PSMA-positive nodal recurrence in prostate cancer : Salvage radiotherapy is superior to salvage lymph node dissection in retrospective analysis.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7305083/",
+      "https://pubmed.ncbi.nlm.nih.gov/32211942/",
+      "https://doi.org/10.1007/s00066-020-01605-z"
+    ],
+    "pmid": "32211942",
+    "doi": "10.1007/s00066-020-01605-z",
+    "pmcid": "PMC7305083",
+    "id": "PMID32211942"
+  },
+  {
+    "seed_id": "C033",
+    "seed_title": "Metastasis-directed Therapy in Treating Nodal Oligorecurrent Prostate Cancer: A Multi-institutional Analysis Comparing the Outcome and Toxicity of Stereotactic Body Radiotherapy and Elective Nodal Radiotherapy.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/31331782/",
+      "https://doi.org/10.1016/j.eururo.2019.07.009"
+    ],
+    "pmid": "31331782",
+    "doi": "10.1016/j.eururo.2019.07.009",
+    "pmcid": "",
+    "id": "PMID31331782"
+  },
+  {
+    "seed_id": "C034",
+    "seed_title": "Salvage extended field or involved field nodal irradiation in 18F-fluorocholine PET/CT oligorecurrent nodal failures from prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/30267117/",
+      "https://doi.org/10.1007/s00259-018-4159-0"
+    ],
+    "pmid": "30267117",
+    "doi": "10.1007/s00259-018-4159-0",
+    "pmcid": "",
+    "id": "PMID30267117"
+  },
+  {
+    "seed_id": "C035",
+    "seed_title": "Predictive factors for response to salvage stereotactic body radiotherapy in oligorecurrent prostate cancer limited to lymph nodes: a single institution experience.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6734440/",
+      "https://pubmed.ncbi.nlm.nih.gov/31500621/",
+      "https://doi.org/10.1186/s12894-019-0515-z"
+    ],
+    "pmid": "31500621",
+    "doi": "10.1186/s12894-019-0515-z",
+    "pmcid": "PMC6734440",
+    "id": "PMID31500621"
+  },
+  {
+    "seed_id": "C036",
+    "seed_title": "Standard of Care Versus Metastases-directed Therapy for PET-detected Nodal Oligorecurrent Prostate Cancer Following Multimodality Treatment: A Multi-institutional Case-control Study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/29530632/",
+      "https://doi.org/10.1016/j.euf.2018.02.015"
+    ],
+    "pmid": "29530632",
+    "doi": "10.1016/j.euf.2018.02.015",
+    "pmcid": "",
+    "id": "PMID29530632"
+  },
+  {
+    "seed_id": "C037",
+    "seed_title": "Early Toxicity of a Phase 2 Trial of Combined Salvage Radiation Therapy and Hormone Therapy in Oligometastatic Pelvic Node Relapses of Prostate Cancer (OLIGOPELVIS GETUG P07).",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/30557672/",
+      "https://doi.org/10.1016/j.ijrobp.2018.12.020"
+    ],
+    "pmid": "30557672",
+    "doi": "10.1016/j.ijrobp.2018.12.020",
+    "pmcid": "",
+    "id": "PMID30557672"
+  },
+  {
+    "seed_id": "C038",
+    "seed_title": "Stereotactic body radiotherapy in oligometastatic prostate cancer patients with isolated lymph nodes involvement: a two-institution experience.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/27233779/",
+      "https://doi.org/10.1007/s00345-016-1860-0"
+    ],
+    "pmid": "27233779",
+    "doi": "10.1007/s00345-016-1860-0",
+    "pmcid": "",
+    "id": "PMID27233779"
+  },
+  {
+    "seed_id": "C039",
+    "seed_title": "Salvage Stereotactic Body Radiotherapy for Isolated Lymph Node Recurrent Prostate Cancer: Single Institution Series of 94 Consecutive Patients and 124 Lymph Nodes.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/28185875/",
+      "https://doi.org/10.1016/j.clgc.2017.01.004"
+    ],
+    "pmid": "28185875",
+    "doi": "10.1016/j.clgc.2017.01.004",
+    "pmcid": "",
+    "id": "PMID28185875"
+  },
+  {
+    "seed_id": "C040",
+    "seed_title": "Pattern of Progression after Stereotactic Body Radiotherapy for Oligometastatic Prostate Cancer Nodal Recurrences.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/27133946/",
+      "https://doi.org/10.1016/j.clon.2016.04.040"
+    ],
+    "pmid": "27133946",
+    "doi": "10.1016/j.clon.2016.04.040",
+    "pmcid": "",
+    "id": "PMID27133946"
+  },
+  {
+    "seed_id": "C041",
+    "seed_title": "Stereotactic radiotherapy for isolated nodal recurrence of prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/25342516/",
+      "https://doi.org/10.1007/s00345-014-1427-x"
+    ],
+    "pmid": "25342516",
+    "doi": "10.1007/s00345-014-1427-x",
+    "pmcid": "",
+    "id": "PMID25342516"
+  },
+  {
+    "seed_id": "C042",
+    "seed_title": "Salvage Stereotactic Body Radiotherapy for Patients With Prostate Cancer With Isolated Lymph Node Metastasis: A Single-Center Experience.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/25604915/",
+      "https://doi.org/10.1016/j.clgc.2014.12.014"
+    ],
+    "pmid": "25604915",
+    "doi": "10.1016/j.clgc.2014.12.014",
+    "pmcid": "",
+    "id": "PMID25604915"
+  },
+  {
+    "seed_id": "C043",
+    "seed_title": "Efficacy of eradicative radiotherapy for limited nodal metastases detected with choline PET scan in prostate cancer patients.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/21528664/",
+      "https://doi.org/10.1177/030089161109700110"
+    ],
+    "pmid": "21528664",
+    "doi": "10.1177/030089161109700110",
+    "pmcid": "",
+    "id": "PMID21528664"
+  },
+  {
+    "seed_id": "D001",
+    "seed_title": "Outcomes of Radiotherapy With or Without Dose Escalation to Lymph Node Metastases Detected by PET PSMA or Conventional Imaging in Node-Positive Prostate Cancer: A Real-World Multicenter Propensity Score-Matched (PRIMENOD) Analysis.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13132049/",
+      "https://pubmed.ncbi.nlm.nih.gov/42081701/",
+      "https://doi.org/10.1097/rlu.0000000000006418"
+    ],
+    "pmid": "42081701",
+    "doi": "10.1097/rlu.0000000000006418",
+    "pmcid": "PMC13132049",
+    "id": "PMID42081701"
+  },
+  {
+    "seed_id": "D002",
+    "seed_title": "Hematological Toxicity and Bone Marrow Dose-Volume Effects in Chemotherapy-Naïve Patients Treated With Whole Pelvic and Para-aortic Lymph Node Radiation Therapy For Pathologic Pelvic Lymph Node-Positive Prostate Cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13382578/",
+      "https://pubmed.ncbi.nlm.nih.gov/42519375/",
+      "https://doi.org/10.1016/j.adro.2026.102072"
+    ],
+    "pmid": "42519375",
+    "doi": "10.1016/j.adro.2026.102072",
+    "pmcid": "PMC13382578",
+    "id": "PMID42519375"
+  },
+  {
+    "seed_id": "D003",
+    "seed_title": "PROQURE-I: a phase I study adding concurrent [177Lu]Lu-PSMA-617 to EBRT and ADT in curative intent treatment of N1 prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421286/",
+      "https://pubmed.ncbi.nlm.nih.gov/42201380/",
+      "https://doi.org/10.1007/s00259-026-07956-6"
+    ],
+    "pmid": "42201380",
+    "doi": "10.1007/s00259-026-07956-6",
+    "pmcid": "PMC13421286",
+    "id": "PMID42201380"
+  },
+  {
+    "seed_id": "D004",
+    "seed_title": "MUlticentre REtrospective comparison of definitive EBRT with or without HDR BRAchytherapy boost in patients with locally-advanced prostate cancer and regional lymph NOde metastases (MUREBRANO) - A propensity score matched analysis.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40882818/",
+      "https://doi.org/10.1016/j.radonc.2025.111112"
+    ],
+    "pmid": "40882818",
+    "doi": "10.1016/j.radonc.2025.111112",
+    "pmcid": "",
+    "id": "PMID40882818"
+  },
+  {
+    "seed_id": "D005",
+    "seed_title": "Pelvic lymph node mapping in prostate cancer: examining the impact of PSMA PET/CT on radiotherapy decision-making in patients with node-positive disease.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11285572/",
+      "https://pubmed.ncbi.nlm.nih.gov/39075567/",
+      "https://doi.org/10.1186/s40644-024-00742-3"
+    ],
+    "pmid": "39075567",
+    "doi": "10.1186/s40644-024-00742-3",
+    "pmcid": "PMC11285572",
+    "id": "PMID39075567"
+  },
+  {
+    "seed_id": "D006",
+    "seed_title": "Evaluating the Impact of Prostate Only Versus Pelvic Radiotherapy for Pathological Node-positive Prostate Cancer: First Results from the Multicenter Phase 3 PROPER Trial.",
+    "links": [
+      "https://biblio.ugent.be/publication/01GQFR4QSYXBB0Q140BN2864XM",
+      "https://pubmed.ncbi.nlm.nih.gov/36154809/",
+      "https://doi.org/10.1016/j.euf.2022.09.005"
+    ],
+    "pmid": "36154809",
+    "doi": "10.1016/j.euf.2022.09.005",
+    "pmcid": "",
+    "id": "PMID36154809"
+  },
+  {
+    "seed_id": "D007",
+    "seed_title": "Ten-year outcomes of whole-pelvic intensity-modulated radiation therapy for prostate cancer with regional lymph node metastasis.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10134326/",
+      "https://pubmed.ncbi.nlm.nih.gov/36536528/",
+      "https://doi.org/10.1002/cam4.5554"
+    ],
+    "pmid": "36536528",
+    "doi": "10.1002/cam4.5554",
+    "pmcid": "PMC10134326",
+    "id": "PMID36536528"
+  },
+  {
+    "seed_id": "D008",
+    "seed_title": "Multi-institutional Development and Validation of Contouring Guidelines for Para-aortic Elective Nodal Irradiation in Prostate Cancer Based on Patterns of Involvement on Targeted Molecular Imaging Positron Emission Tomography/Computed Tomography.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/37201758/",
+      "https://doi.org/10.1016/j.ijrobp.2023.05.017"
+    ],
+    "pmid": "37201758",
+    "doi": "10.1016/j.ijrobp.2023.05.017",
+    "pmcid": "",
+    "id": "PMID37201758"
+  },
+  {
+    "seed_id": "D009",
+    "seed_title": "An Analysis of the Distribution of PSMA PET/CT-Positive Lymph Nodes and Their Coverage by Different Elective Nodal Radiation Volumes in Postoperative Prostate Cancer Patients.",
+    "links": [
+      "https://jnm.snmjournals.org/content/jnumed/64/6/918.full.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/36732055/",
+      "https://doi.org/10.2967/jnumed.122.265159"
+    ],
+    "pmid": "36732055",
+    "doi": "10.2967/jnumed.122.265159",
+    "pmcid": "",
+    "id": "PMID36732055"
+  },
+  {
+    "seed_id": "D010",
+    "seed_title": "Prostate-specific Membrane Antigen Positron Emission Tomography/Computed Tomography-based Lymph Node Atlas for Salvage Radiotherapy in Patients with Recurrent Prostate Cancer: A Validation of the New NRG Oncology 2020 guideline.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/36280446/",
+      "https://doi.org/10.1016/j.euo.2022.09.006"
+    ],
+    "pmid": "36280446",
+    "doi": "10.1016/j.euo.2022.09.006",
+    "pmcid": "",
+    "id": "PMID36280446"
+  },
+  {
+    "seed_id": "D011",
+    "seed_title": "Prostate-Centric Versus Bony-Centric Registration in the Definitive Treatment of Node-Positive Prostate Cancer with Simultaneous Integrated Boost: A Dosimetric Comparison.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9061255/",
+      "https://pubmed.ncbi.nlm.nih.gov/35521072/",
+      "https://doi.org/10.1016/j.adro.2022.100944"
+    ],
+    "pmid": "35521072",
+    "doi": "10.1016/j.adro.2022.100944",
+    "pmcid": "PMC9061255",
+    "id": "PMID35521072"
+  },
+  {
+    "seed_id": "D012",
+    "seed_title": "Intensity-Modulated Radiation Therapy with Simultaneous Integrated Boost for Clinically Node-Positive Prostate Cancer: A Single-Institutional Retrospective Study.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8345592/",
+      "https://pubmed.ncbi.nlm.nih.gov/34359768/",
+      "https://doi.org/10.3390/cancers13153868"
+    ],
+    "pmid": "34359768",
+    "doi": "10.3390/cancers13153868",
+    "pmcid": "PMC8345592",
+    "id": "PMID34359768"
+  },
+  {
+    "seed_id": "D013",
+    "seed_title": "Ultra hypofractionated extended nodal irradiation using volumetric modulated arc therapy for oligorecurrent pelvic nodal prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/34148727/",
+      "https://doi.org/10.1016/j.meddos.2021.05.002"
+    ],
+    "pmid": "34148727",
+    "doi": "10.1016/j.meddos.2021.05.002",
+    "pmcid": "",
+    "id": "PMID34148727"
+  },
+  {
+    "seed_id": "D014",
+    "seed_title": "Safety and Efficacy of Ultra-hypofractionation in Node-positive Prostate Cancer.",
+    "links": [
+      "http://www.clinicaloncologyonline.net/article/S0936655520304088/pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/33214044/",
+      "https://doi.org/10.1016/j.clon.2020.10.019"
+    ],
+    "pmid": "33214044",
+    "doi": "10.1016/j.clon.2020.10.019",
+    "pmcid": "",
+    "id": "PMID33214044"
+  },
+  {
+    "seed_id": "D015",
+    "seed_title": "The Distribution of Pelvic Nodal Metastases in Prostate Cancer Reveals Potential to Advance and Personalize Pelvic Radiotherapy.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7820617/",
+      "https://pubmed.ncbi.nlm.nih.gov/33489887/",
+      "https://doi.org/10.3389/fonc.2020.590722"
+    ],
+    "pmid": "33489887",
+    "doi": "10.3389/fonc.2020.590722",
+    "pmcid": "PMC7820617",
+    "id": "PMID33489887"
+  },
+  {
+    "seed_id": "D016",
+    "seed_title": "Overall survival comparison between androgen deprivation therapy (ADT) plus external beam radiation therapy (EBRT) vs ADT plus EBRT with brachytherapy boost in clinically node-positive prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/32624405/",
+      "https://doi.org/10.1016/j.brachy.2020.05.007"
+    ],
+    "pmid": "32624405",
+    "doi": "10.1016/j.brachy.2020.05.007",
+    "pmcid": "",
+    "id": "PMID32624405"
+  },
+  {
+    "seed_id": "D017",
+    "seed_title": "Nodal recurrence patterns on PET/CT after RTOG-based nodal radiotherapy for prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7056599/",
+      "https://pubmed.ncbi.nlm.nih.gov/32154392/",
+      "https://doi.org/10.1016/j.ctro.2020.02.006"
+    ],
+    "pmid": "32154392",
+    "doi": "10.1016/j.ctro.2020.02.006",
+    "pmcid": "PMC7056599",
+    "id": "PMID32154392"
+  },
+  {
+    "seed_id": "D018",
+    "seed_title": "Clinical outcomes of definitive whole pelvic radiotherapy for clinical lymph node metastatic prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7520291/",
+      "https://pubmed.ncbi.nlm.nih.gov/32750234/",
+      "https://doi.org/10.1002/cam4.2985"
+    ],
+    "pmid": "32750234",
+    "doi": "10.1002/cam4.2985",
+    "pmcid": "PMC7520291",
+    "id": "PMID32750234"
+  },
+  {
+    "seed_id": "D019",
+    "seed_title": "Moderately Hypofractionated Radiotherapy in Node-positive Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/30718087/",
+      "https://doi.org/10.1016/j.clon.2019.01.004"
+    ],
+    "pmid": "30718087",
+    "doi": "10.1016/j.clon.2019.01.004",
+    "pmcid": "",
+    "id": "PMID30718087"
+  },
+  {
+    "seed_id": "D020",
+    "seed_title": "Low rate of lymphedema after extended pelvic lymphadenectomy followed by pelvic irradiation of node-positive prostate cancer.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3842657/",
+      "https://pubmed.ncbi.nlm.nih.gov/24252686/",
+      "https://doi.org/10.1186/1748-717x-8-271"
+    ],
+    "pmid": "24252686",
+    "doi": "10.1186/1748-717x-8-271",
+    "pmcid": "PMC3842657",
+    "id": "PMID24252686"
+  },
+  {
+    "seed_id": "D021",
+    "seed_title": "Magnetic resonance lymphography-guided selective high-dose lymph node irradiation in prostate cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/21075555/",
+      "https://doi.org/10.1016/j.ijrobp.2010.09.023"
+    ],
+    "pmid": "21075555",
+    "doi": "10.1016/j.ijrobp.2010.09.023",
+    "pmcid": "",
+    "id": "PMID21075555"
+  },
+  {
+    "seed_id": "F001",
+    "seed_title": "Study Protocol of OLIGOPELVIS 2-GETUG P12: A Randomized Phase 3 Study Comparing Intermittent Androgen-deprivation Therapy with or Without Salvage High-dose Intensity-modulated Radiotherapy to Oligorecurrent Pelvic and Para-aortic Lymph Nodes in Patients with Biochemically Relapsing Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42276876/",
+      "https://doi.org/10.1016/j.euo.2026.04.009"
+    ],
+    "pmid": "42276876",
+    "doi": "10.1016/j.euo.2026.04.009",
+    "pmcid": "",
+    "id": "PMID42276876"
+  },
+  {
+    "seed_id": "F002",
+    "seed_title": "Pelvis Or Involved Node Treatment: Eradicating Recurrence in Prostate Cancer (POINTER-PC) - study protocol paper for a phase III multicentre, open-label randomised controlled trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11683931/",
+      "https://pubmed.ncbi.nlm.nih.gov/39725427/",
+      "https://doi.org/10.1136/bmjopen-2024-095560"
+    ],
+    "pmid": "39725427",
+    "doi": "10.1136/bmjopen-2024-095560",
+    "pmcid": "PMC11683931",
+    "id": "PMID39725427"
+  },
+  {
+    "seed_id": "F003",
+    "seed_title": "Tolerability of concurrent external beam radiotherapy and [177Lu]Lu-PSMA-617 for node-positive prostate cancer in treatment naïve patients, phase I study (PROQURE-I trial).",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035228/",
+      "https://pubmed.ncbi.nlm.nih.gov/36959540/",
+      "https://doi.org/10.1186/s12885-023-10725-5"
+    ],
+    "pmid": "36959540",
+    "doi": "10.1186/s12885-023-10725-5",
+    "pmcid": "PMC10035228",
+    "id": "PMID36959540"
+  },
+  {
+    "seed_id": "F004",
+    "seed_title": "Study protocol of a randomised controlled trial of prostate radiotherapy in high-risk and node-positive disease comparing moderate and extreme hypofractionation (PRIME TRIAL).",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7050316/",
+      "https://pubmed.ncbi.nlm.nih.gov/32114475/",
+      "https://doi.org/10.1136/bmjopen-2019-034623"
+    ],
+    "pmid": "32114475",
+    "doi": "10.1136/bmjopen-2019-034623",
+    "pmcid": "PMC7050316",
+    "id": "PMID32114475"
+  },
+  {
+    "seed_id": "F005",
+    "seed_title": "Benefits of Elective Para-Aortic Radiotherapy for pN1 Prostate Cancer Using Arc Therapy (Intensity-Modulated or Volumetric Modulated Arc Therapy): Protocol for a Nonrandomized Phase II Trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315267/",
+      "https://pubmed.ncbi.nlm.nih.gov/30545809/",
+      "https://doi.org/10.2196/11256"
+    ],
+    "pmid": "30545809",
+    "doi": "10.2196/11256",
+    "pmcid": "PMC6315267",
+    "id": "PMID30545809"
+  },
+  {
+    "seed_id": "E001",
+    "seed_title": "Pre-PROTO-PRIME: stereotactic body proton therapy to the prostate and pelvic nodes for high-risk and node-positive prostate cancer - feasibility, acute toxicity and dosimetric insights.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12719672/",
+      "https://pubmed.ncbi.nlm.nih.gov/41438100/",
+      "https://doi.org/10.1016/j.ctro.2025.101084"
+    ],
+    "pmid": "41438100",
+    "doi": "10.1016/j.ctro.2025.101084",
+    "pmcid": "PMC12719672",
+    "id": "PMID41438100"
+  },
+  {
+    "seed_id": "E002",
+    "seed_title": "Moderate hypofractionated boost to the prostate with pelvic radiotherapy in high-risk prostate cancer (MOB-RT) - a phase 2 study: acute safety and quality of life outcomes.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/42177994/",
+      "https://doi.org/10.1016/j.radonc.2026.111614"
+    ],
+    "pmid": "42177994",
+    "doi": "10.1016/j.radonc.2026.111614",
+    "pmcid": "",
+    "id": "PMID42177994"
+  },
+  {
+    "seed_id": "E003",
+    "seed_title": "FORMULA-509: A Multicenter Randomized Trial of Postprostatectomy Salvage Radiotherapy and 6 months of a GNRH Agonist with Either Bicalutamide or Abiraterone Acetate plus Prednisone and Apalutamide.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/41672869/",
+      "https://doi.org/10.1016/j.eururo.2025.12.001"
+    ],
+    "pmid": "41672869",
+    "doi": "10.1016/j.eururo.2025.12.001",
+    "pmcid": "",
+    "id": "PMID41672869"
+  },
+  {
+    "seed_id": "E004",
+    "seed_title": "ADT with SBRT versus SBRT alone for hormone-sensitive oligorecurrent prostate cancer (RADIOSA): a randomised, open-label, phase 2 clinical trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40049196/",
+      "https://doi.org/10.1016/s1470-2045(24)00730-7"
+    ],
+    "pmid": "40049196",
+    "doi": "10.1016/s1470-2045(24)00730-7",
+    "pmcid": "",
+    "id": "PMID40049196"
+  },
+  {
+    "seed_id": "E005",
+    "seed_title": "Continuous Androgen Deprivation Therapy with or Without Metastasis-directed Therapy for Oligometastatic Prostate Cancer: The Multicenter Phase 2 Randomized EXTEND Trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12921538/",
+      "https://pubmed.ncbi.nlm.nih.gov/40750497/",
+      "https://doi.org/10.1016/j.eururo.2025.07.006"
+    ],
+    "pmid": "40750497",
+    "doi": "10.1016/j.eururo.2025.07.006",
+    "pmcid": "PMC12921538",
+    "id": "PMID40750497"
+  },
+  {
+    "seed_id": "E006",
+    "seed_title": "Radical Prostatectomy Versus Radiation Therapy for Locally Advanced and Clinically Nodal Positive Prostate Cancer.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/40446641/",
+      "https://doi.org/10.1016/j.clgc.2025.102370"
+    ],
+    "pmid": "40446641",
+    "doi": "10.1016/j.clgc.2025.102370",
+    "pmcid": "",
+    "id": "PMID40446641"
+  },
+  {
+    "seed_id": "E007",
+    "seed_title": "Duration of androgen deprivation therapy with postoperative radiotherapy for prostate cancer: a comparison of long-course versus short-course androgen deprivation therapy in the RADICALS-HD randomised trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616389/",
+      "https://pubmed.ncbi.nlm.nih.gov/38763153/",
+      "https://doi.org/10.1016/s0140-6736(24)00549-x"
+    ],
+    "pmid": "38763153",
+    "doi": "10.1016/s0140-6736(24)00549-x",
+    "pmcid": "PMC7616389",
+    "id": "PMID38763153"
+  },
+  {
+    "seed_id": "E008",
+    "seed_title": "Addition of Metastasis-Directed Therapy to Intermittent Hormone Therapy for Oligometastatic Prostate Cancer: The EXTEND Phase 2 Randomized Clinical Trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10080407/",
+      "https://pubmed.ncbi.nlm.nih.gov/37022702/",
+      "https://doi.org/10.1001/jamaoncol.2023.0161"
+    ],
+    "pmid": "37022702",
+    "doi": "10.1001/jamaoncol.2023.0161",
+    "pmcid": "PMC10080407",
+    "id": "PMID37022702"
+  },
+  {
+    "seed_id": "E009",
+    "seed_title": "Abiraterone acetate and prednisolone with or without enzalutamide for high-risk non-metastatic prostate cancer: a meta-analysis of primary results from two randomised controlled phase 3 trials of the STAMPEDE platform protocol.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8811484/",
+      "https://pubmed.ncbi.nlm.nih.gov/34953525/",
+      "https://doi.org/10.1016/s0140-6736(21)02437-5"
+    ],
+    "pmid": "34953525",
+    "doi": "10.1016/s0140-6736(21)02437-5",
+    "pmcid": "PMC8811484",
+    "id": "PMID34953525"
+  },
+  {
+    "seed_id": "E010",
+    "seed_title": "Long-Term Outcomes and Genetic Predictors of Response to Metastasis-Directed Therapy Versus Observation in Oligometastatic Prostate Cancer: Analysis of STOMP and ORIOLE Trials.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10166371/",
+      "https://pubmed.ncbi.nlm.nih.gov/36001857/",
+      "https://doi.org/10.1200/jco.22.00644"
+    ],
+    "pmid": "36001857",
+    "doi": "10.1200/jco.22.00644",
+    "pmcid": "PMC10166371",
+    "id": "PMID36001857"
+  },
+  {
+    "seed_id": "E011",
+    "seed_title": "The effectiveness of high-dose-rate brachytherapy with external beam radiotherapy for clinically locally advanced and node-positive prostate cancer: long-term results of a retrospective study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/34494172/",
+      "https://doi.org/10.1007/s10147-021-02023-6"
+    ],
+    "pmid": "34494172",
+    "doi": "10.1007/s10147-021-02023-6",
+    "pmcid": "",
+    "id": "PMID34494172"
+  },
+  {
+    "seed_id": "E012",
+    "seed_title": "Outcomes of Observation vs Stereotactic Ablative Radiation for Oligometastatic Prostate Cancer: The ORIOLE Phase 2 Randomized Clinical Trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7225913/",
+      "https://pubmed.ncbi.nlm.nih.gov/32215577/",
+      "https://doi.org/10.1001/jamaoncol.2020.0147"
+    ],
+    "pmid": "32215577",
+    "doi": "10.1001/jamaoncol.2020.0147",
+    "pmcid": "PMC7225913",
+    "id": "PMID32215577"
+  },
+  {
+    "seed_id": "E013",
+    "seed_title": "Surveillance or Metastasis-Directed Therapy for Oligometastatic Prostate Cancer Recurrence: A Prospective, Randomized, Multicenter Phase II Trial.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/29240541/",
+      "https://doi.org/10.1200/jco.2017.75.4853"
+    ],
+    "pmid": "29240541",
+    "doi": "10.1200/jco.2017.75.4853",
+    "pmcid": "",
+    "id": "PMID29240541"
+  },
+  {
+    "seed_id": "E014",
+    "seed_title": "Whole pelvis radiotherapy for pathological node-positive prostate cancer : Oncological outcome and prognostic factors.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/28101585/",
+      "https://doi.org/10.1007/s00066-016-1094-5"
+    ],
+    "pmid": "28101585",
+    "doi": "10.1007/s00066-016-1094-5",
+    "pmcid": "",
+    "id": "PMID28101585"
+  },
+  {
+    "seed_id": "E015",
+    "seed_title": "Failure-Free Survival and Radiotherapy in Patients With Newly Diagnosed Nonmetastatic Prostate Cancer: Data From Patients in the Control Arm of the STAMPEDE Trial.",
+    "links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4789485/",
+      "https://pubmed.ncbi.nlm.nih.gov/26606329/",
+      "https://doi.org/10.1001/jamaoncol.2015.4350"
+    ],
+    "pmid": "26606329",
+    "doi": "10.1001/jamaoncol.2015.4350",
+    "pmcid": "PMC4789485",
+    "id": "PMID26606329"
+  },
+  {
+    "seed_id": "E016",
+    "seed_title": "The Outcome for Patients With Pathologic Node-Positive Prostate Cancer Treated With Intensity Modulated Radiation Therapy and Androgen Deprivation Therapy: A Case-Matched Analysis of pN1 and pN0 Patients.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/27598803/",
+      "https://doi.org/10.1016/j.ijrobp.2016.06.011"
+    ],
+    "pmid": "27598803",
+    "doi": "10.1016/j.ijrobp.2016.06.011",
+    "pmcid": "",
+    "id": "PMID27598803"
+  },
+  {
+    "seed_id": "E017",
+    "seed_title": "The impact of definitive local therapy for lymph node-positive prostate cancer: a population-based study.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/24661660/",
+      "https://doi.org/10.1016/j.ijrobp.2014.01.008"
+    ],
+    "pmid": "24661660",
+    "doi": "10.1016/j.ijrobp.2014.01.008",
+    "pmcid": "",
+    "id": "PMID24661660"
+  },
+  {
+    "seed_id": "E018",
+    "seed_title": "Radiotherapy in lymph node-positive prostate cancer patients - a potential cure? Single institutional experience regarding outcome and side effects.",
+    "links": [
+      "https://pubmed.ncbi.nlm.nih.gov/18544987/",
+      "https://doi.org/10.1159/000139880",
+      "https://europepmc.org/search?query=%28TITLE_ABS%3Aprostat%2A%29%20AND%20%28TITLE_ABS%3A%22node-positive%22%20OR%20TITLE_ABS%3A%22lymph%20node%22%20OR%20TITLE_ABS%3Anodal%20OR%20TITLE_ABS%3AcN1%20OR%20TITLE_ABS%3ApN1%29%20AND%20%28TITLE_ABS%3Aradiotherap%2A%20OR%20TITLE_ABS%3Airradiat%2A%20OR%20TITLE_ABS%3A%22radiation%20therapy%22%20OR%20TITLE_ABS%3ASBRT%20OR%20TITLE_ABS%3AENRT%29%20AND%20FIRST_PDATE%3A%5B1900-01-01%20TO%202026-09-13%5D",
+      "https://europepmc.org/search?query=prostate%20AND%20%28cN1%20OR%20pN1%20OR%20%22node-positive%22%29%20AND%20%28radiotherapy%20OR%20irradiation%20OR%20%22radiation%20therapy%22%29",
+      "https://europepmc.org/search?query=prostate%20AND%20%28%22nodal%20recurrence%22%20OR%20%22nodal%20oligorecurrence%22%20OR%20%22lymph%20node%20recurrence%22%29%20AND%20%28radiotherapy%20OR%20SBRT%20OR%20ENRT%20OR%20reirradiation%29",
+      "https://europepmc.org/search?query=prostate%20AND%20%28%22lymph%20node%22%20OR%20nodal%29%20AND%20%28radiotherapy%20OR%20irradiation%29%20AND%20%28mapping%20OR%20contouring%20OR%20dosimetry%20OR%20atlas%29",
+      "https://uroweb.org/guidelines/prostate-cancer/chapter/treatment"
+    ],
+    "pmid": "18544987",
+    "doi": "10.1159/000139880",
+    "pmcid": "",
+    "id": "PMID18544987"
+  }
+]
