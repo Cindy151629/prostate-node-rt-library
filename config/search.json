@@ -6,8 +6,8 @@
   "lookback_days": 90,
   "monthly_history": true,
   "stale_after_days": 9,
-  "site_url": null,
-  "deployment": "not_configured",
+  "site_url": "https://cindy151629.github.io/prostate-node-rt-library/",
+  "deployment": "github_pages_live",
   "query_version": "2026-09-14.2",
   "queries": [
     {
@@ -79,5 +79,6 @@
     "Web of Science",
     "知网",
     "万方"
-  ]
+  ],
+  "receipt_url": "https://raw.githubusercontent.com/Cindy151629/prostate-node-rt-library/data/state/publication-status.json"
 }

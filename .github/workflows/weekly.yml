@@ -36,6 +36,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cp data/reports/acceptance.json /tmp/prostate-acceptance.json
           if git show-ref --verify --quiet refs/remotes/origin/data; then
             git worktree add /tmp/prostate-state origin/data
             cp -a /tmp/prostate-state/state/. data/
@@ -43,6 +44,7 @@ jobs:
             git worktree add --detach /tmp/prostate-state HEAD
             git -C /tmp/prostate-state switch --orphan data
           fi
+          cp /tmp/prostate-acceptance.json data/reports/acceptance.json
           python - <<'PY'
           import json,os
           p='config/search.json'

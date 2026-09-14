@@ -91,6 +91,7 @@ def make_library(pm,ep,checks,previous=None):
   ident=source_identity(m,e,s);ft=checks.get(s['id'],{'status':'not_checked','reason':'尚未核查'});ft=dict(ft);ft['body_confirmed']=ft.get('status')=='body_obtained'
   if s['seed_id']=='G003':ft['version']='出版社版本；机构仓储公开副本'
   flags=[x for x in [n.get('population_flag')] if x and re.search('冲突|疑点|不一致|待核',x)]
+  if re.search('retracted publication|retraction of publication',' '.join(m.get('types',[])),re.I):flags.append('官方标记撤稿/撤稿公告；不得作为未经撤回的有效研究引用')
   if s['seed_id'] in ['C011','C034']:flags.append('摘要内部文字/终点不一致，需正文复核')
   src_changed=n.get('source_level')=='abstract' and n.get('source_sha256')!=hashlib.sha256(m.get('abstract','').encode()).hexdigest()
   r['verification']={'identity':ident,'fulltext':ft,'topic':{'status':'review_needed' if flags else 'source_screened','basis':n['design'],'issues':flags,'reviewer':'AI按来源筛选；未人工复核'},'content':{'status':'source_changed' if src_changed else 'source_checked_with_issues' if flags else 'source_checked','level':n['source_level'],'human_verified':False,'source_url':n['source_url'],'source_location':n['source_location'],'reviewed_at':n['reviewed_at'],'limitations':'依据摘要/指定正文段落整理；不代表整篇全文、图表和补充材料均已精读'}}

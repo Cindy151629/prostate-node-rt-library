@@ -525,12 +525,12 @@
   "PMID37330057": {
     "id": "PMID37330057",
     "seed_id": "A009",
-    "checked_at": "2026-09-14T09:30:17.318081+00:00",
+    "checked_at": "2026-09-14T10:22:08.964204+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 936,
+    "page_chars": 953,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.radonc.2023.109746",
     "attempts": [
@@ -544,18 +544,16 @@
   "PMID38847441": {
     "id": "PMID38847441",
     "seed_id": "A008",
-    "checked_at": "2026-09-14T09:30:14.545382+00:00",
+    "checked_at": "2026-09-14T10:22:08.595225+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 312523,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1097/rlu.0000000000005284: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1097/rlu.0000000000005284",
     "attempts": [
       {
         "url": "https://doi.org/10.1097/rlu.0000000000005284",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "index_open_access": false
@@ -582,7 +580,7 @@
   "PMID37186452": {
     "id": "PMID37186452",
     "seed_id": "A011",
-    "checked_at": "2026-09-14T09:30:19.298741+00:00",
+    "checked_at": "2026-09-14T10:22:09.936066+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -599,7 +597,7 @@
   "PMID35226380": {
     "id": "PMID35226380",
     "seed_id": "A012",
-    "checked_at": "2026-09-14T09:30:19.996838+00:00",
+    "checked_at": "2026-09-14T10:22:10.136101+00:00",
     "body_confirmed": true,
     "pmcid": "PMC9311819",
     "status": "body_obtained",
@@ -627,12 +625,12 @@
   "PMID35870708": {
     "id": "PMID35870708",
     "seed_id": "A013",
-    "checked_at": "2026-09-14T09:30:20.379581+00:00",
+    "checked_at": "2026-09-14T10:22:10.902336+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 896,
+    "page_chars": 908,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2022.07.011",
     "attempts": [
@@ -646,7 +644,7 @@
   "PMID35747822": {
     "id": "PMID35747822",
     "seed_id": "A014",
-    "checked_at": "2026-09-14T09:30:21.439223+00:00",
+    "checked_at": "2026-09-14T10:22:11.214442+00:00",
     "body_confirmed": true,
     "pmcid": "PMC9209705",
     "status": "body_obtained",
@@ -673,7 +671,7 @@
   "PMID37652494": {
     "id": "PMID37652494",
     "seed_id": "A010",
-    "checked_at": "2026-09-14T09:30:18.947880+00:00",
+    "checked_at": "2026-09-14T10:22:09.132897+00:00",
     "body_confirmed": false,
     "pmcid": "PMC10500494",
     "status": "access_restricted",
@@ -696,12 +694,12 @@
   "PMID32900626": {
     "id": "PMID32900626",
     "seed_id": "A015",
-    "checked_at": "2026-09-14T09:30:21.794377+00:00",
+    "checked_at": "2026-09-14T10:22:11.847622+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 970,
+    "page_chars": 993,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.urolonc.2020.08.018",
     "attempts": [
@@ -715,7 +713,7 @@
   "PMID33301015": {
     "id": "PMID33301015",
     "seed_id": "A016",
-    "checked_at": "2026-09-14T09:30:23.055858+00:00",
+    "checked_at": "2026-09-14T10:22:12.013760+00:00",
     "body_confirmed": true,
     "pmcid": "PMC7729429",
     "status": "body_obtained",
@@ -743,12 +741,12 @@
   "PMID29891203": {
     "id": "PMID29891203",
     "seed_id": "A017",
-    "checked_at": "2026-09-14T09:30:23.838715+00:00",
+    "checked_at": "2026-09-14T10:22:12.610919+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 887,
+    "page_chars": 899,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2018.04.023",
     "attempts": [
@@ -762,12 +760,12 @@
   "PMID24674370": {
     "id": "PMID24674370",
     "seed_id": "A019",
-    "checked_at": "2026-09-14T09:30:24.524315+00:00",
+    "checked_at": "2026-09-14T10:22:13.133523+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1046,
+    "page_chars": 963,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.prro.2012.11.011",
     "attempts": [
@@ -798,18 +796,16 @@
   "PMID25957435": {
     "id": "PMID25957435",
     "seed_id": "A018",
-    "checked_at": "2026-09-14T09:30:24.047468+00:00",
+    "checked_at": "2026-09-14T10:22:12.877379+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 80267,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1093/jnci/djv119: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1093/jnci/djv119",
     "attempts": [
       {
         "url": "https://doi.org/10.1093/jnci/djv119",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "index_open_access": false
