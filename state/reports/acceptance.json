@@ -101,20 +101,31 @@
   },
   "fault_tests": {
     "passed": true,
-    "count": 16,
+    "count": 17,
     "command": "python3 -m unittest discover -s tests -v"
   },
   "cloud_at_local_acceptance": false,
   "scheduled_event_observed": false,
   "browser": {
     "passed": true,
-    "checks": 194,
-    "tested_at": "2026-09-14T10:08:09.217Z",
+    "checks": 195,
+    "tested_at": "2026-09-14T10:25:18.844Z",
     "sizes": [
       "1440x1000",
       "390x844"
     ],
     "offline_file": true,
     "javascript_errors": []
+  },
+  "cloud": {
+    "deployed": true,
+    "run_url": "https://github.com/Cindy151629/prostate-node-rt-library/actions/runs/34832745993",
+    "url": "https://cindy151629.github.io/prostate-node-rt-library/",
+    "verified_at": "2026-09-14T10:22:23.298262+00:00",
+    "data_hash": "3fd820984e1a8b4e6ed4cfa17af480a78ccef4bdebecd7c7af99d4614d243808",
+    "default_branch": "main",
+    "pages_source": "workflow",
+    "workflow_state": "active",
+    "scheduled_event_observed": false
   }
 }

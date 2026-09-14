@@ -310,5 +310,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38589463": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:48.856331+00:00",
+    "url": "https://api.crossref.org/works/10.1038%2Fs41598-024-54976-z",
+    "doi": "10.1038/s41598-024-54976-z",
+    "title": [
+      "Androgen deprivation alone versus combined with pelvic radiation for adverse events and quality of life in clinically node-positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38847441": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:49.092620+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Frlu.0000000000005284",
+    "doi": "10.1097/rlu.0000000000005284",
+    "title": [
+      "Evaluation of Treatment Outcomes of Prostate Cancer Patients With Lymph Node Metastasis Treated With Definitive Radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37330057": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:49.447697+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.radonc.2023.109746",
+    "doi": "10.1016/j.radonc.2023.109746",
+    "title": [
+      "Impact of prostate radiotherapy on survival outcomes in clinically node-positive prostate cancer: A multicentre retrospective analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37652494": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:49.816827+00:00",
+    "url": "https://api.crossref.org/works/10.21873%2Finvivo.13341",
+    "doi": "10.21873/invivo.13341",
+    "title": [
+      "Predictors of Outcomes in Patients With Clinically Lymph Node Positive Prostate Cancer After Definitive Radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37186452": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:50.306436+00:00",
+    "url": "https://api.crossref.org/works/10.1111%2F1754-9485.13534",
+    "doi": "10.1111/1754-9485.13534",
+    "title": [
+      "<scp>PSMA‐PET</scp>‐guided dose‐escalated volumetric arc therapy for newly diagnosed lymph node‐positive prostate cancer: 5 Year outcomes following the <scp>FROGG</scp> and <scp>EviQ</scp> node‐positive guidelines"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35226380": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:50.633546+00:00",
+    "url": "https://api.crossref.org/works/10.1002%2Fpros.24317",
+    "doi": "10.1002/pros.24317",
+    "title": [
+      "Survival after radical prostatectomy versus radiation therapy in clinical node‐positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35870708": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:50.970332+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2022.07.011",
+    "doi": "10.1016/j.ijrobp.2022.07.011",
+    "title": [
+      "Common Iliac Node-Positive Prostate Cancer Treated With Curative Radiation Therapy: N1 or M1a?"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35747822": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:51.295354+00:00",
+    "url": "https://api.crossref.org/works/10.3389%2Ffonc.2022.898774",
+    "doi": "10.3389/fonc.2022.898774",
+    "title": [
+      "Risk Factors for Biochemical Recurrence After PSMA-PET-Guided Definitive Radiotherapy in Patients With De Novo Lymph Node-Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32900626": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:51.681064+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.urolonc.2020.08.018",
+    "doi": "10.1016/j.urolonc.2020.08.018",
+    "title": [
+      "The prognosis and the impact of radiotherapy in clinically regional lymph node-positive prostate cancer: Which patients are candidates for local therapy with radiation?"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID33301015": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:52.044703+00:00",
+    "url": "https://api.crossref.org/works/10.1001%2Fjamanetworkopen.2020.25143",
+    "doi": "10.1001/jamanetworkopen.2020.25143",
+    "title": [
+      "Analysis of Radiation Facility Volume and Survival in Men With Lymph Node–Positive Prostate Cancer Treated With Radiation and Androgen Deprivation Therapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29891203": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:52.415153+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2018.04.023",
+    "doi": "10.1016/j.ijrobp.2018.04.023",
+    "title": [
+      "Definitive Radiation Therapy and Survival in Clinically Node-Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID25957435": {
+    "status": "checked",
+    "checked_at": "2026-09-14T10:29:52.889670+00:00",
+    "url": "https://api.crossref.org/works/10.1093%2Fjnci%2Fdjv119",
+    "doi": "10.1093/jnci/djv119",
+    "title": [
+      "Androgen Deprivation With or Without Radiation Therapy for Clinically Node-Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

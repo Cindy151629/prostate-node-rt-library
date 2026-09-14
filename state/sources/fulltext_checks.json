@@ -779,7 +779,7 @@
   "PMID15681524": {
     "id": "PMID15681524",
     "seed_id": "A020",
-    "checked_at": "2026-09-14T09:30:25.253953+00:00",
+    "checked_at": "2026-09-14T10:29:52.890645+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -813,12 +813,12 @@
   "PMID11444402": {
     "id": "PMID11444402",
     "seed_id": "A022",
-    "checked_at": "2026-09-14T09:30:26.780515+00:00",
+    "checked_at": "2026-09-14T10:29:54.506050+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 937,
+    "page_chars": 945,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.4065/76.7.702",
     "attempts": [
@@ -832,12 +832,12 @@
   "PMID11489709": {
     "id": "PMID11489709",
     "seed_id": "A023",
-    "checked_at": "2026-09-14T09:30:28.013974+00:00",
+    "checked_at": "2026-09-14T10:29:54.802042+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 917,
+    "page_chars": 928,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/s0090-4295(01)01168-2",
     "attempts": [
@@ -851,12 +851,12 @@
   "PMID7527796": {
     "id": "PMID7527796",
     "seed_id": "A025",
-    "checked_at": "2026-09-14T09:30:29.332852+00:00",
+    "checked_at": "2026-09-14T10:29:55.416423+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 890,
+    "page_chars": 901,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/0360-3016(94)00324-e",
     "attempts": [
@@ -870,12 +870,12 @@
   "PMID9336149": {
     "id": "PMID9336149",
     "seed_id": "A024",
-    "checked_at": "2026-09-14T09:30:28.511775+00:00",
+    "checked_at": "2026-09-14T10:29:55.058719+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 917,
+    "page_chars": 928,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/s0360-3016(97)00369-6",
     "attempts": [
@@ -889,12 +889,12 @@
   "PMID7542824": {
     "id": "PMID7542824",
     "seed_id": "A026",
-    "checked_at": "2026-09-14T09:30:30.681688+00:00",
+    "checked_at": "2026-09-14T10:29:55.837937+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 881,
+    "page_chars": 892,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/s0090-4295(99)80196-4",
     "attempts": [
@@ -908,12 +908,12 @@
   "PMID15356680": {
     "id": "PMID15356680",
     "seed_id": "A021",
-    "checked_at": "2026-09-14T09:30:26.262565+00:00",
+    "checked_at": "2026-09-14T10:29:53.117430+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 79165,
+    "identity_hint": false,
+    "page_chars": 1376,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1038/sj.pcan.4500751",
     "attempts": [
@@ -927,12 +927,12 @@
   "PMID42362416": {
     "id": "PMID42362416",
     "seed_id": "B002",
-    "checked_at": "2026-09-14T09:30:32.227068+00:00",
+    "checked_at": "2026-09-14T10:29:56.128391+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 909,
+    "page_chars": 911,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.euf.2026.06.008",
     "attempts": [
@@ -946,7 +946,7 @@
   "PMID42005712": {
     "id": "PMID42005712",
     "seed_id": "B003",
-    "checked_at": "2026-09-14T09:30:32.709697+00:00",
+    "checked_at": "2026-09-14T10:29:56.522395+00:00",
     "body_confirmed": true,
     "pmcid": "PMC13091081",
     "status": "body_obtained",
@@ -975,7 +975,7 @@
   "PMID39929079": {
     "id": "PMID39929079",
     "seed_id": "B005",
-    "checked_at": "2026-09-14T09:30:35.416854+00:00",
+    "checked_at": "2026-09-14T10:29:57.228772+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -992,12 +992,12 @@
   "PMID39733964": {
     "id": "PMID39733964",
     "seed_id": "B004",
-    "checked_at": "2026-09-14T09:30:33.598612+00:00",
+    "checked_at": "2026-09-14T10:29:57.120002+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1032,
+    "page_chars": 948,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.prro.2024.12.006",
     "attempts": [
@@ -1011,12 +1011,12 @@
   "PMID40883115": {
     "id": "PMID40883115",
     "seed_id": "B006",
-    "checked_at": "2026-09-14T09:30:36.232599+00:00",
+    "checked_at": "2026-09-14T10:29:57.686226+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 912,
+    "page_chars": 942,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.clgc.2025.102413",
     "attempts": [
