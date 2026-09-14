@@ -108,8 +108,8 @@
   "scheduled_event_observed": false,
   "browser": {
     "passed": true,
-    "checks": 194,
-    "tested_at": "2026-09-14T10:22:59.525Z",
+    "checks": 195,
+    "tested_at": "2026-09-14T10:25:18.844Z",
     "sizes": [
       "1440x1000",
       "390x844"

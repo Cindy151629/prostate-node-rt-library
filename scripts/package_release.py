@@ -4,7 +4,7 @@ from common import *
 from persist import SELECT
 def package(dest):
  dest=Path(dest).resolve();assert dest!=ROOT;dest.mkdir(parents=True,exist_ok=True)
- for rel in ['scripts','tests','config','web','public','.github','README.md','.gitignore']:
+ for rel in ['scripts','tests','config','web','public','.github','README.md','.gitignore','CHANGELOG.md']:
   src=ROOT/rel;target=dest/rel
   if src.is_dir():shutil.copytree(src,target,dirs_exist_ok=True,ignore=shutil.ignore_patterns('__pycache__','*.pyc'))
   else:shutil.copy2(src,target)
