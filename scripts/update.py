@@ -79,8 +79,8 @@ def execute(mode='auto',replay=False):
   atomic(ROOT/'data/current.json',candidate)
   atomic(ROOT/'data/library.json',lib);atomic(ROOT/'data/registry.json',reg);atomic(ROOT/'data/reports/coverage.json',snapshot['coverage'])
   for src,success in ok.items():
-   if success:state['source_watermarks'][src]={'through':stamp,'persisted_run':runid,'query_version':cfg['query_version']}
-  if all(ok.values()) and chosen=='history':state['last_history_month']=stamp[:7]
+   if success and not replay:state['source_watermarks'][src]={'through':stamp,'persisted_run':runid,'query_version':cfg['query_version']}
+  if all(ok.values()) and chosen=='history' and not replay:state['last_history_month']=stamp[:7]
   state['current_hash']=content_hash;atomic(ROOT/'data/state.json',state)
   outcome='success_no_additions' if all(ok.values()) and not rchanges['added'] and not changes['added'] else 'success' if all(ok.values()) else 'partial_success'
   report.update(status=outcome,local_snapshot_validated=True,cloud_published=False,content_hash=content_hash,reading_changes=changes,candidate_changes=rchanges,counts={'reading':len(lib),'registry':len(reg),'pending':sum(v for k,v in counts.items() if k.startswith('pending')),'excluded':counts.get('excluded',0),'important':counts.get('important',0),'conflicts':len(conflicts)},screening_counts=dict(counts))

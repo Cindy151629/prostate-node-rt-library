@@ -68,9 +68,9 @@ class Tests(unittest.TestCase):
   common.atomic(root/'data/sources/frozen-input.json',{'pm':{},'ep':{},'queries':[],'sources':sources,'metadata_errors':{}})
  def test_partial_source_does_not_advance_failed_watermark(self):
   with tempfile.TemporaryDirectory() as td:
-   root=Path(td);self.replay_fixture(root,{'pubmed':True,'europepmc':False});water=common.read(root/'data/state.json')['source_watermarks']['europepmc']
+   root=Path(td);self.replay_fixture(root,{'pubmed':True,'europepmc':False});water=common.read(root/'data/state.json')['source_watermarks']
    with patch.object(update,'ROOT',root):r=execute('weekly',True)
-   self.assertEqual(r['status'],'partial_success');self.assertEqual(common.read(root/'data/state.json')['source_watermarks']['europepmc'],water)
+   self.assertEqual(r['status'],'partial_success');self.assertEqual(common.read(root/'data/state.json')['source_watermarks'],water)
  def test_tampered_valid_candidate_keeps_previous_snapshot(self):
   with tempfile.TemporaryDirectory() as td:
    root=Path(td);self.replay_fixture(root,{'pubmed':True,'europepmc':True});before=(root/'data/current.json').read_bytes();water=(root/'data/state.json').read_bytes();rows=common.read(root/'data/library.json')
