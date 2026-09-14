@@ -1,0 +1,221 @@
+{
+  "id": "2026-09-14T10-08-09.667912+00-00-c760dbcb",
+  "started_at": "2026-09-14T10:08:09.667912+00:00",
+  "mode": "replay",
+  "query_version": "2026-09-14.2",
+  "notes_policy": "自动更新保留笔记；来源变化则撤销内容已核对状态；候选不自动生成中文结论",
+  "queries": [
+    {
+      "source": "pubmed",
+      "branch": "broad",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.078249+00:00",
+      "status": "success",
+      "hits": 966,
+      "fetched": 966,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "initial",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (cN1[Title/Abstract] OR definitive[Title/Abstract] OR \"newly diagnosed\"[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.078960+00:00",
+      "status": "success",
+      "hits": 182,
+      "fetched": 182,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "postoperative",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (prostatectom*[Title/Abstract] OR postoperative[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.079352+00:00",
+      "status": "success",
+      "hits": 477,
+      "fetched": 477,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "recurrent",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (recurren*[Title/Abstract] OR salvage[Title/Abstract] OR persist*[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.079860+00:00",
+      "status": "success",
+      "hits": 480,
+      "fetched": 480,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "technique",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (dose[Title/Abstract] OR toxicity[Title/Abstract] OR \"elective nodal\"[Title/Abstract] OR \"whole pelvis\"[Title/Abstract] OR reirradiation[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.080651+00:00",
+      "status": "success",
+      "hits": 304,
+      "fetched": 304,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "guidelines",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"node-positive\"[Title/Abstract] OR \"node positive\"[Title/Abstract] OR \"lymph node metastas*\"[Title/Abstract] OR \"nodal metastas*\"[Title/Abstract] OR \"nodal recurren*\"[Title/Abstract] OR \"lymph node recurren*\"[Title/Abstract] OR cN1[Title/Abstract] OR pN1[Title/Abstract] OR M1a[Title/Abstract]) AND (radiotherap*[Title/Abstract] OR \"radiation therapy\"[Title/Abstract] OR irradiation[Title/Abstract] OR SBRT[Title/Abstract] OR SABR[Title/Abstract] OR ENRT[Title/Abstract]) AND (guideline[Publication Type] OR review[Publication Type] OR consensus[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.081022+00:00",
+      "status": "success",
+      "hits": 194,
+      "fetched": 194,
+      "pagination_complete": true
+    },
+    {
+      "source": "pubmed",
+      "branch": "trials",
+      "query": "(\"Prostatic Neoplasms\"[MeSH Terms] OR prostate[Title/Abstract] OR prostatic[Title/Abstract]) AND (\"PEACE V\"[Title/Abstract] OR \"PEACE V-STORM\"[Title/Abstract] OR \"OLIGOPELVIS\"[Title/Abstract] OR \"PLATIN\"[Title/Abstract] OR \"PROPER trial\"[Title/Abstract] OR \"PROPER study\"[Title/Abstract] OR \"PRIMENOD\"[Title/Abstract] OR \"PROQURE\"[Title/Abstract] OR \"POINTER-PC\"[Title/Abstract] OR \"PRIME trial\"[Title/Abstract])",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.081466+00:00",
+      "status": "success",
+      "hits": 62,
+      "fetched": 62,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "broad",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT)",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.081829+00:00",
+      "status": "success",
+      "hits": 931,
+      "fetched": 931,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "initial",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:cN1 OR TITLE_ABS:definitive OR TITLE_ABS:\"newly diagnosed\")",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.145142+00:00",
+      "status": "success",
+      "hits": 177,
+      "fetched": 177,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "postoperative",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:prostatectom* OR TITLE_ABS:postoperative)",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.158061+00:00",
+      "status": "success",
+      "hits": 442,
+      "fetched": 442,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "recurrent",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:recurren* OR TITLE_ABS:salvage OR TITLE_ABS:persist*)",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.188252+00:00",
+      "status": "success",
+      "hits": 452,
+      "fetched": 452,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "technique",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (TITLE_ABS:dose OR TITLE_ABS:toxicity OR TITLE_ABS:\"elective nodal\" OR TITLE_ABS:\"whole pelvis\" OR TITLE_ABS:reirradiation)",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.226909+00:00",
+      "status": "success",
+      "hits": 292,
+      "fetched": 292,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "guidelines",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"node-positive\" OR TITLE_ABS:\"node positive\" OR TITLE_ABS:\"lymph node metastasis\" OR TITLE_ABS:\"lymph node metastases\" OR TITLE_ABS:\"nodal metastasis\" OR TITLE_ABS:\"nodal metastases\" OR TITLE_ABS:\"nodal recurrence\" OR TITLE_ABS:\"lymph node recurrence\" OR TITLE_ABS:cN1 OR TITLE_ABS:pN1 OR TITLE_ABS:M1a) AND (TITLE_ABS:radiotherap* OR TITLE_ABS:\"radiation therapy\" OR TITLE_ABS:irradiation OR TITLE_ABS:SBRT OR TITLE_ABS:SABR OR TITLE_ABS:ENRT) AND (PUB_TYPE:review OR TITLE_ABS:guideline OR TITLE_ABS:consensus)",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.246629+00:00",
+      "status": "success",
+      "hits": 190,
+      "fetched": 190,
+      "pagination_complete": true
+    },
+    {
+      "source": "europepmc",
+      "branch": "trials",
+      "query": "(TITLE_ABS:prostate OR TITLE_ABS:prostatic) AND (TITLE_ABS:\"PEACE V\" OR TITLE_ABS:\"PEACE V-STORM\" OR TITLE_ABS:\"OLIGOPELVIS\" OR TITLE_ABS:\"PLATIN\" OR TITLE_ABS:\"PROPER trial\" OR TITLE_ABS:\"PROPER study\" OR TITLE_ABS:\"PRIMENOD\" OR TITLE_ABS:\"PROQURE\" OR TITLE_ABS:\"POINTER-PC\" OR TITLE_ABS:\"PRIME trial\")",
+      "from": null,
+      "to": "2026-09-14",
+      "started_at": "2026-09-14T10:01:49.255778+00:00",
+      "status": "success",
+      "hits": 66,
+      "fetched": 66,
+      "pagination_complete": true
+    }
+  ],
+  "sources": {
+    "pubmed": true,
+    "europepmc": true
+  },
+  "metadata_errors": {},
+  "metadata_count": {
+    "pubmed": 1029,
+    "europepmc": 1010
+  },
+  "status": "success_no_additions",
+  "local_snapshot_validated": true,
+  "cloud_published": false,
+  "content_hash": "45281755f6dc0038826ecb1adaa43e8d6a9d17b36ecf6a6bf650466e3862f7e6",
+  "reading_changes": {
+    "added": [],
+    "updated": [],
+    "removed": []
+  },
+  "candidate_changes": {
+    "added": [],
+    "updated": [],
+    "removed": []
+  },
+  "counts": {
+    "reading": 175,
+    "registry": 1058,
+    "pending": 846,
+    "excluded": 35,
+    "important": 3,
+    "conflicts": 0
+  },
+  "screening_counts": {
+    "pending": 754,
+    "pending_priority": 92,
+    "excluded": 35,
+    "important": 3
+  },
+  "finished_at": "2026-09-14T10:08:10.190731+00:00",
+  "network": {
+    "requests": 0,
+    "fresh": 0,
+    "cache": 0,
+    "failed": 0
+  }
+}

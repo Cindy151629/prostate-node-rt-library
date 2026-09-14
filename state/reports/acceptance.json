@@ -1,0 +1,120 @@
+{
+  "accepted_at": "2026-09-14T10:17:51.566821+00:00",
+  "scope": "本地实际运行与故障测试；云端另以HTTPS发布回执为准",
+  "counts": {
+    "reading": 175,
+    "seed": 151,
+    "added": 24,
+    "sections": {
+      "G": 27,
+      "A": 21,
+      "E": 29,
+      "B": 19,
+      "C": 44,
+      "D": 28,
+      "F": 7
+    },
+    "note_levels": {
+      "abstract": 172,
+      "fulltext_sections": 2,
+      "publisher_excerpt": 1
+    },
+    "body_obtained": 63
+  },
+  "network_runs": [
+    {
+      "id": "2026-09-14T10-01-49.074484+00-00-3a38949e",
+      "mode": "history",
+      "status": "success",
+      "sources": {
+        "pubmed": true,
+        "europepmc": true
+      },
+      "network": {
+        "requests": 42,
+        "fresh": 11,
+        "cache": 29,
+        "failed": 2
+      }
+    },
+    {
+      "id": "2026-09-14T10-08-09.667912+00-00-c760dbcb",
+      "mode": "replay",
+      "status": "success_no_additions",
+      "sources": {
+        "pubmed": true,
+        "europepmc": true
+      },
+      "network": {
+        "requests": 0,
+        "fresh": 0,
+        "cache": 0,
+        "failed": 0
+      }
+    },
+    {
+      "id": "2026-09-14T10-16-32.420756+00-00-aca15660",
+      "mode": "weekly",
+      "status": "success_no_additions",
+      "sources": {
+        "pubmed": true,
+        "europepmc": true
+      },
+      "network": {
+        "requests": 47,
+        "fresh": 29,
+        "cache": 17,
+        "failed": 1
+      }
+    },
+    {
+      "id": "2026-09-14T10-17-51.301279+00-00-087dc378",
+      "mode": "replay",
+      "status": "success_no_additions",
+      "sources": {
+        "pubmed": true,
+        "europepmc": true
+      },
+      "network": {
+        "requests": 0,
+        "fresh": 0,
+        "cache": 0,
+        "failed": 0
+      }
+    }
+  ],
+  "idempotence": {
+    "passed": true,
+    "first_run": "2026-09-14T10-16-32.420756+00-00-aca15660",
+    "repeat_run": "2026-09-14T10-17-51.301279+00-00-087dc378",
+    "hash": "7614bf8fe1502d9ef2fd3d454ff2e2b453efcc63d9e9985962188a9106ff001f",
+    "reading_changes": {
+      "added": [],
+      "updated": [],
+      "removed": []
+    },
+    "candidate_changes": {
+      "added": [],
+      "updated": [],
+      "removed": []
+    }
+  },
+  "fault_tests": {
+    "passed": true,
+    "count": 16,
+    "command": "python3 -m unittest discover -s tests -v"
+  },
+  "cloud_at_local_acceptance": false,
+  "scheduled_event_observed": false,
+  "browser": {
+    "passed": true,
+    "checks": 194,
+    "tested_at": "2026-09-14T10:08:09.217Z",
+    "sizes": [
+      "1440x1000",
+      "390x844"
+    ],
+    "offline_file": true,
+    "javascript_errors": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "last_attempt": "2026-09-14T10:21:29.021246+00:00",
+  "attempt_state": "success_no_additions",
+  "last_local_validation": "2026-09-14T10:22:14.118547+00:00",
+  "current_hash": "3fd820984e1a8b4e6ed4cfa17af480a78ccef4bdebecd7c7af99d4614d243808",
+  "last_run_id": "2026-09-14T10-21-29.021246+00-00-bbba6329",
+  "counts": {
+    "reading": 175,
+    "registry": 1058,
+    "pending": 846,
+    "excluded": 35,
+    "important": 3,
+    "conflicts": 0
+  },
+  "new_candidates": 0,
+  "updated_candidates": 0,
+  "new_reading": 0,
+  "full_sources_success": true
+}

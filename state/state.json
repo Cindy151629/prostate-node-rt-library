@@ -1,0 +1,16 @@
+{
+  "source_watermarks": {
+    "pubmed": {
+      "through": "2026-09-14T10:21:29.021246+00:00",
+      "persisted_run": "2026-09-14T10-21-29.021246+00-00-bbba6329",
+      "query_version": "2026-09-14.2"
+    },
+    "europepmc": {
+      "through": "2026-09-14T10:21:29.021246+00:00",
+      "persisted_run": "2026-09-14T10-21-29.021246+00-00-bbba6329",
+      "query_version": "2026-09-14.2"
+    }
+  },
+  "last_history_month": "2026-09",
+  "current_hash": "3fd820984e1a8b4e6ed4cfa17af480a78ccef4bdebecd7c7af99d4614d243808"
+}
