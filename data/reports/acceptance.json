@@ -101,7 +101,7 @@
   },
   "fault_tests": {
     "passed": true,
-    "count": 16,
+    "count": 17,
     "command": "python3 -m unittest discover -s tests -v"
   },
   "cloud_at_local_acceptance": false,

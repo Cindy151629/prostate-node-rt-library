@@ -90,4 +90,10 @@ class Tests(unittest.TestCase):
   with patch.object(discovery,'pm_search',return_value=(['1'],1)),patch.object(discovery,'now',return_value='2026-09-14T00:00:00+00:00'):
    u,logs,ok=discovery.searches(Fields(),cfg,'weekly',water)
   self.assertTrue(ok['pubmed']);self.assertFalse(ok['europepmc']);self.assertEqual(logs[0]['from'],'2024-10-03');self.assertEqual(u['pubmed'],{'1'})
+ def test_republish_preserves_source_success_timestamp(self):
+  with tempfile.TemporaryDirectory() as td:
+   root=Path(td)
+   for rel,value in {'config/search.json':{'topic':'t'},'data/current.json':{'content_hash':'x'},'data/reports/latest_run.json':{'id':'same','local_snapshot_validated':True,'sources':{'pubmed':True,'europepmc':True},'finished_at':'2026-01-01T00:00:00+00:00'},'data/publication-status.json':{'last_full_success':'2026-01-01T00:01:00+00:00','run_id':'same'},'data/deployment-verification.json':{'content_hash':'x','mode':'HTTPS deployment','verified_at':common.now(),'url':'https://example.invalid'}}.items():common.atomic(root/rel,value)
+   with patch.object(publication,'ROOT',root):r=publication.receipt('published')
+   self.assertEqual(r['last_full_success'],'2026-01-01T00:01:00+00:00');self.assertEqual(r['last_source_complete_at'],'2026-01-01T00:00:00+00:00')
 if __name__=='__main__':unittest.main()

@@ -47,7 +47,7 @@ GitHub可能延迟或丢弃高负载排队任务；公开仓库连续60天无活
 ## 手动维护与恢复
 
 - 增量更新：Actions → Run workflow → `weekly`；历史补漏选`history`；常规选`auto`。
-- 重新部署有效快照：选`republish`，不抓取新来源。
+- 重新部署有效快照：选`republish`，不抓取新来源，也不刷新来源完整更新的时间。
 - 更正某篇：在`data/manual/overrides.json`以稳定ID写深层字段覆盖；详细笔记在`data/manual/notes.json`。`external_mappings`和`manual_annotations`按ID保留。自动任务不写上述文件。
 - 新增阅读文章：`data/manual/additions.json`加入稳定ID/PMID/DOI和种子编号，`notes.json`同时加入来源明确的完整笔记。题录自动候选不等于已完成阅读。
 - 来源失败或分页不完整：记录部分成功/失败，失败来源不推进水位；其他完整来源可持久化；重跑自动补查。

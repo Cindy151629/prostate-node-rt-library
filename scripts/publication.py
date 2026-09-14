@@ -8,7 +8,11 @@ def receipt(outcome,url=None):
   assert verification.get('mode')=='HTTPS deployment' and verification.get('content_hash')==snap.get('content_hash'),'Unverified or stale publish cannot advance timestamps'
   assert verification.get('verified_at') and datetime.fromisoformat(stamp)-datetime.fromisoformat(verification['verified_at'])<__import__('datetime').timedelta(hours=1),'Stale verification receipt'
   r['last_publish']=verification['verified_at'];r['url']=url or verification['url'];r['status']='partial_success' if latest.get('status')=='partial_success' else latest.get('status','success')
-  if latest.get('local_snapshot_validated') and all(latest.get('sources',{}).values()) and latest.get('sources'):r['last_full_success']=verification['verified_at']
+  if latest.get('local_snapshot_validated') and all(latest.get('sources',{}).values()) and latest.get('sources'):
+   # Republishing a previously successful source run must not make old data look fresh.
+   previous_complete=old.get('last_complete_source_run') or (old.get('run_id') if old.get('last_full_success') else None)
+   if previous_complete!=latest.get('id'):r['last_full_success']=verification['verified_at']
+   r['last_complete_source_run']=latest.get('id');r['last_source_complete_at']=latest.get('finished_at')
  else:r['error']='Update, persistence, deployment or verification failed; previous successful timestamps retained.'
  atomic(ROOT/'data/publication-status.json',r);return r
 if __name__=='__main__':
