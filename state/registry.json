@@ -37450,7 +37450,7 @@
       "pubmed": "2022-11-27",
       "entrez": "2022-11-26"
     },
-    "revision_date": "2024-02-22",
+    "revision_date": "2026-09-18",
     "doi": "10.1038/s41391-022-00619-1",
     "pmcid": "",
     "types": [
@@ -37797,7 +37797,7 @@
       "pubmed": "2022-12-17",
       "entrez": "2022-12-16"
     },
-    "revision_date": "2024-02-22",
+    "revision_date": "2026-09-18",
     "doi": "10.1038/s41391-022-00631-5",
     "pmcid": "",
     "types": [
@@ -49307,7 +49307,7 @@
       "entrez": "2025-9-24",
       "pmc-release": "2025-9-24"
     },
-    "revision_date": "2026-01-11",
+    "revision_date": "2026-09-16",
     "doi": "10.1007/s00345-025-05950-5",
     "pmcid": "PMC12460443",
     "types": [
@@ -49351,11 +49351,10 @@
     ],
     "journal": "JCO oncology practice",
     "journal_abbr": "JCO Oncol Pract",
-    "year": "2025",
+    "year": "2026",
     "publication_date_parts": {
-      "Year": "2025",
-      "Month": "Sep",
-      "Day": "26"
+      "Year": "2026",
+      "Month": "Sep"
     },
     "online_date_parts": [
       {
@@ -49365,20 +49364,20 @@
       }
     ],
     "dates": {
-      "medline": "2025-9-26",
+      "medline": "2026-9-15",
       "pubmed": "2025-9-26",
       "entrez": "2025-9-26"
     },
-    "revision_date": "2025-09-26",
+    "revision_date": "2026-09-14",
     "doi": "10.1200/op-25-00489",
     "pmcid": "",
     "types": [
       "Journal Article"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
-    "pages": "OP2500489",
+    "volume": "22",
+    "issue": "9",
+    "pages": "1590-1598",
     "id": "PMID41004692",
     "sources": [
       "Europe PMC",
@@ -49938,7 +49937,7 @@
       "entrez": "2025-11-7",
       "pmc-release": "2025-9-1"
     },
-    "revision_date": "2025-12-15",
+    "revision_date": "2026-09-18",
     "doi": "10.5455/ovj.2025.v15.i9.60",
     "pmcid": "PMC12587926",
     "types": [
@@ -50446,7 +50445,7 @@
       "entrez": "2025-11-17",
       "pmc-release": "2025-11-17"
     },
-    "revision_date": "2025-12-30",
+    "revision_date": "2026-09-19",
     "doi": "10.1093/jncics/pkaf112",
     "pmcid": "PMC12681322",
     "types": [
@@ -50509,7 +50508,7 @@
       "entrez": "2025-11-21",
       "pmc-release": "2025-11-21"
     },
-    "revision_date": "2026-06-26",
+    "revision_date": "2026-09-18",
     "doi": "10.1007/s00345-025-05840-w",
     "pmcid": "PMC12638372",
     "types": [
@@ -50656,7 +50655,7 @@
       "entrez": "2025-12-3",
       "pmc-release": "2025-11-14"
     },
-    "revision_date": "2026-01-14",
+    "revision_date": "2026-09-19",
     "doi": "10.1016/j.ctro.2025.101072",
     "pmcid": "PMC12666676",
     "types": [
@@ -50970,7 +50969,7 @@
       "entrez": "2025-12-24",
       "pmc-release": "2025-11-21"
     },
-    "revision_date": "2026-01-14",
+    "revision_date": "2026-09-19",
     "doi": "10.1016/j.ctro.2025.101084",
     "pmcid": "PMC12719672",
     "types": [
@@ -53079,8 +53078,7 @@
     "year": "2026",
     "publication_date_parts": {
       "Year": "2026",
-      "Month": "Jun",
-      "Day": "06"
+      "Month": "Oct"
     },
     "online_date_parts": [
       {
@@ -53093,20 +53091,22 @@
       "received": "2026-2-6",
       "revised": "2026-4-16",
       "accepted": "2026-5-29",
+      "medline": "2026-9-18",
       "pubmed": "2026-6-7",
-      "medline": "2026-6-7",
       "entrez": "2026-6-6"
     },
-    "revision_date": "2026-07-21",
+    "revision_date": "2026-09-18",
     "doi": "10.1016/j.annonc.2026.05.708",
     "pmcid": "",
     "types": [
-      "Journal Article"
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
-    "pages": "S0923-7534(26)00914-2",
+    "volume": "37",
+    "issue": "10",
+    "pages": "1334-1344",
     "id": "PMID42250604",
     "sources": [
       "Europe PMC",
@@ -53337,7 +53337,7 @@
       "entrez": "2026-7-2",
       "pmc-release": "2026-9-8"
     },
-    "revision_date": "2026-09-10",
+    "revision_date": "2026-09-16",
     "doi": "10.1111/bju.70368",
     "pmcid": "PMC13550806",
     "types": [
@@ -54254,6 +54254,117 @@
     ],
     "first_discovered": "2026-09-14T10:01:49.074484+00:00",
     "abstract_sha256": "775676f019522e4dec04692c9243132d70ddb7f3c0ad2680da32a9e7849b67e8",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42744091",
+    "title": "Ten-year outcomes of PET-directed salvage nodal radiotherapy and temporary ADT for N1 and M1a hormone-sensitive prostate cancer.",
+    "authors": [
+      "Salazar V CJ",
+      "Wilhite TJ",
+      "Stish BJ",
+      "Phillips RM",
+      "Harmsen WS",
+      "Waddle MR",
+      "Park SS",
+      "Jethwa KR",
+      "Orme JJ",
+      "Childs DS",
+      "Mynderse LA",
+      "Sharma V",
+      "Karnes RJ",
+      "Johnson GB",
+      "Kwon ED",
+      "Davis BJ"
+    ],
+    "journal": "Practical radiation oncology",
+    "journal_abbr": "Pract Radiat Oncol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Sep",
+      "Day": "15"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "09",
+        "Day": "15"
+      }
+    ],
+    "dates": {
+      "received": "2026-7-21",
+      "revised": "2026-8-31",
+      "accepted": "2026-9-3",
+      "medline": "2026-9-15",
+      "pubmed": "2026-9-15",
+      "entrez": "2026-9-15"
+    },
+    "revision_date": "2026-09-15",
+    "doi": "10.1016/j.prro.2026.09.003",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "S1879-8500(26)00283-3",
+    "id": "PMID42744091",
+    "sources": [
+      "PubMed"
+    ],
+    "first_discovered": "2026-09-21T06:20:22.924897+00:00",
+    "abstract_sha256": "3c86a22c17960743601508e163440c72854adfd8bd095980f13a9e340bbc07b0",
+    "screening": "pending_priority",
+    "screening_reason": "身份题录及主题词规则通过；实际人群、内容尚待逐篇精读"
+  },
+  {
+    "pmid": "42758925",
+    "title": "Positive surgical margins after robot-assisted radical prostatectomy Long-term oncologic consequences.",
+    "authors": [
+      "Malshy K",
+      "Jia Y",
+      "Cheng Z",
+      "Steidle M",
+      "Zhu D",
+      "Li A",
+      "Hunt TC",
+      "Sandoval V",
+      "Bandari J",
+      "Joseph JV"
+    ],
+    "journal": "Canadian Urological Association journal = Journal de l'Association des urologues du Canada",
+    "journal_abbr": "Can Urol Assoc J",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Sep"
+    },
+    "online_date_parts": [],
+    "dates": {
+      "medline": "2026-9-18",
+      "pubmed": "2026-9-18",
+      "entrez": "2026-9-18",
+      "pmc-release": "2026-9-1"
+    },
+    "revision_date": "2026-09-20",
+    "doi": "10.5489/cuaj.9598",
+    "pmcid": "PMC13588591",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "20",
+    "issue": "9",
+    "pages": "E319-E325",
+    "id": "PMID42758925",
+    "sources": [
+      "PubMed"
+    ],
+    "first_discovered": "2026-09-21T06:20:22.924897+00:00",
+    "abstract_sha256": "9c51657c61fa0be9fa71d067d3bd13c3b872637f4c51a163d9fb872d4a4dbd05",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },

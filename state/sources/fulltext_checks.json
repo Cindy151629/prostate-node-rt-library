@@ -1040,12 +1040,12 @@
   "PMID35304077": {
     "id": "PMID35304077",
     "seed_id": "B009",
-    "checked_at": "2026-09-14T09:30:38.305456+00:00",
+    "checked_at": "2026-09-21T06:24:03.991513+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 972,
+    "page_chars": 1001,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.clgc.2022.01.018",
     "attempts": [
@@ -1059,7 +1059,7 @@
   "PMID35485635": {
     "id": "PMID35485635",
     "seed_id": "B010",
-    "checked_at": "2026-09-14T09:30:39.872099+00:00",
+    "checked_at": "2026-09-21T06:24:04.493034+00:00",
     "body_confirmed": true,
     "pmcid": "PMC9277249",
     "status": "body_obtained",
@@ -1087,7 +1087,7 @@
   "PMID35290082": {
     "id": "PMID35290082",
     "seed_id": "B011",
-    "checked_at": "2026-09-14T09:30:41.795092+00:00",
+    "checked_at": "2026-09-21T06:24:06.447579+00:00",
     "body_confirmed": true,
     "pmcid": "PMC9273369",
     "status": "body_obtained",
@@ -1115,12 +1115,12 @@
   "PMID36434164": {
     "id": "PMID36434164",
     "seed_id": "B007",
-    "checked_at": "2026-09-14T09:30:36.264954+00:00",
+    "checked_at": "2026-09-21T06:23:20.253928+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 80144,
+    "identity_hint": false,
+    "page_chars": 1376,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1038/s41391-022-00619-1",
     "attempts": [
@@ -1134,19 +1134,19 @@
   "PMID31653565": {
     "id": "PMID31653565",
     "seed_id": "B012",
-    "checked_at": "2026-09-14T09:30:42.917753+00:00",
+    "checked_at": "2026-09-21T06:24:08.755805+00:00",
     "body_confirmed": false,
     "pmcid": "PMC8142939",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 912,
+    "page_chars": 933,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
@@ -1159,12 +1159,12 @@
   "PMID29720348": {
     "id": "PMID29720348",
     "seed_id": "B013",
-    "checked_at": "2026-09-14T09:30:44.414637+00:00",
+    "checked_at": "2026-09-21T06:24:41.549182+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 912,
+    "page_chars": 933,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.eururo.2018.04.017",
     "attempts": [
@@ -1178,7 +1178,7 @@
   "PMID27859018": {
     "id": "PMID27859018",
     "seed_id": "B015",
-    "checked_at": "2026-09-14T09:30:46.861504+00:00",
+    "checked_at": "2026-09-21T06:25:08.150495+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -1195,19 +1195,19 @@
   "PMID29042125": {
     "id": "PMID29042125",
     "seed_id": "B014",
-    "checked_at": "2026-09-14T09:30:46.209379+00:00",
+    "checked_at": "2026-09-21T06:24:41.901638+00:00",
     "body_confirmed": false,
     "pmcid": "PMC6049832",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 968,
+    "page_chars": 989,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
@@ -1220,7 +1220,7 @@
   "PMID29299174": {
     "id": "PMID29299174",
     "seed_id": "B016",
-    "checked_at": "2026-09-14T09:30:48.128281+00:00",
+    "checked_at": "2026-09-21T06:25:08.514350+00:00",
     "body_confirmed": true,
     "pmcid": "PMC5746409",
     "status": "body_obtained",
@@ -1246,7 +1246,7 @@
   "PMID27743493": {
     "id": "PMID27743493",
     "seed_id": "B017",
-    "checked_at": "2026-09-14T09:30:49.207224+00:00",
+    "checked_at": "2026-09-21T06:25:16.010763+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -1282,7 +1282,7 @@
   "PMID25245445": {
     "id": "PMID25245445",
     "seed_id": "B018",
-    "checked_at": "2026-09-14T09:30:50.174173+00:00",
+    "checked_at": "2026-09-21T06:25:16.430111+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -1467,21 +1467,23 @@
   "PMID36308526": {
     "id": "PMID36308526",
     "seed_id": "B008",
-    "checked_at": "2026-09-14T09:30:37.640364+00:00",
+    "checked_at": "2026-09-21T06:23:20.491703+00:00",
     "body_confirmed": false,
     "pmcid": "PMC11796632",
-    "status": "access_restricted",
-    "reason": "https://doi.org/10.1007/s00432-022-04409-z: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1376,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1007/s00432-022-04409-z",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1007/s00432-022-04409-z",
-        "status": "access_restricted"
+        "status": "publisher_page_unconfirmed"
       }
     ],
     "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11796632/",
