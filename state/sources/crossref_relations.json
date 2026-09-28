@@ -622,5 +622,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39929079": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:55.584650+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Fju.0000000000004468",
+    "doi": "10.1097/ju.0000000000004468",
+    "title": [
+      "Adjuvant Radiation Therapy or Observation With or Without Early Salvage Radiation Therapy for Men With Node-Positive Prostate Cancer After Surgery and Negative Preoperative Conventional Imaging: A Multicenter Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40883115": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:56.033785+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2025.102413",
+    "doi": "10.1016/j.clgc.2025.102413",
+    "title": [
+      "Treatment Patterns and Outcomes in Lymph-Node-Positive (pN1) Prostate Cancer: A National Cancer Database Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36434164": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:56.390962+00:00",
+    "url": "https://api.crossref.org/works/10.1038%2Fs41391-022-00619-1",
+    "doi": "10.1038/s41391-022-00619-1",
+    "title": [
+      "Immediate radiotherapy versus observation in patients with node-positive prostate cancer after radical prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36308526": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:56.760825+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00432-022-04409-z",
+    "doi": "10.1007/s00432-022-04409-z",
+    "title": [
+      "Adjuvant radiotherapy in patients with node-positive prostate cancer after radical prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35304077": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:57.133209+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2022.01.018",
+    "doi": "10.1016/j.clgc.2022.01.018",
+    "title": [
+      "Nomograms for Metastasis-Free and Overall Survival for Pathologically Node Positive Prostate Cancer Patients Treated With or Without Radiation Therapy Plus Short-Term ADT"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35485635": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:57.527778+00:00",
+    "url": "https://api.crossref.org/works/10.1111%2Fcas.15383",
+    "doi": "10.1111/cas.15383",
+    "title": [
+      "Radiotherapy plus androgen deprivation therapy for prostate‐specific antigen persistence in lymph node–positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35290082": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:57.851049+00:00",
+    "url": "https://api.crossref.org/works/10.1200%2Fjco.21.02800",
+    "doi": "10.1200/jco.21.02800",
+    "title": [
+      "Adjuvant Versus Early Salvage Radiation Therapy After Radical Prostatectomy for pN1 Prostate Cancer and the Risk of Death"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID31653565": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:58.252358+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.urolonc.2019.09.018",
+    "doi": "10.1016/j.urolonc.2019.09.018",
+    "title": [
+      "Androgen deprivation therapy in men with node-positive prostate cancer treated with postoperative radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29720348": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:58.611546+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2018.04.017",
+    "doi": "10.1016/j.eururo.2018.04.017",
+    "title": [
+      "Impact of Adjuvant Radiotherapy in Node-positive Prostate Cancer Patients: The Importance of Patient Selection"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29042125": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:58.982754+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2017.09.027",
+    "doi": "10.1016/j.eururo.2017.09.027",
+    "title": [
+      "Survival Outcomes of Men with Lymph Node-positive Prostate Cancer After Radical Prostatectomy: A Comparative Analysis of Different Postoperative Management Strategies"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID27859018": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:59.373476+00:00",
+    "url": "https://api.crossref.org/works/10.1002%2Fcncr.30373",
+    "doi": "10.1002/cncr.30373",
+    "title": [
+      "The role of adjuvant radiotherapy in pathologically lymph node‐positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29299174": {
+    "status": "checked",
+    "checked_at": "2026-09-28T06:53:59.752901+00:00",
+    "url": "https://api.crossref.org/works/10.18632%2Foncotarget.22610",
+    "doi": "10.18632/oncotarget.22610",
+    "title": [
+      "Lymph node ratio determines the benefit of adjuvant radiotherapy in pathologically 3 or less lymph node-positive prostate cancer after radical prostatectomy: a population-based analysis with propensity-score matching"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

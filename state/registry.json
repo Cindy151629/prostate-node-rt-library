@@ -44158,7 +44158,7 @@
       "entrez": "2024-6-21",
       "pmc-release": "2024-5-20"
     },
-    "revision_date": "2024-06-22",
+    "revision_date": "2026-09-22",
     "doi": "10.7759/cureus.60728",
     "pmcid": "PMC11187520",
     "types": [
@@ -45001,7 +45001,7 @@
       "entrez": "2024-9-14",
       "pmc-release": "2024-8-25"
     },
-    "revision_date": "2024-09-16",
+    "revision_date": "2026-09-23",
     "doi": "10.3390/cancers16172964",
     "pmcid": "PMC11394117",
     "types": [
@@ -47476,7 +47476,7 @@
       "entrez": "2025-5-22",
       "pmc-release": "2025-5-22"
     },
-    "revision_date": "2026-01-27",
+    "revision_date": "2026-09-24",
     "doi": "10.1038/s41391-025-00983-8",
     "pmcid": "PMC12643922",
     "types": [
@@ -47741,7 +47741,7 @@
       "pubmed": "2025-6-5",
       "entrez": "2025-6-4"
     },
-    "revision_date": "2026-01-27",
+    "revision_date": "2026-09-25",
     "doi": "10.1016/j.landig.2025.100885",
     "pmcid": "",
     "types": [
@@ -47749,7 +47749,8 @@
       "Journal Article",
       "Multicenter Study",
       "Randomized Controlled Trial",
-      "Validation Study"
+      "Validation Study",
+      "Research Support, Non-U.S. Gov't"
     ],
     "corrections": [],
     "volume": "7",
@@ -48555,7 +48556,7 @@
       "entrez": "2025-7-22",
       "pmc-release": "2025-7-21"
     },
-    "revision_date": "2025-07-24",
+    "revision_date": "2026-09-25",
     "doi": "10.1002/bco2.70059",
     "pmcid": "PMC12277652",
     "types": [
@@ -50829,7 +50830,7 @@
       "entrez": "2025-12-12",
       "pmc-release": "2025-12-10"
     },
-    "revision_date": "2025-12-14",
+    "revision_date": "2026-09-25",
     "doi": "10.1002/bco2.70123",
     "pmcid": "PMC12690614",
     "types": [
@@ -51537,7 +51538,7 @@
       "entrez": "2026-2-2",
       "pmc-release": "2026-2-2"
     },
-    "revision_date": "2026-07-08",
+    "revision_date": "2026-09-26",
     "doi": "10.1111/iju.70370",
     "pmcid": "PMC12862882",
     "types": [
@@ -53095,7 +53096,7 @@
       "pubmed": "2026-6-7",
       "entrez": "2026-6-6"
     },
-    "revision_date": "2026-09-18",
+    "revision_date": "2026-09-21",
     "doi": "10.1016/j.annonc.2026.05.708",
     "pmcid": "",
     "types": [
@@ -54313,6 +54314,7 @@
     "pages": "S1879-8500(26)00283-3",
     "id": "PMID42744091",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-09-21T06:20:22.924897+00:00",
@@ -54361,10 +54363,175 @@
     "pages": "E319-E325",
     "id": "PMID42758925",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-09-21T06:20:22.924897+00:00",
     "abstract_sha256": "9c51657c61fa0be9fa71d067d3bd13c3b872637f4c51a163d9fb872d4a4dbd05",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42769083",
+    "title": "Bridging to systemic therapy: PSMA-PET-based early and repetitive stereotactic body radiotherapy for nodal and bone oligo-recurrent prostate cancer.",
+    "authors": [
+      "Grün A",
+      "Partyka A",
+      "Galler M",
+      "Schlomm T",
+      "Böhmer D",
+      "Miller K",
+      "Zips D",
+      "Kalinauskaite G"
+    ],
+    "journal": "Frontiers in urology",
+    "journal_abbr": "Front Urol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "09",
+        "Day": "07"
+      }
+    ],
+    "dates": {
+      "received": "2025-11-5",
+      "revised": "2026-8-5",
+      "accepted": "2026-8-5",
+      "medline": "2026-9-22",
+      "pubmed": "2026-9-22",
+      "entrez": "2026-9-22",
+      "pmc-release": "2026-9-7"
+    },
+    "revision_date": "2026-09-23",
+    "doi": "10.3389/fruro.2026.1738508",
+    "pmcid": "PMC13590299",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "6",
+    "issue": "",
+    "pages": "1738508",
+    "id": "PMID42769083",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+    "abstract_sha256": "cee67dddc8bb91fa17fc5f5dca5258cc792dd3bebf780a6971fcf4b526f4ef71",
+    "screening": "pending_priority",
+    "screening_reason": "身份题录及主题词规则通过；实际人群、内容尚待逐篇精读"
+  },
+  {
+    "pmid": "42769899",
+    "title": "The evolving role of radiotherapy in oligometastatic pancreatic cancer: from palliation to disease-modifying multidisciplinary integration.",
+    "authors": [
+      "Zhang J",
+      "Shi S",
+      "Wu J",
+      "Tan Z",
+      "Liu F",
+      "Fang F",
+      "Zhen P"
+    ],
+    "journal": "Frontiers in oncology",
+    "journal_abbr": "Front Oncol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "09",
+        "Day": "07"
+      }
+    ],
+    "dates": {
+      "received": "2026-6-17",
+      "revised": "2026-8-19",
+      "accepted": "2026-8-26",
+      "medline": "2026-9-22",
+      "pubmed": "2026-9-22",
+      "entrez": "2026-9-22",
+      "pmc-release": "2026-9-7"
+    },
+    "revision_date": "2026-09-23",
+    "doi": "10.3389/fonc.2026.1912332",
+    "pmcid": "PMC13591500",
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "volume": "16",
+    "issue": "",
+    "pages": "1912332",
+    "id": "PMID42769899",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+    "abstract_sha256": "fca78bac1d10dd90dad6655eaa1ecec764bd0c4d9163eccaf532288b4e59d62b",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42777859",
+    "title": "Radiation-Induced Lumbosacral Plexopathy Following Prostate Radiotherapy.",
+    "authors": [
+      "Kornienko A",
+      "Remonde D",
+      "Zlotecki R",
+      "Ruzhansky K",
+      "Myers S",
+      "Marshall D",
+      "Chera B"
+    ],
+    "journal": "Practical radiation oncology",
+    "journal_abbr": "Pract Radiat Oncol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Sep",
+      "Day": "23"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "09",
+        "Day": "23"
+      }
+    ],
+    "dates": {
+      "received": "2026-5-8",
+      "revised": "2026-9-9",
+      "accepted": "2026-9-18",
+      "medline": "2026-9-23",
+      "pubmed": "2026-9-23",
+      "entrez": "2026-9-23"
+    },
+    "revision_date": "2026-09-23",
+    "doi": "10.1016/j.prro.2026.09.011",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "S1879-8500(26)00293-6",
+    "id": "PMID42777859",
+    "sources": [
+      "PubMed"
+    ],
+    "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+    "abstract_sha256": "8621904f539c41e3f778ffbf2d8ae99378dbf28b88d1ef54020962dcdc26f154",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },

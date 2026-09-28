@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topic": "前列腺癌＋淋巴结转移＋放疗",
-  "created_at": "2026-09-21T06:20:22.924897+00:00",
-  "run_id": "2026-09-21T06-20-22.924897+00-00-66256dc9",
+  "created_at": "2026-09-28T06:53:30.270091+00:00",
+  "run_id": "2026-09-28T06-53-30.270091+00-00-2d584829",
   "library": [
     {
       "pmid": "42457454",
@@ -131,7 +131,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.147965+00:00"
+          "checked_at": "2026-09-28T06:54:12.123938+00:00"
         },
         "fulltext": {
           "id": "PMID42457454",
@@ -315,7 +315,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.148699+00:00"
+          "checked_at": "2026-09-28T06:54:12.124486+00:00"
         },
         "fulltext": {
           "id": "PMID42457456",
@@ -501,7 +501,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.149143+00:00"
+          "checked_at": "2026-09-28T06:54:12.124827+00:00"
         },
         "fulltext": {
           "status": "body_obtained",
@@ -651,7 +651,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.149442+00:00"
+          "checked_at": "2026-09-28T06:54:12.125061+00:00"
         },
         "fulltext": {
           "id": "PMID40516971",
@@ -826,7 +826,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.149977+00:00"
+          "checked_at": "2026-09-28T06:54:12.125467+00:00"
         },
         "fulltext": {
           "id": "PMID40940889",
@@ -1005,7 +1005,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.150596+00:00"
+          "checked_at": "2026-09-28T06:54:12.125975+00:00"
         },
         "fulltext": {
           "id": "PMID38421252",
@@ -1177,7 +1177,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.151218+00:00"
+          "checked_at": "2026-09-28T06:54:12.126408+00:00"
         },
         "fulltext": {
           "id": "PMID38421243",
@@ -1346,7 +1346,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.151830+00:00"
+          "checked_at": "2026-09-28T06:54:12.126899+00:00"
         },
         "fulltext": {
           "id": "PMID37730526",
@@ -1506,7 +1506,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.152213+00:00"
+          "checked_at": "2026-09-28T06:54:12.127197+00:00"
         },
         "fulltext": {
           "id": "PMID38186065",
@@ -1676,7 +1676,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.152632+00:00"
+          "checked_at": "2026-09-28T06:54:12.127514+00:00"
         },
         "fulltext": {
           "id": "PMID36372736",
@@ -1846,7 +1846,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.152968+00:00"
+          "checked_at": "2026-09-28T06:54:12.127781+00:00"
         },
         "fulltext": {
           "id": "PMID37296924",
@@ -2028,7 +2028,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.153519+00:00"
+          "checked_at": "2026-09-28T06:54:12.128207+00:00"
         },
         "fulltext": {
           "id": "PMID34812201",
@@ -2196,7 +2196,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.154252+00:00"
+          "checked_at": "2026-09-28T06:54:12.128777+00:00"
         },
         "fulltext": {
           "id": "PMID35475128",
@@ -2410,7 +2410,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.154823+00:00"
+          "checked_at": "2026-09-28T06:54:12.129203+00:00"
         },
         "fulltext": {
           "id": "PMID32861817",
@@ -2594,7 +2594,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.155162+00:00"
+          "checked_at": "2026-09-28T06:54:12.129467+00:00"
         },
         "fulltext": {
           "id": "PMID33914101",
@@ -2755,7 +2755,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.155558+00:00"
+          "checked_at": "2026-09-28T06:54:12.129785+00:00"
         },
         "fulltext": {
           "id": "PMID32150055",
@@ -2943,7 +2943,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.156103+00:00"
+          "checked_at": "2026-09-28T06:54:12.130193+00:00"
         },
         "fulltext": {
           "id": "PMID32933887",
@@ -3120,7 +3120,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.156580+00:00"
+          "checked_at": "2026-09-28T06:54:12.130550+00:00"
         },
         "fulltext": {
           "id": "PMID31200844",
@@ -3286,7 +3286,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.156998+00:00"
+          "checked_at": "2026-09-28T06:54:12.130909+00:00"
         },
         "fulltext": {
           "id": "PMID40273649",
@@ -3466,7 +3466,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.157744+00:00"
+          "checked_at": "2026-09-28T06:54:12.131505+00:00"
         },
         "fulltext": {
           "id": "PMID40052287",
@@ -3649,7 +3649,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.158449+00:00"
+          "checked_at": "2026-09-28T06:54:12.132072+00:00"
         },
         "fulltext": {
           "id": "PMID41031987",
@@ -3753,7 +3753,7 @@
         "entrez": "2025-7-22",
         "pmc-release": "2025-7-21"
       },
-      "revision_date": "2025-07-24",
+      "revision_date": "2026-09-25",
       "doi": "10.1002/bco2.70059",
       "pmcid": "PMC12277652",
       "types": [
@@ -3830,7 +3830,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.158922+00:00"
+          "checked_at": "2026-09-28T06:54:12.132422+00:00"
         },
         "fulltext": {
           "id": "PMID40693104",
@@ -4010,7 +4010,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.159371+00:00"
+          "checked_at": "2026-09-28T06:54:12.132780+00:00"
         },
         "fulltext": {
           "id": "PMID37640867",
@@ -4190,7 +4190,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.159792+00:00"
+          "checked_at": "2026-09-28T06:54:12.133095+00:00"
         },
         "fulltext": {
           "id": "PMID38946076",
@@ -4373,7 +4373,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.160259+00:00"
+          "checked_at": "2026-09-28T06:54:12.133451+00:00"
         },
         "fulltext": {
           "id": "PMID38589463",
@@ -4553,7 +4553,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.160893+00:00"
+          "checked_at": "2026-09-28T06:54:12.133953+00:00"
         },
         "fulltext": {
           "id": "PMID38847441",
@@ -4725,7 +4725,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.161387+00:00"
+          "checked_at": "2026-09-28T06:54:12.134339+00:00"
         },
         "fulltext": {
           "id": "PMID37330057",
@@ -4881,7 +4881,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.161787+00:00"
+          "checked_at": "2026-09-28T06:54:12.134649+00:00"
         },
         "fulltext": {
           "id": "PMID37652494",
@@ -5050,7 +5050,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.162283+00:00"
+          "checked_at": "2026-09-28T06:54:12.135042+00:00"
         },
         "fulltext": {
           "id": "PMID37186452",
@@ -5235,7 +5235,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.162761+00:00"
+          "checked_at": "2026-09-28T06:54:12.135391+00:00"
         },
         "fulltext": {
           "id": "PMID35226380",
@@ -5412,7 +5412,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.163098+00:00"
+          "checked_at": "2026-09-28T06:54:12.135662+00:00"
         },
         "fulltext": {
           "id": "PMID35870708",
@@ -5586,7 +5586,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.163632+00:00"
+          "checked_at": "2026-09-28T06:54:12.136069+00:00"
         },
         "fulltext": {
           "id": "PMID35747822",
@@ -5768,7 +5768,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.164172+00:00"
+          "checked_at": "2026-09-28T06:54:12.136490+00:00"
         },
         "fulltext": {
           "id": "PMID32900626",
@@ -5941,7 +5941,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.164786+00:00"
+          "checked_at": "2026-09-28T06:54:12.136963+00:00"
         },
         "fulltext": {
           "id": "PMID33301015",
@@ -6120,7 +6120,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.165167+00:00"
+          "checked_at": "2026-09-28T06:54:12.137254+00:00"
         },
         "fulltext": {
           "id": "PMID29891203",
@@ -6308,7 +6308,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.165491+00:00"
+          "checked_at": "2026-09-28T06:54:12.137498+00:00"
         },
         "fulltext": {
           "id": "PMID25957435",
@@ -6467,7 +6467,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.165933+00:00"
+          "checked_at": "2026-09-28T06:54:12.137838+00:00"
         },
         "fulltext": {
           "id": "PMID24674370",
@@ -6509,7 +6509,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:16.178274+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.prro.2012.11.011",
+        "doi": "10.1016/j.prro.2012.11.011",
+        "title": [
+          "Radiation therapy for clinically node-positive prostate adenocarcinoma is correlated with improved overall and prostate cancer-specific survival"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "15681524",
@@ -6622,7 +6635,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.166328+00:00"
+          "checked_at": "2026-09-28T06:54:12.138139+00:00"
         },
         "fulltext": {
           "id": "PMID15681524",
@@ -6662,7 +6675,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:16.447174+00:00",
+        "url": "https://api.crossref.org/works/10.1200%2Fjco.2005.08.141",
+        "doi": "10.1200/jco.2005.08.141",
+        "title": [
+          "Androgen Suppression Plus Radiation Versus Radiation Alone for Patients With Stage D<sub>1</sub>/Pathologic Node-Positive Adenocarcinoma of the Prostate: Updated Results Based on National Prospective Randomized Trial Radiation Therapy Oncology Group 85-31"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "15356680",
@@ -6770,7 +6796,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.166745+00:00"
+          "checked_at": "2026-09-28T06:54:12.138448+00:00"
         },
         "fulltext": {
           "id": "PMID15356680",
@@ -6812,7 +6838,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:16.828571+00:00",
+        "url": "https://api.crossref.org/works/10.1038%2Fsj.pcan.4500751",
+        "doi": "10.1038/sj.pcan.4500751",
+        "title": [
+          "Comparison of external radiation therapy vs radical prostatectomy in lymph node positive prostate cancer patients"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "11444402",
@@ -6915,7 +6954,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.167182+00:00"
+          "checked_at": "2026-09-28T06:54:12.138794+00:00"
         },
         "fulltext": {
           "id": "PMID11444402",
@@ -6957,7 +6996,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:17.352582+00:00",
+        "url": "https://api.crossref.org/works/10.4065%2F76.7.702",
+        "doi": "10.4065/76.7.702",
+        "title": [
+          "Lymph Node-Positive Prostate Cancer: Evaluation of the Results of the Combination of Androgen Deprivation Therapy and Radiation Therapy"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "11489709",
@@ -7059,7 +7111,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.167528+00:00"
+          "checked_at": "2026-09-28T06:54:12.139065+00:00"
         },
         "fulltext": {
           "id": "PMID11489709",
@@ -7103,7 +7155,20 @@
       "manual_annotations": {},
       "related_ids": [
         "PMID7527796"
-      ]
+      ],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:17.533553+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fs0090-4295%2801%2901168-2",
+        "doi": "10.1016/s0090-4295(01)01168-2",
+        "title": [
+          "Addition of radiation therapy to androgen ablation improves outcome for subclinically node-positive prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "9336149",
@@ -7215,7 +7280,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.167943+00:00"
+          "checked_at": "2026-09-28T06:54:12.139376+00:00"
         },
         "fulltext": {
           "id": "PMID9336149",
@@ -7259,7 +7324,20 @@
       "manual_annotations": {},
       "related_ids": [
         "PMID7542824"
-      ]
+      ],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:17.898383+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fs0360-3016%2897%2900369-6",
+        "doi": "10.1016/s0360-3016(97)00369-6",
+        "title": [
+          "The use of combined radiation therapy and hormonal therapy in the management of lymph node-positive prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "7527796",
@@ -7376,7 +7454,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.168284+00:00"
+          "checked_at": "2026-09-28T06:54:12.139644+00:00"
         },
         "fulltext": {
           "id": "PMID7527796",
@@ -7420,7 +7498,20 @@
       "manual_annotations": {},
       "related_ids": [
         "PMID11489709"
-      ]
+      ],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:18.272232+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2F0360-3016%2894%2900324-e",
+        "doi": "10.1016/0360-3016(94)00324-e",
+        "title": [
+          "Influence of radiotherapy on node-positive prostate cancer treated with androgen ablation"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "7542824",
@@ -7526,7 +7617,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.168608+00:00"
+          "checked_at": "2026-09-28T06:54:12.139950+00:00"
         },
         "fulltext": {
           "id": "PMID7542824",
@@ -7570,7 +7661,20 @@
       "manual_annotations": {},
       "related_ids": [
         "PMID9336149"
-      ]
+      ],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:18.913913+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fs0090-4295%2899%2980196-4",
+        "doi": "10.1016/s0090-4295(99)80196-4",
+        "title": [
+          "Combined hormonal and radiation therapy for lymph node-positive prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "title": "Postoperative radiotherapy improves survival in node-positive prostate cancer, particularly in patients receiving androgen deprivation therapy",
@@ -7661,7 +7765,7 @@
             "Crossref",
             "出版社PDF"
           ],
-          "checked_at": "2026-09-14T10:29:58.168702+00:00"
+          "checked_at": "2026-09-28T06:54:12.140015+00:00"
         },
         "fulltext": {
           "status": "body_obtained",
@@ -7695,7 +7799,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:19.090781+00:00",
+        "url": "https://api.crossref.org/works/10.1007%2Fs12672-026-05458-3",
+        "doi": "10.1007/s12672-026-05458-3",
+        "title": [
+          "Postoperative radiotherapy improves survival in node-positive prostate cancer, particularly in patients receiving androgen deprivation therapy"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "42362416",
@@ -7804,7 +7921,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.169113+00:00"
+          "checked_at": "2026-09-28T06:54:12.140281+00:00"
         },
         "fulltext": {
           "id": "PMID42362416",
@@ -7846,7 +7963,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:19.479070+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.euf.2026.06.008",
+        "doi": "10.1016/j.euf.2026.06.008",
+        "title": [
+          "Postoperative Pelvic Lymph Node Radiation Therapy in Lymph Node–Positive Prostate Cancer and Mortality Risk"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "42005712",
@@ -7964,7 +8094,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.169523+00:00"
+          "checked_at": "2026-09-28T06:54:12.140594+00:00"
         },
         "fulltext": {
           "id": "PMID42005712",
@@ -8016,7 +8146,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:19.863943+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.ctro.2026.101161",
+        "doi": "10.1016/j.ctro.2026.101161",
+        "title": [
+          "Oncological outcomes following PSMA PET/CT-guided salvage whole-pelvis radiotherapy for recurrent prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "39733964",
@@ -8133,7 +8276,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.169996+00:00"
+          "checked_at": "2026-09-28T06:54:12.140948+00:00"
         },
         "fulltext": {
           "id": "PMID39733964",
@@ -8175,7 +8318,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-21T06:23:20.253221+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.prro.2024.12.006",
+        "doi": "10.1016/j.prro.2024.12.006",
+        "title": [
+          "Patterns of Recurrence Following Radiation and ADT for Pathologic Lymph Node-Positive Prostate Cancer: A Multi-institutional Study"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "39929079",
@@ -8316,7 +8472,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.170842+00:00"
+          "checked_at": "2026-09-28T06:54:12.141585+00:00"
         },
         "fulltext": {
           "id": "PMID39929079",
@@ -8356,7 +8512,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:55.584650+00:00",
+        "url": "https://api.crossref.org/works/10.1097%2Fju.0000000000004468",
+        "doi": "10.1097/ju.0000000000004468",
+        "title": [
+          "Adjuvant Radiation Therapy or Observation With or Without Early Salvage Radiation Therapy for Men With Node-Positive Prostate Cancer After Surgery and Negative Preoperative Conventional Imaging: A Multicenter Study"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "40883115",
@@ -8473,7 +8642,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.171251+00:00"
+          "checked_at": "2026-09-28T06:54:12.141906+00:00"
         },
         "fulltext": {
           "id": "PMID40883115",
@@ -8515,7 +8684,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:56.033785+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2025.102413",
+        "doi": "10.1016/j.clgc.2025.102413",
+        "title": [
+          "Treatment Patterns and Outcomes in Lymph-Node-Positive (pN1) Prostate Cancer: A National Cancer Database Study"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "36434164",
@@ -8555,7 +8737,7 @@
         "pubmed": "2022-11-27",
         "entrez": "2022-11-26"
       },
-      "revision_date": "2024-02-22",
+      "revision_date": "2026-09-18",
       "doi": "10.1038/s41391-022-00619-1",
       "pmcid": "",
       "types": [
@@ -8629,17 +8811,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.171729+00:00"
+          "checked_at": "2026-09-28T06:54:12.142254+00:00"
         },
         "fulltext": {
           "id": "PMID36434164",
           "seed_id": "B007",
-          "checked_at": "2026-09-14T09:30:36.264954+00:00",
+          "checked_at": "2026-09-21T06:23:20.253928+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
-          "identity_hint": true,
-          "page_chars": 80144,
+          "identity_hint": false,
+          "page_chars": 1376,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1038/s41391-022-00619-1",
           "attempts": [
@@ -8671,7 +8853,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:56.390962+00:00",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41391-022-00619-1",
+        "doi": "10.1038/s41391-022-00619-1",
+        "title": [
+          "Immediate radiotherapy versus observation in patients with node-positive prostate cancer after radical prostatectomy"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "36308526",
@@ -8780,26 +8975,28 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.172093+00:00"
+          "checked_at": "2026-09-28T06:54:12.142527+00:00"
         },
         "fulltext": {
           "id": "PMID36308526",
           "seed_id": "B008",
-          "checked_at": "2026-09-14T09:30:37.640364+00:00",
+          "checked_at": "2026-09-21T06:23:20.491703+00:00",
           "body_confirmed": false,
           "pmcid": "PMC11796632",
-          "status": "access_restricted",
-          "reason": "https://doi.org/10.1007/s00432-022-04409-z: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+          "status": "publisher_page_unconfirmed",
+          "identity_hint": false,
+          "page_chars": 1376,
+          "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1007/s00432-022-04409-z",
           "attempts": [
             {
               "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML",
               "status": "access_failed",
-              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML: HTTP Error 404: Not Found"
+              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11796632/fullTextXML: HTTP Error 500: "
             },
             {
               "url": "https://doi.org/10.1007/s00432-022-04409-z",
-              "status": "access_restricted"
+              "status": "publisher_page_unconfirmed"
             }
           ],
           "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11796632/",
@@ -8826,7 +9023,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:56.760825+00:00",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00432-022-04409-z",
+        "doi": "10.1007/s00432-022-04409-z",
+        "title": [
+          "Adjuvant radiotherapy in patients with node-positive prostate cancer after radical prostatectomy"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "35304077",
@@ -8933,17 +9143,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.172632+00:00"
+          "checked_at": "2026-09-28T06:54:12.142941+00:00"
         },
         "fulltext": {
           "id": "PMID35304077",
           "seed_id": "B009",
-          "checked_at": "2026-09-14T09:30:38.305456+00:00",
+          "checked_at": "2026-09-21T06:24:03.991513+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 972,
+          "page_chars": 1001,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.clgc.2022.01.018",
           "attempts": [
@@ -8975,7 +9185,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:57.133209+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2022.01.018",
+        "doi": "10.1016/j.clgc.2022.01.018",
+        "title": [
+          "Nomograms for Metastasis-Free and Overall Survival for Pathologically Node Positive Prostate Cancer Patients Treated With or Without Radiation Therapy Plus Short-Term ADT"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "35485635",
@@ -9117,12 +9340,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.173245+00:00"
+          "checked_at": "2026-09-28T06:54:12.143407+00:00"
         },
         "fulltext": {
           "id": "PMID35485635",
           "seed_id": "B010",
-          "checked_at": "2026-09-14T09:30:39.872099+00:00",
+          "checked_at": "2026-09-21T06:24:04.493034+00:00",
           "body_confirmed": true,
           "pmcid": "PMC9277249",
           "status": "body_obtained",
@@ -9168,7 +9391,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:57.527778+00:00",
+        "url": "https://api.crossref.org/works/10.1111%2Fcas.15383",
+        "doi": "10.1111/cas.15383",
+        "title": [
+          "Radiotherapy plus androgen deprivation therapy for prostate‐specific antigen persistence in lymph node–positive prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "35290082",
@@ -9289,12 +9525,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.173653+00:00"
+          "checked_at": "2026-09-28T06:54:12.143720+00:00"
         },
         "fulltext": {
           "id": "PMID35290082",
           "seed_id": "B011",
-          "checked_at": "2026-09-14T09:30:41.795092+00:00",
+          "checked_at": "2026-09-21T06:24:06.447579+00:00",
           "body_confirmed": true,
           "pmcid": "PMC9273369",
           "status": "body_obtained",
@@ -9340,7 +9576,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:57.851049+00:00",
+        "url": "https://api.crossref.org/works/10.1200%2Fjco.21.02800",
+        "doi": "10.1200/jco.21.02800",
+        "title": [
+          "Adjuvant Versus Early Salvage Radiation Therapy After Radical Prostatectomy for pN1 Prostate Cancer and the Risk of Death"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "31653565",
@@ -9459,24 +9708,24 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.174136+00:00"
+          "checked_at": "2026-09-28T06:54:12.144087+00:00"
         },
         "fulltext": {
           "id": "PMID31653565",
           "seed_id": "B012",
-          "checked_at": "2026-09-14T09:30:42.917753+00:00",
+          "checked_at": "2026-09-21T06:24:08.755805+00:00",
           "body_confirmed": false,
           "pmcid": "PMC8142939",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 912,
+          "page_chars": 933,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
           "attempts": [
             {
               "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML",
               "status": "access_failed",
-              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML: HTTP Error 404: Not Found"
+              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8142939/fullTextXML: HTTP Error 500: "
             },
             {
               "url": "https://doi.org/10.1016/j.urolonc.2019.09.018",
@@ -9507,7 +9756,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:58.252358+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.urolonc.2019.09.018",
+        "doi": "10.1016/j.urolonc.2019.09.018",
+        "title": [
+          "Androgen deprivation therapy in men with node-positive prostate cancer treated with postoperative radiotherapy"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "29720348",
@@ -9623,17 +9885,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.174510+00:00"
+          "checked_at": "2026-09-28T06:54:12.144372+00:00"
         },
         "fulltext": {
           "id": "PMID29720348",
           "seed_id": "B013",
-          "checked_at": "2026-09-14T09:30:44.414637+00:00",
+          "checked_at": "2026-09-21T06:24:41.549182+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 912,
+          "page_chars": 933,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.eururo.2018.04.017",
           "attempts": [
@@ -9667,7 +9929,20 @@
       "manual_annotations": {},
       "related_ids": [
         "PMID25245445"
-      ]
+      ],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:58.611546+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2018.04.017",
+        "doi": "10.1016/j.eururo.2018.04.017",
+        "title": [
+          "Impact of Adjuvant Radiotherapy in Node-positive Prostate Cancer Patients: The Importance of Patient Selection"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "29042125",
@@ -9807,24 +10082,24 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.175109+00:00"
+          "checked_at": "2026-09-28T06:54:12.144832+00:00"
         },
         "fulltext": {
           "id": "PMID29042125",
           "seed_id": "B014",
-          "checked_at": "2026-09-14T09:30:46.209379+00:00",
+          "checked_at": "2026-09-21T06:24:41.901638+00:00",
           "body_confirmed": false,
           "pmcid": "PMC6049832",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 968,
+          "page_chars": 989,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
           "attempts": [
             {
               "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML",
               "status": "access_failed",
-              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML: HTTP Error 404: Not Found"
+              "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6049832/fullTextXML: HTTP Error 500: "
             },
             {
               "url": "https://doi.org/10.1016/j.eururo.2017.09.027",
@@ -9857,7 +10132,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:58.982754+00:00",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2017.09.027",
+        "doi": "10.1016/j.eururo.2017.09.027",
+        "title": [
+          "Survival Outcomes of Men with Lymph Node-positive Prostate Cancer After Radical Prostatectomy: A Comparative Analysis of Different Postoperative Management Strategies"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "27859018",
@@ -9986,12 +10274,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.175488+00:00"
+          "checked_at": "2026-09-28T06:54:12.145117+00:00"
         },
         "fulltext": {
           "id": "PMID27859018",
           "seed_id": "B015",
-          "checked_at": "2026-09-14T09:30:46.861504+00:00",
+          "checked_at": "2026-09-21T06:25:08.150495+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "access_restricted",
@@ -10026,7 +10314,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:59.373476+00:00",
+        "url": "https://api.crossref.org/works/10.1002%2Fcncr.30373",
+        "doi": "10.1002/cncr.30373",
+        "title": [
+          "The role of adjuvant radiotherapy in pathologically lymph node‐positive prostate cancer"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "29299174",
@@ -10135,12 +10436,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.176095+00:00"
+          "checked_at": "2026-09-28T06:54:12.145580+00:00"
         },
         "fulltext": {
           "id": "PMID29299174",
           "seed_id": "B016",
-          "checked_at": "2026-09-14T09:30:48.128281+00:00",
+          "checked_at": "2026-09-21T06:25:08.514350+00:00",
           "body_confirmed": true,
           "pmcid": "PMC5746409",
           "status": "body_obtained",
@@ -10184,7 +10485,20 @@
         "obsidian": null
       },
       "manual_annotations": {},
-      "related_ids": []
+      "related_ids": [],
+      "version_check": {
+        "status": "checked",
+        "checked_at": "2026-09-28T06:53:59.752901+00:00",
+        "url": "https://api.crossref.org/works/10.18632%2Foncotarget.22610",
+        "doi": "10.18632/oncotarget.22610",
+        "title": [
+          "Lymph node ratio determines the benefit of adjuvant radiotherapy in pathologically 3 or less lymph node-positive prostate cancer after radical prostatectomy: a population-based analysis with propensity-score matching"
+        ],
+        "type": "journal-article",
+        "relations": {},
+        "updates": [],
+        "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+      }
     },
     {
       "pmid": "27743493",
@@ -10296,12 +10610,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.176721+00:00"
+          "checked_at": "2026-09-28T06:54:12.146057+00:00"
         },
         "fulltext": {
           "id": "PMID27743493",
           "seed_id": "B017",
-          "checked_at": "2026-09-14T09:30:49.207224+00:00",
+          "checked_at": "2026-09-21T06:25:16.010763+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "access_restricted",
@@ -10484,12 +10798,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.177123+00:00"
+          "checked_at": "2026-09-28T06:54:12.146355+00:00"
         },
         "fulltext": {
           "id": "PMID25245445",
           "seed_id": "B018",
-          "checked_at": "2026-09-14T09:30:50.174173+00:00",
+          "checked_at": "2026-09-21T06:25:16.430111+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "access_restricted",
@@ -10656,17 +10970,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.177727+00:00"
+          "checked_at": "2026-09-28T06:54:12.146812+00:00"
         },
         "fulltext": {
           "id": "PMID21354694",
           "seed_id": "B019",
-          "checked_at": "2026-09-14T09:30:50.225563+00:00",
+          "checked_at": "2026-09-28T06:53:59.754125+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 962,
+          "page_chars": 983,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.eururo.2011.02.024",
           "attempts": [
@@ -10821,17 +11135,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.178311+00:00"
+          "checked_at": "2026-09-28T06:54:12.147268+00:00"
         },
         "fulltext": {
           "id": "PMID19211184",
           "seed_id": "B020",
-          "checked_at": "2026-09-14T09:30:51.995208+00:00",
+          "checked_at": "2026-09-28T06:54:00.396982+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 981,
+          "page_chars": 1002,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.eururo.2009.01.046",
           "attempts": [
@@ -10999,17 +11313,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.178987+00:00"
+          "checked_at": "2026-09-28T06:54:12.147786+00:00"
         },
         "fulltext": {
           "id": "PMID41864432",
           "seed_id": "C001",
-          "checked_at": "2026-09-14T09:30:53.370486+00:00",
+          "checked_at": "2026-09-28T06:54:00.876554+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 987,
+          "page_chars": 997,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.ijrobp.2026.03.020",
           "attempts": [
@@ -11172,17 +11486,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.179541+00:00"
+          "checked_at": "2026-09-28T06:54:12.148218+00:00"
         },
         "fulltext": {
           "id": "PMID42140755",
           "seed_id": "C002",
-          "checked_at": "2026-09-14T09:30:53.625078+00:00",
+          "checked_at": "2026-09-28T06:54:01.360822+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 964,
+          "page_chars": 979,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.radonc.2026.111533",
           "attempts": [
@@ -11328,17 +11642,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.180006+00:00"
+          "checked_at": "2026-09-28T06:54:12.148640+00:00"
         },
         "fulltext": {
           "id": "PMID42691517",
           "seed_id": "C003",
-          "checked_at": "2026-09-14T09:30:55.479282+00:00",
+          "checked_at": "2026-09-28T06:54:01.889360+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 1057,
+          "page_chars": 961,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.jmir.2026.102569",
           "attempts": [
@@ -11489,17 +11803,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.180471+00:00"
+          "checked_at": "2026-09-28T06:54:12.149016+00:00"
         },
         "fulltext": {
           "id": "PMID41825803",
           "seed_id": "C004",
-          "checked_at": "2026-09-14T09:30:56.501218+00:00",
+          "checked_at": "2026-09-28T06:54:05.208808+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 951,
+          "page_chars": 966,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.radonc.2026.111476",
           "attempts": [
@@ -11654,21 +11968,23 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.180969+00:00"
+          "checked_at": "2026-09-28T06:54:12.149397+00:00"
         },
         "fulltext": {
           "id": "PMID42693211",
           "seed_id": "C005",
-          "checked_at": "2026-09-14T09:30:57.914554+00:00",
+          "checked_at": "2026-09-28T06:54:05.718781+00:00",
           "body_confirmed": false,
           "pmcid": "",
-          "status": "access_restricted",
-          "reason": "https://doi.org/10.1007/s00259-026-08147-z: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+          "status": "publisher_page_unconfirmed",
+          "identity_hint": false,
+          "page_chars": 1376,
+          "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1007/s00259-026-08147-z",
           "attempts": [
             {
               "url": "https://doi.org/10.1007/s00259-026-08147-z",
-              "status": "access_restricted"
+              "status": "publisher_page_unconfirmed"
             }
           ],
           "index_open_access": false
@@ -11839,17 +12155,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.181829+00:00"
+          "checked_at": "2026-09-28T06:54:12.150077+00:00"
         },
         "fulltext": {
           "id": "PMID41565552",
           "seed_id": "C006",
-          "checked_at": "2026-09-14T09:30:58.273155+00:00",
+          "checked_at": "2026-09-28T06:54:05.928696+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 1035,
+          "page_chars": 1056,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.euo.2026.01.001",
           "attempts": [
@@ -11996,12 +12312,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.182247+00:00"
+          "checked_at": "2026-09-28T06:54:12.150401+00:00"
         },
         "fulltext": {
           "id": "PMID39676999",
           "seed_id": "C007",
-          "checked_at": "2026-09-14T09:31:04.390209+00:00",
+          "checked_at": "2026-09-28T06:54:06.454759+00:00",
           "body_confirmed": true,
           "pmcid": "PMC11638620",
           "status": "body_obtained",
@@ -12156,12 +12472,12 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.182586+00:00"
+          "checked_at": "2026-09-28T06:54:12.150660+00:00"
         },
         "fulltext": {
           "id": "PMID40654037",
           "seed_id": "C008",
-          "checked_at": "2026-09-14T09:31:06.025040+00:00",
+          "checked_at": "2026-09-28T06:54:10.176792+00:00",
           "body_confirmed": true,
           "pmcid": "PMC12337913",
           "status": "body_obtained",
@@ -12362,17 +12678,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.183360+00:00"
+          "checked_at": "2026-09-28T06:54:12.151269+00:00"
         },
         "fulltext": {
           "id": "PMID40339593",
           "seed_id": "C009",
-          "checked_at": "2026-09-14T09:31:07.530069+00:00",
+          "checked_at": "2026-09-28T06:54:11.231926+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 992,
+          "page_chars": 987,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/s1470-2045(25)00197-4",
           "attempts": [
@@ -12535,17 +12851,17 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.183959+00:00"
+          "checked_at": "2026-09-28T06:54:12.151728+00:00"
         },
         "fulltext": {
           "id": "PMID38490854",
           "seed_id": "C010",
-          "checked_at": "2026-09-14T09:31:12.389800+00:00",
+          "checked_at": "2026-09-28T06:54:11.698267+00:00",
           "body_confirmed": false,
           "pmcid": "",
           "status": "publisher_page_unconfirmed",
           "identity_hint": false,
-          "page_chars": 989,
+          "page_chars": 1010,
           "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
           "url": "https://doi.org/10.1016/j.eururo.2024.02.013",
           "attempts": [
@@ -12617,7 +12933,7 @@
         "entrez": "2025-9-24",
         "pmc-release": "2025-9-24"
       },
-      "revision_date": "2026-01-11",
+      "revision_date": "2026-09-16",
       "doi": "10.1007/s00345-025-05950-5",
       "pmcid": "PMC12460443",
       "types": [
@@ -12695,7 +13011,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.184312+00:00"
+          "checked_at": "2026-09-28T06:54:12.151994+00:00"
         },
         "fulltext": {
           "id": "PMID40991040",
@@ -12868,7 +13184,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.184938+00:00"
+          "checked_at": "2026-09-28T06:54:12.152459+00:00"
         },
         "fulltext": {
           "id": "PMID41472927",
@@ -13038,7 +13354,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.185416+00:00"
+          "checked_at": "2026-09-28T06:54:12.152828+00:00"
         },
         "fulltext": {
           "id": "PMID37863242",
@@ -13199,7 +13515,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.185957+00:00"
+          "checked_at": "2026-09-28T06:54:12.153226+00:00"
         },
         "fulltext": {
           "id": "PMID37747578",
@@ -13360,7 +13676,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.186362+00:00"
+          "checked_at": "2026-09-28T06:54:12.153523+00:00"
         },
         "fulltext": {
           "id": "PMID39525616",
@@ -13526,7 +13842,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.186781+00:00"
+          "checked_at": "2026-09-28T06:54:12.153828+00:00"
         },
         "fulltext": {
           "id": "PMID39484030",
@@ -13723,7 +14039,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.187384+00:00"
+          "checked_at": "2026-09-28T06:54:12.154286+00:00"
         },
         "fulltext": {
           "id": "PMID37821242",
@@ -13889,7 +14205,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.187792+00:00"
+          "checked_at": "2026-09-28T06:54:12.154582+00:00"
         },
         "fulltext": {
           "id": "PMID38893002",
@@ -14078,7 +14394,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.188547+00:00"
+          "checked_at": "2026-09-28T06:54:12.155173+00:00"
         },
         "fulltext": {
           "id": "PMID38940843",
@@ -14244,7 +14560,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.189176+00:00"
+          "checked_at": "2026-09-28T06:54:12.155649+00:00"
         },
         "fulltext": {
           "id": "PMID39326304",
@@ -14417,7 +14733,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.189703+00:00"
+          "checked_at": "2026-09-28T06:54:12.156047+00:00"
         },
         "fulltext": {
           "id": "PMID37597125",
@@ -14570,7 +14886,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.190173+00:00"
+          "checked_at": "2026-09-28T06:54:12.156402+00:00"
         },
         "fulltext": {
           "id": "PMID38384065",
@@ -14725,7 +15041,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.190529+00:00"
+          "checked_at": "2026-09-28T06:54:12.156680+00:00"
         },
         "fulltext": {
           "id": "PMID37395949",
@@ -14881,7 +15197,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.191146+00:00"
+          "checked_at": "2026-09-28T06:54:12.157137+00:00"
         },
         "fulltext": {
           "id": "PMID34757443",
@@ -15063,7 +15379,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.191784+00:00"
+          "checked_at": "2026-09-28T06:54:12.157623+00:00"
         },
         "fulltext": {
           "id": "PMID34598843",
@@ -15224,7 +15540,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.192014+00:00"
+          "checked_at": "2026-09-28T06:54:12.157795+00:00"
         },
         "fulltext": {
           "id": "PMID35671868",
@@ -15390,7 +15706,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.192433+00:00"
+          "checked_at": "2026-09-28T06:54:12.158115+00:00"
         },
         "fulltext": {
           "id": "PMID34628521",
@@ -15562,7 +15878,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.192868+00:00"
+          "checked_at": "2026-09-28T06:54:12.158421+00:00"
         },
         "fulltext": {
           "id": "PMID35980556",
@@ -15750,7 +16066,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.193499+00:00"
+          "checked_at": "2026-09-28T06:54:12.158916+00:00"
         },
         "fulltext": {
           "id": "PMID34247896",
@@ -15915,7 +16231,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.193857+00:00"
+          "checked_at": "2026-09-28T06:54:12.159172+00:00"
         },
         "fulltext": {
           "id": "PMID32536241",
@@ -16073,7 +16389,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.194225+00:00"
+          "checked_at": "2026-09-28T06:54:12.159449+00:00"
         },
         "fulltext": {
           "id": "PMID32418156",
@@ -16232,7 +16548,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.194760+00:00"
+          "checked_at": "2026-09-28T06:54:12.159837+00:00"
         },
         "fulltext": {
           "id": "PMID32211942",
@@ -16450,7 +16766,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.195593+00:00"
+          "checked_at": "2026-09-28T06:54:12.160545+00:00"
         },
         "fulltext": {
           "id": "PMID31331782",
@@ -16608,7 +16924,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.196061+00:00"
+          "checked_at": "2026-09-28T06:54:12.160911+00:00"
         },
         "fulltext": {
           "id": "PMID30267117",
@@ -16769,7 +17085,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.196671+00:00"
+          "checked_at": "2026-09-28T06:54:12.161318+00:00"
         },
         "fulltext": {
           "id": "PMID31500621",
@@ -16942,7 +17258,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.197335+00:00"
+          "checked_at": "2026-09-28T06:54:12.161845+00:00"
         },
         "fulltext": {
           "id": "PMID29530632",
@@ -17118,7 +17434,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.197957+00:00"
+          "checked_at": "2026-09-28T06:54:12.162311+00:00"
         },
         "fulltext": {
           "id": "PMID30557672",
@@ -17276,7 +17592,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.198443+00:00"
+          "checked_at": "2026-09-28T06:54:12.162691+00:00"
         },
         "fulltext": {
           "id": "PMID27233779",
@@ -17448,7 +17764,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.199055+00:00"
+          "checked_at": "2026-09-28T06:54:12.163157+00:00"
         },
         "fulltext": {
           "id": "PMID28185875",
@@ -17615,7 +17931,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.199477+00:00"
+          "checked_at": "2026-09-28T06:54:12.163477+00:00"
         },
         "fulltext": {
           "id": "PMID27133946",
@@ -17774,7 +18090,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.199866+00:00"
+          "checked_at": "2026-09-28T06:54:12.163768+00:00"
         },
         "fulltext": {
           "id": "PMID25342516",
@@ -17928,7 +18244,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.200312+00:00"
+          "checked_at": "2026-09-28T06:54:12.164112+00:00"
         },
         "fulltext": {
           "id": "PMID25604915",
@@ -18075,7 +18391,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.200749+00:00"
+          "checked_at": "2026-09-28T06:54:12.164440+00:00"
         },
         "fulltext": {
           "id": "PMID21528664",
@@ -18249,7 +18565,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.201598+00:00"
+          "checked_at": "2026-09-28T06:54:12.165103+00:00"
         },
         "fulltext": {
           "id": "PMID42081701",
@@ -18419,7 +18735,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.202257+00:00"
+          "checked_at": "2026-09-28T06:54:12.165630+00:00"
         },
         "fulltext": {
           "id": "PMID42519375",
@@ -18592,7 +18908,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.202732+00:00"
+          "checked_at": "2026-09-28T06:54:12.165985+00:00"
         },
         "fulltext": {
           "id": "PMID42201380",
@@ -18774,7 +19090,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.203582+00:00"
+          "checked_at": "2026-09-28T06:54:12.166645+00:00"
         },
         "fulltext": {
           "id": "PMID40882818",
@@ -18927,7 +19243,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.204069+00:00"
+          "checked_at": "2026-09-28T06:54:12.167023+00:00"
         },
         "fulltext": {
           "id": "PMID39075567",
@@ -19098,7 +19414,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.204624+00:00"
+          "checked_at": "2026-09-28T06:54:12.167449+00:00"
         },
         "fulltext": {
           "id": "PMID36154809",
@@ -19262,7 +19578,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.205065+00:00"
+          "checked_at": "2026-09-28T06:54:12.167839+00:00"
         },
         "fulltext": {
           "id": "PMID36536528",
@@ -19435,7 +19751,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.205463+00:00"
+          "checked_at": "2026-09-28T06:54:12.168161+00:00"
         },
         "fulltext": {
           "id": "PMID37201758",
@@ -19598,7 +19914,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.206091+00:00"
+          "checked_at": "2026-09-28T06:54:12.168647+00:00"
         },
         "fulltext": {
           "id": "PMID36732055",
@@ -19751,7 +20067,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.206807+00:00"
+          "checked_at": "2026-09-28T06:54:12.169199+00:00"
         },
         "fulltext": {
           "id": "PMID36280446",
@@ -19908,7 +20224,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.207365+00:00"
+          "checked_at": "2026-09-28T06:54:12.169639+00:00"
         },
         "fulltext": {
           "id": "PMID35521072",
@@ -20076,7 +20392,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.207917+00:00"
+          "checked_at": "2026-09-28T06:54:12.170051+00:00"
         },
         "fulltext": {
           "id": "PMID34359768",
@@ -20238,7 +20554,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.208402+00:00"
+          "checked_at": "2026-09-28T06:54:12.170422+00:00"
         },
         "fulltext": {
           "id": "PMID34148727",
@@ -20397,7 +20713,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.208752+00:00"
+          "checked_at": "2026-09-28T06:54:12.170674+00:00"
         },
         "fulltext": {
           "id": "PMID33214044",
@@ -20555,7 +20871,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.209246+00:00"
+          "checked_at": "2026-09-28T06:54:12.171051+00:00"
         },
         "fulltext": {
           "id": "PMID33489887",
@@ -20727,7 +21043,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.209908+00:00"
+          "checked_at": "2026-09-28T06:54:12.171547+00:00"
         },
         "fulltext": {
           "id": "PMID32624405",
@@ -20879,7 +21195,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.210263+00:00"
+          "checked_at": "2026-09-28T06:54:12.171829+00:00"
         },
         "fulltext": {
           "id": "PMID32154392",
@@ -21056,7 +21372,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.210726+00:00"
+          "checked_at": "2026-09-28T06:54:12.172151+00:00"
         },
         "fulltext": {
           "id": "PMID32750234",
@@ -21217,7 +21533,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.211071+00:00"
+          "checked_at": "2026-09-28T06:54:12.172408+00:00"
         },
         "fulltext": {
           "id": "PMID30718087",
@@ -21373,7 +21689,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.211483+00:00"
+          "checked_at": "2026-09-28T06:54:12.172735+00:00"
         },
         "fulltext": {
           "id": "PMID24252686",
@@ -21537,7 +21853,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.211863+00:00"
+          "checked_at": "2026-09-28T06:54:12.173010+00:00"
         },
         "fulltext": {
           "id": "PMID21075555",
@@ -21712,7 +22028,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.212314+00:00"
+          "checked_at": "2026-09-28T06:54:12.173349+00:00"
         },
         "fulltext": {
           "id": "PMID42276876",
@@ -21885,7 +22201,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.212962+00:00"
+          "checked_at": "2026-09-28T06:54:12.173847+00:00"
         },
         "fulltext": {
           "id": "PMID39725427",
@@ -22055,7 +22371,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.213523+00:00"
+          "checked_at": "2026-09-28T06:54:12.174277+00:00"
         },
         "fulltext": {
           "id": "PMID36959540",
@@ -22234,7 +22550,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.214144+00:00"
+          "checked_at": "2026-09-28T06:54:12.174754+00:00"
         },
         "fulltext": {
           "id": "PMID32114475",
@@ -22415,7 +22731,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.214728+00:00"
+          "checked_at": "2026-09-28T06:54:12.175176+00:00"
         },
         "fulltext": {
           "id": "PMID30545809",
@@ -22514,7 +22830,7 @@
         "entrez": "2025-12-24",
         "pmc-release": "2025-11-21"
       },
-      "revision_date": "2026-01-14",
+      "revision_date": "2026-09-19",
       "doi": "10.1016/j.ctro.2025.101084",
       "pmcid": "PMC12719672",
       "types": [
@@ -22594,7 +22910,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.215361+00:00"
+          "checked_at": "2026-09-28T06:54:12.175663+00:00"
         },
         "fulltext": {
           "id": "PMID41438100",
@@ -22773,7 +23089,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.215961+00:00"
+          "checked_at": "2026-09-28T06:54:12.176115+00:00"
         },
         "fulltext": {
           "id": "PMID42177994",
@@ -22941,7 +23257,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.216675+00:00"
+          "checked_at": "2026-09-28T06:54:12.176659+00:00"
         },
         "fulltext": {
           "id": "PMID41672869",
@@ -23114,7 +23430,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.217367+00:00"
+          "checked_at": "2026-09-28T06:54:12.177193+00:00"
         },
         "fulltext": {
           "id": "PMID40049196",
@@ -23301,7 +23617,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.218084+00:00"
+          "checked_at": "2026-09-28T06:54:12.177750+00:00"
         },
         "fulltext": {
           "id": "PMID40750497",
@@ -23469,7 +23785,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.218519+00:00"
+          "checked_at": "2026-09-28T06:54:12.178089+00:00"
         },
         "fulltext": {
           "id": "PMID40446641",
@@ -23669,7 +23985,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.219504+00:00"
+          "checked_at": "2026-09-28T06:54:12.178830+00:00"
         },
         "fulltext": {
           "id": "PMID38763153",
@@ -23869,7 +24185,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.220273+00:00"
+          "checked_at": "2026-09-28T06:54:12.179411+00:00"
         },
         "fulltext": {
           "id": "PMID37022702",
@@ -24083,7 +24399,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.221509+00:00"
+          "checked_at": "2026-09-28T06:54:12.180378+00:00"
         },
         "fulltext": {
           "id": "PMID34953525",
@@ -24288,7 +24604,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.222307+00:00"
+          "checked_at": "2026-09-28T06:54:12.181004+00:00"
         },
         "fulltext": {
           "id": "PMID36001857",
@@ -24457,7 +24773,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.222950+00:00"
+          "checked_at": "2026-09-28T06:54:12.181498+00:00"
         },
         "fulltext": {
           "id": "PMID34494172",
@@ -24685,7 +25001,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.223632+00:00"
+          "checked_at": "2026-09-28T06:54:12.182026+00:00"
         },
         "fulltext": {
           "id": "PMID32215577",
@@ -24921,7 +25237,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.224224+00:00"
+          "checked_at": "2026-09-28T06:54:12.182482+00:00"
         },
         "fulltext": {
           "id": "PMID29240541",
@@ -25076,7 +25392,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.224653+00:00"
+          "checked_at": "2026-09-28T06:54:12.182809+00:00"
         },
         "fulltext": {
           "id": "PMID28101585",
@@ -25268,7 +25584,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.225288+00:00"
+          "checked_at": "2026-09-28T06:54:12.183307+00:00"
         },
         "fulltext": {
           "id": "PMID26606329",
@@ -25432,7 +25748,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.225964+00:00"
+          "checked_at": "2026-09-28T06:54:12.183832+00:00"
         },
         "fulltext": {
           "id": "PMID27598803",
@@ -25587,7 +25903,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.226371+00:00"
+          "checked_at": "2026-09-28T06:54:12.184145+00:00"
         },
         "fulltext": {
           "id": "PMID24661660",
@@ -25726,7 +26042,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.226808+00:00"
+          "checked_at": "2026-09-28T06:54:12.185420+00:00"
         },
         "fulltext": {
           "id": "PMID18544987",
@@ -25892,7 +26208,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.227272+00:00"
+          "checked_at": "2026-09-28T06:54:12.185801+00:00"
         },
         "fulltext": {
           "id": "PMID42028344",
@@ -26076,7 +26392,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.227875+00:00"
+          "checked_at": "2026-09-28T06:54:12.186206+00:00"
         },
         "fulltext": {
           "id": "PMID40114834",
@@ -26233,7 +26549,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.228201+00:00"
+          "checked_at": "2026-09-28T06:54:12.186449+00:00"
         },
         "fulltext": {
           "id": "PMID40581618",
@@ -26397,7 +26713,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.228670+00:00"
+          "checked_at": "2026-09-28T06:54:12.186808+00:00"
         },
         "fulltext": {
           "id": "PMID39895963",
@@ -26562,7 +26878,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.229184+00:00"
+          "checked_at": "2026-09-28T06:54:12.187201+00:00"
         },
         "fulltext": {
           "id": "PMID36483057",
@@ -26734,7 +27050,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.229624+00:00"
+          "checked_at": "2026-09-28T06:54:12.187523+00:00"
         },
         "fulltext": {
           "id": "PMID36605290",
@@ -26890,7 +27206,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.229984+00:00"
+          "checked_at": "2026-09-28T06:54:12.187809+00:00"
         },
         "fulltext": {
           "id": "PMID37035766",
@@ -27064,7 +27380,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.230503+00:00"
+          "checked_at": "2026-09-28T06:54:12.188205+00:00"
         },
         "fulltext": {
           "id": "PMID37629732",
@@ -27234,7 +27550,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.230940+00:00"
+          "checked_at": "2026-09-28T06:54:12.188523+00:00"
         },
         "fulltext": {
           "id": "PMID38047214",
@@ -27432,7 +27748,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.231456+00:00"
+          "checked_at": "2026-09-28T06:54:12.188919+00:00"
         },
         "fulltext": {
           "id": "PMID35476942",
@@ -27593,7 +27909,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.231986+00:00"
+          "checked_at": "2026-09-28T06:54:12.189314+00:00"
         },
         "fulltext": {
           "id": "PMID35954430",
@@ -27764,7 +28080,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.232492+00:00"
+          "checked_at": "2026-09-28T06:54:12.189706+00:00"
         },
         "fulltext": {
           "id": "PMID32451312",
@@ -27952,7 +28268,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.233026+00:00"
+          "checked_at": "2026-09-28T06:54:12.190093+00:00"
         },
         "fulltext": {
           "id": "PMID33386290",
@@ -28108,7 +28424,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.233390+00:00"
+          "checked_at": "2026-09-28T06:54:12.190364+00:00"
         },
         "fulltext": {
           "id": "PMID34323648",
@@ -28266,7 +28582,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.233971+00:00"
+          "checked_at": "2026-09-28T06:54:12.190805+00:00"
         },
         "fulltext": {
           "id": "PMID34651242",
@@ -28446,7 +28762,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.234538+00:00"
+          "checked_at": "2026-09-28T06:54:12.191241+00:00"
         },
         "fulltext": {
           "id": "PMID32398040",
@@ -28607,7 +28923,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.235140+00:00"
+          "checked_at": "2026-09-28T06:54:12.191699+00:00"
         },
         "fulltext": {
           "id": "PMID32583860",
@@ -28770,7 +29086,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.235631+00:00"
+          "checked_at": "2026-09-28T06:54:12.192063+00:00"
         },
         "fulltext": {
           "id": "PMID29626845",
@@ -28932,7 +29248,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.236123+00:00"
+          "checked_at": "2026-09-28T06:54:12.192446+00:00"
         },
         "fulltext": {
           "id": "PMID30503072",
@@ -29091,7 +29407,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.236578+00:00"
+          "checked_at": "2026-09-28T06:54:12.192858+00:00"
         },
         "fulltext": {
           "id": "PMID31177044",
@@ -29257,7 +29573,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.237341+00:00"
+          "checked_at": "2026-09-28T06:54:12.193456+00:00"
         },
         "fulltext": {
           "id": "PMID31673659",
@@ -29415,7 +29731,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.237668+00:00"
+          "checked_at": "2026-09-28T06:54:12.193703+00:00"
         },
         "fulltext": {
           "id": "PMID29315174",
@@ -29568,7 +29884,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.238050+00:00"
+          "checked_at": "2026-09-28T06:54:12.193993+00:00"
         },
         "fulltext": {
           "id": "PMID26895459",
@@ -29728,7 +30044,7 @@
             "PubMed",
             "Europe PMC（共享MEDLINE）"
           ],
-          "checked_at": "2026-09-14T10:29:58.238528+00:00"
+          "checked_at": "2026-09-28T06:54:12.194370+00:00"
         },
         "fulltext": {
           "id": "PMID25326142",
@@ -73933,7 +74249,7 @@
         "entrez": "2024-6-21",
         "pmc-release": "2024-5-20"
       },
-      "revision_date": "2024-06-22",
+      "revision_date": "2026-09-22",
       "doi": "10.7759/cureus.60728",
       "pmcid": "PMC11187520",
       "types": [
@@ -74776,7 +75092,7 @@
         "entrez": "2024-9-14",
         "pmc-release": "2024-8-25"
       },
-      "revision_date": "2024-09-16",
+      "revision_date": "2026-09-23",
       "doi": "10.3390/cancers16172964",
       "pmcid": "PMC11394117",
       "types": [
@@ -77251,7 +77567,7 @@
         "entrez": "2025-5-22",
         "pmc-release": "2025-5-22"
       },
-      "revision_date": "2026-01-27",
+      "revision_date": "2026-09-24",
       "doi": "10.1038/s41391-025-00983-8",
       "pmcid": "PMC12643922",
       "types": [
@@ -77516,7 +77832,7 @@
         "pubmed": "2025-6-5",
         "entrez": "2025-6-4"
       },
-      "revision_date": "2026-01-27",
+      "revision_date": "2026-09-25",
       "doi": "10.1016/j.landig.2025.100885",
       "pmcid": "",
       "types": [
@@ -77524,7 +77840,8 @@
         "Journal Article",
         "Multicenter Study",
         "Randomized Controlled Trial",
-        "Validation Study"
+        "Validation Study",
+        "Research Support, Non-U.S. Gov't"
       ],
       "corrections": [],
       "volume": "7",
@@ -78330,7 +78647,7 @@
         "entrez": "2025-7-22",
         "pmc-release": "2025-7-21"
       },
-      "revision_date": "2025-07-24",
+      "revision_date": "2026-09-25",
       "doi": "10.1002/bco2.70059",
       "pmcid": "PMC12277652",
       "types": [
@@ -80604,7 +80921,7 @@
         "entrez": "2025-12-12",
         "pmc-release": "2025-12-10"
       },
-      "revision_date": "2025-12-14",
+      "revision_date": "2026-09-25",
       "doi": "10.1002/bco2.70123",
       "pmcid": "PMC12690614",
       "types": [
@@ -81312,7 +81629,7 @@
         "entrez": "2026-2-2",
         "pmc-release": "2026-2-2"
       },
-      "revision_date": "2026-07-08",
+      "revision_date": "2026-09-26",
       "doi": "10.1111/iju.70370",
       "pmcid": "PMC12862882",
       "types": [
@@ -82870,7 +83187,7 @@
         "pubmed": "2026-6-7",
         "entrez": "2026-6-6"
       },
-      "revision_date": "2026-09-18",
+      "revision_date": "2026-09-21",
       "doi": "10.1016/j.annonc.2026.05.708",
       "pmcid": "",
       "types": [
@@ -84088,6 +84405,7 @@
       "pages": "S1879-8500(26)00283-3",
       "id": "PMID42744091",
       "sources": [
+        "Europe PMC",
         "PubMed"
       ],
       "first_discovered": "2026-09-21T06:20:22.924897+00:00",
@@ -84136,10 +84454,175 @@
       "pages": "E319-E325",
       "id": "PMID42758925",
       "sources": [
+        "Europe PMC",
         "PubMed"
       ],
       "first_discovered": "2026-09-21T06:20:22.924897+00:00",
       "abstract_sha256": "9c51657c61fa0be9fa71d067d3bd13c3b872637f4c51a163d9fb872d4a4dbd05",
+      "screening": "pending",
+      "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+    },
+    {
+      "pmid": "42769083",
+      "title": "Bridging to systemic therapy: PSMA-PET-based early and repetitive stereotactic body radiotherapy for nodal and bone oligo-recurrent prostate cancer.",
+      "authors": [
+        "Grün A",
+        "Partyka A",
+        "Galler M",
+        "Schlomm T",
+        "Böhmer D",
+        "Miller K",
+        "Zips D",
+        "Kalinauskaite G"
+      ],
+      "journal": "Frontiers in urology",
+      "journal_abbr": "Front Urol",
+      "year": "2026",
+      "publication_date_parts": {
+        "Year": "2026"
+      },
+      "online_date_parts": [
+        {
+          "Year": "2026",
+          "Month": "09",
+          "Day": "07"
+        }
+      ],
+      "dates": {
+        "received": "2025-11-5",
+        "revised": "2026-8-5",
+        "accepted": "2026-8-5",
+        "medline": "2026-9-22",
+        "pubmed": "2026-9-22",
+        "entrez": "2026-9-22",
+        "pmc-release": "2026-9-7"
+      },
+      "revision_date": "2026-09-23",
+      "doi": "10.3389/fruro.2026.1738508",
+      "pmcid": "PMC13590299",
+      "types": [
+        "Journal Article"
+      ],
+      "corrections": [],
+      "volume": "6",
+      "issue": "",
+      "pages": "1738508",
+      "id": "PMID42769083",
+      "sources": [
+        "Europe PMC",
+        "PubMed"
+      ],
+      "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+      "abstract_sha256": "cee67dddc8bb91fa17fc5f5dca5258cc792dd3bebf780a6971fcf4b526f4ef71",
+      "screening": "pending_priority",
+      "screening_reason": "身份题录及主题词规则通过；实际人群、内容尚待逐篇精读"
+    },
+    {
+      "pmid": "42769899",
+      "title": "The evolving role of radiotherapy in oligometastatic pancreatic cancer: from palliation to disease-modifying multidisciplinary integration.",
+      "authors": [
+        "Zhang J",
+        "Shi S",
+        "Wu J",
+        "Tan Z",
+        "Liu F",
+        "Fang F",
+        "Zhen P"
+      ],
+      "journal": "Frontiers in oncology",
+      "journal_abbr": "Front Oncol",
+      "year": "2026",
+      "publication_date_parts": {
+        "Year": "2026"
+      },
+      "online_date_parts": [
+        {
+          "Year": "2026",
+          "Month": "09",
+          "Day": "07"
+        }
+      ],
+      "dates": {
+        "received": "2026-6-17",
+        "revised": "2026-8-19",
+        "accepted": "2026-8-26",
+        "medline": "2026-9-22",
+        "pubmed": "2026-9-22",
+        "entrez": "2026-9-22",
+        "pmc-release": "2026-9-7"
+      },
+      "revision_date": "2026-09-23",
+      "doi": "10.3389/fonc.2026.1912332",
+      "pmcid": "PMC13591500",
+      "types": [
+        "Journal Article",
+        "Review"
+      ],
+      "corrections": [],
+      "volume": "16",
+      "issue": "",
+      "pages": "1912332",
+      "id": "PMID42769899",
+      "sources": [
+        "Europe PMC",
+        "PubMed"
+      ],
+      "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+      "abstract_sha256": "fca78bac1d10dd90dad6655eaa1ecec764bd0c4d9163eccaf532288b4e59d62b",
+      "screening": "pending",
+      "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+    },
+    {
+      "pmid": "42777859",
+      "title": "Radiation-Induced Lumbosacral Plexopathy Following Prostate Radiotherapy.",
+      "authors": [
+        "Kornienko A",
+        "Remonde D",
+        "Zlotecki R",
+        "Ruzhansky K",
+        "Myers S",
+        "Marshall D",
+        "Chera B"
+      ],
+      "journal": "Practical radiation oncology",
+      "journal_abbr": "Pract Radiat Oncol",
+      "year": "2026",
+      "publication_date_parts": {
+        "Year": "2026",
+        "Month": "Sep",
+        "Day": "23"
+      },
+      "online_date_parts": [
+        {
+          "Year": "2026",
+          "Month": "09",
+          "Day": "23"
+        }
+      ],
+      "dates": {
+        "received": "2026-5-8",
+        "revised": "2026-9-9",
+        "accepted": "2026-9-18",
+        "medline": "2026-9-23",
+        "pubmed": "2026-9-23",
+        "entrez": "2026-9-23"
+      },
+      "revision_date": "2026-09-23",
+      "doi": "10.1016/j.prro.2026.09.011",
+      "pmcid": "",
+      "types": [
+        "Journal Article"
+      ],
+      "corrections": [],
+      "volume": "",
+      "issue": "",
+      "pages": "S1879-8500(26)00293-6",
+      "id": "PMID42777859",
+      "sources": [
+        "PubMed"
+      ],
+      "first_discovered": "2026-09-28T06:53:30.270091+00:00",
+      "abstract_sha256": "8621904f539c41e3f778ffbf2d8ae99378dbf28b88d1ef54020962dcdc26f154",
       "screening": "pending",
       "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
     },
@@ -88747,5 +89230,5 @@
       "待筛候选尚未全部人工审阅；Embase、Web of Science、知网、万方未接入"
     ]
   },
-  "content_hash": "d617722934124f8628ecfeda2928b6caaf46ce62aa5ac19ebac8f643525f8291"
+  "content_hash": "bee17905e5545980970b598f1c7723b65eaedbe1c459aa46f87e1990a7689c26"
 }
