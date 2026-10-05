@@ -1530,20 +1530,18 @@
   "PMID40991040": {
     "id": "PMID40991040",
     "seed_id": "C011",
-    "checked_at": "2026-09-14T09:31:15.979849+00:00",
+    "checked_at": "2026-10-05T07:02:45.942071+00:00",
     "body_confirmed": true,
     "pmcid": "PMC12460443",
     "status": "body_obtained",
     "found_ids": {
       "pmcid": "PMC12460443",
-      "pmcid-ver": "PMC12460443.1",
       "pmcaid": "12460443",
       "pmcaiid": "12460443",
       "pmid": "40991040",
-      "doi": "10.1007/s00345-025-05950-5",
-      "publisher-id": "5950"
+      "doi": "10.1007/s00345-025-05950-5"
     },
-    "body_chars": 22696,
+    "body_chars": 30392,
     "article_title": "PSMA-PET/CT-based salvage elective nodal radiotherapy for lymph node recurrence following radical prostatectomy",
     "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12460443/fullTextXML",
@@ -1553,12 +1551,12 @@
         "status": "body_obtained"
       }
     ],
-    "body_sha256": "9d415be6c60e0b65f7e9ac355cbeb7ae21d15464665f65692a601440e69966b8"
+    "body_sha256": "22db2073c28603e46af8ba7c112b003e5c5dcf0fcac7cb0f7fc27dc0b8bedc7f"
   },
   "PMID41472927": {
     "id": "PMID41472927",
     "seed_id": "C012",
-    "checked_at": "2026-09-14T09:31:16.842843+00:00",
+    "checked_at": "2026-10-05T07:02:46.789639+00:00",
     "body_confirmed": true,
     "pmcid": "PMC12746252",
     "status": "body_obtained",
@@ -1584,12 +1582,12 @@
   "PMID37863242": {
     "id": "PMID37863242",
     "seed_id": "C013",
-    "checked_at": "2026-09-14T09:31:17.465796+00:00",
+    "checked_at": "2026-10-05T07:02:48.006410+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 941,
+    "page_chars": 953,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2023.10.009",
     "attempts": [
@@ -1603,7 +1601,7 @@
   "PMID39525616": {
     "id": "PMID39525616",
     "seed_id": "C015",
-    "checked_at": "2026-09-14T09:31:19.669271+00:00",
+    "checked_at": "2026-10-05T07:02:48.561629+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11543566",
     "status": "body_obtained",
@@ -1630,7 +1628,7 @@
   "PMID39484030": {
     "id": "PMID39484030",
     "seed_id": "C016",
-    "checked_at": "2026-09-14T09:31:21.270923+00:00",
+    "checked_at": "2026-10-05T07:02:49.416134+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11524995",
     "status": "body_obtained",
@@ -1657,12 +1655,12 @@
   "PMID37821242": {
     "id": "PMID37821242",
     "seed_id": "C017",
-    "checked_at": "2026-09-14T09:31:23.325159+00:00",
+    "checked_at": "2026-10-05T07:02:50.239354+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 932,
+    "page_chars": 955,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.euo.2023.09.007",
     "attempts": [
@@ -1676,7 +1674,7 @@
   "PMID38893002": {
     "id": "PMID38893002",
     "seed_id": "C018",
-    "checked_at": "2026-09-14T09:31:25.669132+00:00",
+    "checked_at": "2026-10-05T07:02:50.415749+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11173227",
     "status": "body_obtained",
@@ -1704,7 +1702,7 @@
   "PMID38940843": {
     "id": "PMID38940843",
     "seed_id": "C019",
-    "checked_at": "2026-09-14T09:31:27.331441+00:00",
+    "checked_at": "2026-10-05T07:02:51.466788+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11445306",
     "status": "body_obtained",
@@ -1732,12 +1730,12 @@
   "PMID39326304": {
     "id": "PMID39326304",
     "seed_id": "C020",
-    "checked_at": "2026-09-14T09:31:28.734407+00:00",
+    "checked_at": "2026-10-05T07:02:52.587656+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1000,
+    "page_chars": 1006,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ejso.2024.108704",
     "attempts": [
@@ -1770,12 +1768,12 @@
   "PMID38384065": {
     "id": "PMID38384065",
     "seed_id": "C022",
-    "checked_at": "2026-09-14T09:31:31.938971+00:00",
+    "checked_at": "2026-10-05T07:02:53.142840+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": true,
-    "page_chars": 236164,
+    "page_chars": 239921,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.4103/jcrt.jcrt_1493_22",
     "attempts": [
@@ -1789,16 +1787,18 @@
   "PMID37747578": {
     "id": "PMID37747578",
     "seed_id": "C014",
-    "checked_at": "2026-09-14T09:31:18.348794+00:00",
+    "checked_at": "2026-10-05T07:02:48.437501+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "access_restricted",
-    "reason": "https://doi.org/10.1007/s00259-023-06445-4: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1376,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1007/s00259-023-06445-4",
     "attempts": [
       {
         "url": "https://doi.org/10.1007/s00259-023-06445-4",
-        "status": "access_restricted"
+        "status": "publisher_page_unconfirmed"
       }
     ],
     "index_open_access": false
@@ -1806,16 +1806,18 @@
   "PMID37597125": {
     "id": "PMID37597125",
     "seed_id": "C021",
-    "checked_at": "2026-09-14T09:31:30.239020+00:00",
+    "checked_at": "2026-10-05T07:02:52.713944+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "access_restricted",
-    "reason": "https://doi.org/10.1007/s11547-023-01701-x: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1376,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1007/s11547-023-01701-x",
     "attempts": [
       {
         "url": "https://doi.org/10.1007/s11547-023-01701-x",
-        "status": "access_restricted"
+        "status": "publisher_page_unconfirmed"
       }
     ],
     "index_open_access": false

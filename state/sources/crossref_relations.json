@@ -778,5 +778,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID27743493": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:41.708063+00:00",
+    "url": "https://api.crossref.org/works/10.1111%2Fbju.13679",
+    "doi": "10.1111/bju.13679",
+    "title": [
+      "Adjuvant radiation therapy is associated with better oncological outcome compared with salvage radiation therapy in patients with\n                    <scp>pN</scp>\n                    1 prostate cancer treated with radical prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID25245445": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:41.979283+00:00",
+    "url": "https://api.crossref.org/works/10.1200%2Fjco.2013.54.7893",
+    "doi": "10.1200/jco.2013.54.7893",
+    "title": [
+      "Impact of Adjuvant Radiotherapy on Survival of Patients With Node-Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID21354694": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:42.529903+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2011.02.024",
+    "doi": "10.1016/j.eururo.2011.02.024",
+    "title": [
+      "Combination of Adjuvant Hormonal and Radiation Therapy Significantly Prolongs Survival of Patients With pT2–4 pN+ Prostate Cancer: Results of a Matched Analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID19211184": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:42.719359+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2009.01.046",
+    "doi": "10.1016/j.eururo.2009.01.046",
+    "title": [
+      "Long-Term Follow-up of Patients with Prostate Cancer and Nodal Metastases Treated by Pelvic Lymphadenectomy and Radical Prostatectomy: The Positive Impact of Adjuvant Radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41864432": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:43.156760+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2026.03.020",
+    "doi": "10.1016/j.ijrobp.2026.03.020",
+    "title": [
+      "Pushing the Boundaries of Stereotactic Body Radiation Therapy in Irradiated Territories for Nodal Oligorecurrent Prostate Cancer: Outcomes of the CYGNUS Multicentric Retrospective Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42140755": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:43.554234+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.radonc.2026.111533",
+    "doi": "10.1016/j.radonc.2026.111533",
+    "title": [
+      "OLIGOPELVIS 2-GETUG P12- elective nodal radiotherapy for oligorecurrent pelvic/para-aortic nodes in prostate cancer: early toxicity of a randomized phase 3 trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42691517": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:43.848775+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.jmir.2026.102569",
+    "doi": "10.1016/j.jmir.2026.102569",
+    "title": [
+      "Optimizing the therapeutic ratio of PSMA-PET-guided para-aortic radiotherapy for prostate cancer: A systematic review and structured quantitative synthesis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41825803": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:44.268140+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.radonc.2026.111476",
+    "doi": "10.1016/j.radonc.2026.111476",
+    "title": [
+      "Cumulative dose analysis following elective pelvis re-irradiation at junction with primary prostate radiotherapy from the OLIGOPELVIS GETUG P07 trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42693211": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:44.727786+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-026-08147-z",
+    "doi": "10.1007/s00259-026-08147-z",
+    "title": [
+      "PSMA PET/CT-guided salvage elective nodal radiotherapy for nodal metastases after radical prostatectomy: a bi-institutional long-term outcome analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41565552": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:44.987977+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2026.01.001",
+    "doi": "10.1016/j.euo.2026.01.001",
+    "title": [
+      "Health-related Quality of Life Outcomes of Salvage Metastasis-directed Treatment Versus Elective Nodal Treatment for Oligorecurrent Nodal Prostate Cancer: A Secondary Analysis of the Phase 2, Open-label PEACE V–STORM Randomized Trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39676999": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:45.361984+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ctro.2024.100896",
+    "doi": "10.1016/j.ctro.2024.100896",
+    "title": [
+      "Avoiding prostate bed radiation for the PSMA-PET detected nodal recurrence patient post prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40654037": {
+    "status": "checked",
+    "checked_at": "2026-10-05T07:02:45.940104+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Fmou.0000000000001322",
+    "doi": "10.1097/mou.0000000000001322",
+    "title": [
+      "The role of radiotherapy in pelvic nodal recurrence following definitive treatment for prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

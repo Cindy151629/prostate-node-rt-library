@@ -39059,11 +39059,12 @@
     "dates": {
       "medline": "2023-5-26",
       "pubmed": "2023-3-27",
-      "entrez": "2023-3-26"
+      "entrez": "2023-3-26",
+      "pmc-release": "2026-9-30"
     },
-    "revision_date": "2023-09-01",
+    "revision_date": "2026-10-01",
     "doi": "10.1097/cco.0000000000000932",
-    "pmcid": "",
+    "pmcid": "PMC13625937",
     "types": [
       "Review",
       "Journal Article",
@@ -48469,11 +48470,10 @@
     ],
     "journal": "European urology focus",
     "journal_abbr": "Eur Urol Focus",
-    "year": "2025",
+    "year": "2026",
     "publication_date_parts": {
-      "Year": "2025",
-      "Month": "Jul",
-      "Day": "14"
+      "Year": "2026",
+      "Month": "Sep"
     },
     "online_date_parts": [
       {
@@ -48485,20 +48485,20 @@
     "dates": {
       "received": "2025-5-24",
       "accepted": "2025-6-27",
-      "medline": "2025-7-16",
       "pubmed": "2025-7-16",
+      "medline": "2025-7-16",
       "entrez": "2025-7-15"
     },
-    "revision_date": "2025-07-15",
+    "revision_date": "2026-10-01",
     "doi": "10.1016/j.euf.2025.06.020",
     "pmcid": "",
     "types": [
       "Letter"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
-    "pages": "S2405-4569(25)00186-5",
+    "volume": "12",
+    "issue": "4",
+    "pages": "818-819",
     "id": "PMID40664550",
     "sources": [
       "Europe PMC",
@@ -53928,8 +53928,8 @@
     "year": "2026",
     "publication_date_parts": {
       "Year": "2026",
-      "Month": "Jul",
-      "Day": "31"
+      "Month": "Sep",
+      "Day": "25"
     },
     "online_date_parts": [
       {
@@ -53941,19 +53941,21 @@
     "dates": {
       "received": "2026-4-21",
       "accepted": "2026-5-14",
-      "medline": "2026-8-19",
+      "medline": "2026-9-28",
       "pubmed": "2026-8-19",
       "entrez": "2026-8-19"
     },
-    "revision_date": "2026-08-19",
+    "revision_date": "2026-10-02",
     "doi": "10.4081/aiua.2026.15585",
     "pmcid": "",
     "types": [
-      "Journal Article"
+      "Journal Article",
+      "Multicenter Study",
+      "Comparative Study"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
+    "volume": "98",
+    "issue": "3",
     "pages": "15585",
     "id": "PMID42613989",
     "sources": [
@@ -54528,6 +54530,7 @@
     "pages": "S1879-8500(26)00293-6",
     "id": "PMID42777859",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-09-28T06:53:30.270091+00:00",

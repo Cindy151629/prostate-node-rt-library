@@ -1,16 +1,16 @@
 {
   "source_watermarks": {
     "pubmed": {
-      "through": "2026-09-28T06:53:30.270091+00:00",
-      "persisted_run": "2026-09-28T06-53-30.270091+00-00-2d584829",
+      "through": "2026-10-05T07:02:10.933352+00:00",
+      "persisted_run": "2026-10-05T07-02-10.933352+00-00-64f2440a",
       "query_version": "2026-09-14.2"
     },
     "europepmc": {
-      "through": "2026-09-28T06:53:30.270091+00:00",
-      "persisted_run": "2026-09-28T06-53-30.270091+00-00-2d584829",
+      "through": "2026-10-05T07:02:10.933352+00:00",
+      "persisted_run": "2026-10-05T07-02-10.933352+00-00-64f2440a",
       "query_version": "2026-09-14.2"
     }
   },
-  "last_history_month": "2026-09",
-  "current_hash": "bee17905e5545980970b598f1c7723b65eaedbe1c459aa46f87e1990a7689c26"
+  "last_history_month": "2026-10",
+  "current_hash": "658f6a3eccb839e32faea8eeea95d168f7bc6782edffe2021ca47d878e249185"
 }
