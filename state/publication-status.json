@@ -1,13 +1,13 @@
 {
   "topic": "前列腺癌＋淋巴结转移＋放疗",
-  "last_attempt": "2026-09-28T06:54:24.115027+00:00",
-  "status": "success",
-  "run_id": "2026-09-28T06-53-30.270091+00-00-2d584829",
-  "github_run_url": "https://github.com/Cindy151629/prostate-node-rt-library/actions/runs/36388703268",
-  "verified_snapshot_hash": "bee17905e5545980970b598f1c7723b65eaedbe1c459aa46f87e1990a7689c26",
-  "last_publish": "2026-09-28T06:54:24.013553+00:00",
+  "last_attempt": "2026-10-05T07:03:04.799043+00:00",
+  "status": "success_no_additions",
+  "run_id": "2026-10-05T07-02-10.933352+00-00-64f2440a",
+  "github_run_url": "https://github.com/Cindy151629/prostate-node-rt-library/actions/runs/37275481150",
+  "verified_snapshot_hash": "658f6a3eccb839e32faea8eeea95d168f7bc6782edffe2021ca47d878e249185",
+  "last_publish": "2026-10-05T07:03:04.682110+00:00",
   "url": "https://cindy151629.github.io/prostate-node-rt-library/",
-  "last_full_success": "2026-09-28T06:54:24.013553+00:00",
-  "last_complete_source_run": "2026-09-28T06-53-30.270091+00-00-2d584829",
-  "last_source_complete_at": "2026-09-28T06:54:12.624249+00:00"
+  "last_full_success": "2026-10-05T07:03:04.682110+00:00",
+  "last_complete_source_run": "2026-10-05T07-02-10.933352+00-00-64f2440a",
+  "last_source_complete_at": "2026-10-05T07:02:54.751603+00:00"
 }
