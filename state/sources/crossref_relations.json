@@ -934,5 +934,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40339593": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:30.634808+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fs1470-2045%2825%2900197-4",
+    "doi": "10.1016/s1470-2045(25)00197-4",
+    "title": [
+      "Salvage metastasis-directed therapy versus elective nodal radiotherapy for oligorecurrent nodal prostate cancer metastases (PEACE V–STORM): a phase 2, open-label, randomised controlled trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38490854": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:30.949209+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2024.02.013",
+    "doi": "10.1016/j.eururo.2024.02.013",
+    "title": [
+      "Long-term Outcomes and Patterns of Relapse Following High-dose Elective Salvage Radiotherapy and Hormone Therapy in Oligorecurrent Pelvic Nodes in Prostate Cancer: OLIGOPELVIS (GETUG-P07)"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40991040": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:31.387374+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00345-025-05950-5",
+    "doi": "10.1007/s00345-025-05950-5",
+    "title": [
+      "PSMA-PET/CT-based salvage elective nodal radiotherapy for lymph node recurrence following radical prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41472927": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:31.772430+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.prnil.2025.05.002",
+    "doi": "10.1016/j.prnil.2025.05.002",
+    "title": [
+      "Oncologic outcomes of salvage radiotherapy and lymphadenectomy for positron emission tomography–positive lymph nodes in biochemical recurrence: A systematic review to inform treatment decisions"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37863242": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:32.087241+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2023.10.009",
+    "doi": "10.1016/j.ijrobp.2023.10.009",
+    "title": [
+      "Pelvic Irradiation for Node-Positive Prostate Cancer After Prostatectomy: Long-Term Results of the Prospective PLATIN-4 and PLATIN-5 Trials"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37747578": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:32.526515+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-023-06445-4",
+    "doi": "10.1007/s00259-023-06445-4",
+    "title": [
+      "Extended nodal radiotherapy for prostate cancer relapse guided with [11C]-choline PET/CT: ten-year results in patients enrolled in a prospective trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39525616": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:32.905033+00:00",
+    "url": "https://api.crossref.org/works/10.3389%2Ffonc.2024.1468248",
+    "doi": "10.3389/fonc.2024.1468248",
+    "title": [
+      "Nodal radiotherapy for prostate adenocarcinoma recurrence: predictive factors for efficacy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39484030": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:33.287731+00:00",
+    "url": "https://api.crossref.org/works/10.3389%2Ffonc.2024.1434504",
+    "doi": "10.3389/fonc.2024.1434504",
+    "title": [
+      "Safety and early efficacy of involved-field SBRT for nodal oligo-recurrent prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37821242": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:33.656421+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2023.09.007",
+    "doi": "10.1016/j.euo.2023.09.007",
+    "title": [
+      "PEACE V—Salvage Treatment of OligoRecurrent nodal prostate cancer Metastases (STORM): Acute Toxicity of a Randomized Phase 2 Trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38893002": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:34.063556+00:00",
+    "url": "https://api.crossref.org/works/10.3390%2Fjcm13113291",
+    "doi": "10.3390/jcm13113291",
+    "title": [
+      "SBRT in Lymph-Nodal Oligometastases from Prostate Cancer: Different Outcomes between Pelvic and Para-Aortic Disease"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38940843": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:34.439647+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-024-06802-x",
+    "doi": "10.1007/s00259-024-06802-x",
+    "title": [
+      "Whole pelvis vs. hemi pelvis elective nodal radiotherapy in patients with PSMA-positive nodal recurrence after radical prostatectomy - a retrospective multi-institutional propensity score analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39326304": {
+    "status": "checked",
+    "checked_at": "2026-10-12T07:21:35.051224+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ejso.2024.108704",
+    "doi": "10.1016/j.ejso.2024.108704",
+    "title": [
+      "Salvage lymphadenectomy or radiation therapy in prostate cancer patients with biochemical recurrence and PET positive lymph nodes after radical prostatectomy: A systematic review and pooled analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }
