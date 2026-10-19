@@ -1090,5 +1090,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37597125": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:55.235409+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs11547-023-01701-x",
+    "doi": "10.1007/s11547-023-01701-x",
+    "title": [
+      "Pattern of recurrence after stereotactic body radiotherapy for para-aortic oligo-recurrent prostate cancer, a multicentric analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38384065": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:55.549619+00:00",
+    "url": "https://api.crossref.org/works/10.4103%2Fjcrt.jcrt_1493_22",
+    "doi": "10.4103/jcrt.jcrt_1493_22",
+    "title": [
+      "Outcomes of Sterotactic Body Radiotherapy (SBRT) for pelvic lymph node recurrences after adjuvant or primary radiotherapy for prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37395949": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:55.895173+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs11934-023-01174-5",
+    "doi": "10.1007/s11934-023-01174-5",
+    "title": [
+      "Stereotactic Body Radiation Therapy Salvage for Lymph Node Recurrent Prostate Cancer in the Era of PSMA PET Imaging"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34757443": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:56.292713+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00066-021-01871-5",
+    "doi": "10.1007/s00066-021-01871-5",
+    "title": [
+      "Prognostic factors, efficacy, and toxicity of involved-node stereotactic body radiation therapy for lymph node oligorecurrent prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34598843": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:56.717832+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clon.2021.09.014",
+    "doi": "10.1016/j.clon.2021.09.014",
+    "title": [
+      "Pattern of Recurrence After Stereotactic Radiotherapy in Prostate Cancer Patients With Nodal Pelvic Relapse. A Multi-Institutional Retrospective Analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35671868": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:56.982527+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2022.05.040",
+    "doi": "10.1016/j.ijrobp.2022.05.040",
+    "title": [
+      "Para-Aortic Radiation Therapy for Oligorecurrent Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34628521": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:57.522904+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-021-05557-z",
+    "doi": "10.1007/s00259-021-05557-z",
+    "title": [
+      "Outcome after PSMA-PET/CT-based salvage radiotherapy for nodal recurrence after radical prostatectomy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35980556": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:57.792426+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs10585-022-10183-6",
+    "doi": "10.1007/s10585-022-10183-6",
+    "title": [
+      "Stereotactic radiotherapy of nodal oligometastases from prostate cancer: a prisma-compliant systematic review"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34247896": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:58.182217+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2021.06.010",
+    "doi": "10.1016/j.eururo.2021.06.010",
+    "title": [
+      "OLIGOPELVIS GETUG P07, a Multicenter Phase II Trial of Combined High-dose Salvage Radiotherapy and Hormone Therapy in Oligorecurrent Pelvic Node Relapses in Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32536241": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:58.532295+00:00",
+    "url": "https://api.crossref.org/works/10.1080%2F0284186x.2020.1775291",
+    "doi": "10.1080/0284186x.2020.1775291",
+    "title": [
+      "Radiotherapy treatment volumes for oligorecurrent nodal prostate cancer: a systematic review"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32418156": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:58.971226+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs12094-020-02364-0",
+    "doi": "10.1007/s12094-020-02364-0",
+    "title": [
+      "Salvage radiotherapy in patients affected by oligorecurrent pelvic nodal prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32211942": {
+    "status": "checked",
+    "checked_at": "2026-10-19T06:12:59.361804+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00066-020-01605-z",
+    "doi": "10.1007/s00066-020-01605-z",
+    "title": [
+      "PSMA-positive nodal recurrence in prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

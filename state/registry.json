@@ -3713,7 +3713,7 @@
       "medline": "2005-9-1",
       "entrez": "2005-4-27"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-12",
     "doi": "10.1038/sj.pcan.4500800",
     "pmcid": "",
     "types": [
@@ -22172,7 +22172,7 @@
       "medline": "2019-5-21",
       "entrez": "2018-7-12"
     },
-    "revision_date": "2022-04-10",
+    "revision_date": "2026-10-12",
     "doi": "10.1007/s12094-018-1919-z",
     "pmcid": "",
     "types": [
@@ -23022,7 +23022,7 @@
       "medline": "2019-12-18",
       "entrez": "2018-11-19"
     },
-    "revision_date": "2020-02-25",
+    "revision_date": "2026-10-12",
     "doi": "10.1007/s12094-018-1985-2",
     "pmcid": "",
     "types": [
@@ -24202,7 +24202,7 @@
       "medline": "2019-8-23",
       "entrez": "2019-5-11"
     },
-    "revision_date": "2020-02-25",
+    "revision_date": "2026-10-12",
     "doi": "10.1007/s00292-019-0606-3",
     "pmcid": "",
     "types": [
@@ -49597,7 +49597,7 @@
       "entrez": "2025-10-16",
       "pmc-release": "2026-10-16"
     },
-    "revision_date": "2026-01-16",
+    "revision_date": "2026-10-17",
     "doi": "10.1001/jamaoncol.2025.4125",
     "pmcid": "PMC12532030",
     "types": [
@@ -49938,7 +49938,7 @@
       "entrez": "2025-11-7",
       "pmc-release": "2025-9-1"
     },
-    "revision_date": "2026-09-18",
+    "revision_date": "2026-10-15",
     "doi": "10.5455/ovj.2025.v15.i9.60",
     "pmcid": "PMC12587926",
     "types": [
@@ -54572,7 +54572,7 @@
       "entrez": "2026-10-10",
       "pmc-release": "2026-9-9"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-12",
     "doi": "10.1097/rc9.0000000000000962",
     "pmcid": "PMC13652378",
     "types": [
@@ -54589,6 +54589,60 @@
     ],
     "first_discovered": "2026-10-12T07:20:55.070978+00:00",
     "abstract_sha256": "6c1fe28b3645f66fad0a78cbc6a869f7b5144ead951bf9c44213c73ff6b20c70",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42878878",
+    "title": "EQUIPOISE: EQUivalence In Prostate cancer treatment: surgery Or radiotherapy? An Intention-to-treat Survival analysis from real-world Evidence.",
+    "authors": [
+      "Viani GA",
+      "Hamamura AC",
+      "Arruda CV",
+      "Cardoso CE",
+      "Salmon HA",
+      "Amaral GO"
+    ],
+    "journal": "World journal of urology",
+    "journal_abbr": "World J Urol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Oct",
+      "Day": "15"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "10",
+        "Day": "15"
+      }
+    ],
+    "dates": {
+      "received": "2026-7-8",
+      "accepted": "2026-9-19",
+      "medline": "2026-10-15",
+      "pubmed": "2026-10-15",
+      "entrez": "2026-10-15",
+      "pmc-release": "2026-10-15"
+    },
+    "revision_date": "2026-10-17",
+    "doi": "10.1007/s00345-026-06811-5",
+    "pmcid": "PMC13672427",
+    "types": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "corrections": [],
+    "volume": "44",
+    "issue": "1",
+    "pages": "749",
+    "id": "PMID42878878",
+    "sources": [
+      "PubMed"
+    ],
+    "first_discovered": "2026-10-19T06:12:28.774987+00:00",
+    "abstract_sha256": "29afa282973d6a8c1958a04c4c272cd35a66be4eafb19a2637b0ab38bb000988",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },
