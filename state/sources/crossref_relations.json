@@ -1246,5 +1246,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID31331782": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:08.423279+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2019.07.009",
+    "doi": "10.1016/j.eururo.2019.07.009",
+    "title": [
+      "Metastasis-directed Therapy in Treating Nodal Oligorecurrent Prostate Cancer: A Multi-institutional Analysis Comparing the Outcome and Toxicity of Stereotactic Body Radiotherapy and Elective Nodal Radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID30267117": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:08.803278+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-018-4159-0",
+    "doi": "10.1007/s00259-018-4159-0",
+    "title": [
+      "Salvage extended field or involved field nodal irradiation in 18F-fluorocholine PET/CT oligorecurrent nodal failures from prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID31500621": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:09.179145+00:00",
+    "url": "https://api.crossref.org/works/10.1186%2Fs12894-019-0515-z",
+    "doi": "10.1186/s12894-019-0515-z",
+    "title": [
+      "Predictive factors for response to salvage stereotactic body radiotherapy in oligorecurrent prostate cancer limited to lymph nodes: a single institution experience"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29530632": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:09.535073+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euf.2018.02.015",
+    "doi": "10.1016/j.euf.2018.02.015",
+    "title": [
+      "Standard of Care Versus Metastases-directed Therapy for PET-detected Nodal Oligorecurrent Prostate Cancer Following Multimodality Treatment: A Multi-institutional Case-control Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID30557672": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:12.257415+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2018.12.020",
+    "doi": "10.1016/j.ijrobp.2018.12.020",
+    "title": [
+      "Early Toxicity of a Phase 2 Trial of Combined Salvage Radiation Therapy and Hormone Therapy in Oligometastatic Pelvic Node Relapses of Prostate Cancer (OLIGOPELVIS GETUG P07)"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID27233779": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:12.530241+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00345-016-1860-0",
+    "doi": "10.1007/s00345-016-1860-0",
+    "title": [
+      "Stereotactic body radiotherapy in oligometastatic prostate cancer patients with isolated lymph nodes involvement: a two-institution experience"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID28185875": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:12.741280+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2017.01.004",
+    "doi": "10.1016/j.clgc.2017.01.004",
+    "title": [
+      "Salvage Stereotactic Body Radiotherapy for Isolated Lymph Node Recurrent Prostate Cancer: Single Institution Series of 94 Consecutive Patients and 124 Lymph Nodes"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID27133946": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:13.070856+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clon.2016.04.040",
+    "doi": "10.1016/j.clon.2016.04.040",
+    "title": [
+      "Pattern of Progression after Stereotactic Body Radiotherapy for Oligometastatic Prostate Cancer Nodal Recurrences"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID25342516": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:13.571322+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00345-014-1427-x",
+    "doi": "10.1007/s00345-014-1427-x",
+    "title": [
+      "Stereotactic radiotherapy for isolated nodal recurrence of prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID25604915": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:14.010060+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2014.12.014",
+    "doi": "10.1016/j.clgc.2014.12.014",
+    "title": [
+      "Salvage Stereotactic Body Radiotherapy for Patients With Prostate Cancer With Isolated Lymph Node Metastasis: A Single-Center Experience"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID21528664": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:14.423291+00:00",
+    "url": "https://api.crossref.org/works/10.1177%2F030089161109700110",
+    "doi": "10.1177/030089161109700110",
+    "title": [
+      "Efficacy of Eradicative Radiotherapy for Limited Nodal Metastases Detected with Choline PET Scan in Prostate Cancer Patients"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42081701": {
+    "status": "checked",
+    "checked_at": "2026-10-26T06:13:14.578617+00:00",
+    "url": "https://api.crossref.org/works/10.1097%2Frlu.0000000000006418",
+    "doi": "10.1097/rlu.0000000000006418",
+    "title": [
+      "Outcomes of Radiotherapy With or Without Dose Escalation to Lymph Node Metastases Detected by PET PSMA or Conventional Imaging in Node-Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

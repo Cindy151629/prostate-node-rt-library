@@ -54585,6 +54585,7 @@
     "pages": "4350-4354",
     "id": "PMID42857294",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-10-12T07:20:55.070978+00:00",
@@ -54626,7 +54627,7 @@
       "entrez": "2026-10-15",
       "pmc-release": "2026-10-15"
     },
-    "revision_date": "2026-10-17",
+    "revision_date": "2026-10-19",
     "doi": "10.1007/s00345-026-06811-5",
     "pmcid": "PMC13672427",
     "types": [
@@ -54639,10 +54640,139 @@
     "pages": "749",
     "id": "PMID42878878",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-10-19T06:12:28.774987+00:00",
     "abstract_sha256": "29afa282973d6a8c1958a04c4c272cd35a66be4eafb19a2637b0ab38bb000988",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42907405",
+    "title": "Whole-body MRI with DWIBS and choline PET/CT for detecting oligoprogressive castration-resistant prostate cancer recurrence.",
+    "authors": [
+      "Kitajima K",
+      "Shinkai T",
+      "Yokoyama H",
+      "Fujiwara M",
+      "Yamada Y",
+      "Saito R",
+      "Kanematsu A",
+      "Yamamoto S",
+      "Maeda T",
+      "Yamakado K"
+    ],
+    "journal": "Fukushima journal of medical science",
+    "journal_abbr": "Fukushima J Med Sci",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Oct",
+      "Day": "20"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "10",
+        "Day": "20"
+      }
+    ],
+    "dates": {
+      "medline": "2026-10-22",
+      "pubmed": "2026-10-22",
+      "entrez": "2026-10-22"
+    },
+    "revision_date": "2026-10-22",
+    "doi": "10.5387/fms.26-00051",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "10.5387/fms.26-00051",
+    "id": "PMID42907405",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-10-26T06:12:48.321119+00:00",
+    "abstract_sha256": "6b63102f08cff3e219cbbe1bc6ae35f45f4630c57a6a17c49ce7d040652c7b4a",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42921729",
+    "title": "ENZARAD (ANZUP 1303): Phase 3 Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer.",
+    "authors": [
+      "Williams S",
+      "Sweeney CJ",
+      "Thomas H",
+      "Mak B",
+      "Zhang A",
+      "Lim TS",
+      "Jose C",
+      "Martin J",
+      "Patanjali N",
+      "Pryor D",
+      "Tran P",
+      "Mangar S",
+      "Mihai AM",
+      "Thomas C",
+      "Gampenrieder S",
+      "Yip S",
+      "Cheung L",
+      "Lee S",
+      "Goodwin A",
+      "Haworth A",
+      "Walsh A",
+      "Kelly PJ",
+      "Hughes S",
+      "Martin A",
+      "McDermott R",
+      "Stockler M",
+      "Davis ID",
+      "Nguyen PL"
+    ],
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "journal_abbr": "J Clin Oncol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Oct",
+      "Day": "24"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "10",
+        "Day": "24"
+      }
+    ],
+    "dates": {
+      "medline": "2026-10-25",
+      "pubmed": "2026-10-25",
+      "entrez": "2026-10-24"
+    },
+    "revision_date": "2026-10-24",
+    "doi": "10.1200/jco-26-01794",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "101200JCO2601794",
+    "id": "PMID42921729",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-10-26T06:12:48.321119+00:00",
+    "abstract_sha256": "59e7df1c2205a9dc31a2f86a727b218913a818c4fd757ea617b121b48fa13c38",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },
