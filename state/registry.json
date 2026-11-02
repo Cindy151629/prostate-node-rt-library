@@ -34009,7 +34009,7 @@
       "medline": "2022-7-23",
       "entrez": "2021-11-10"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-28",
     "doi": "10.1007/s00066-021-01871-5",
     "pmcid": "",
     "types": [
@@ -35400,7 +35400,7 @@
       "medline": "2022-9-30",
       "entrez": "2022-5-23"
     },
-    "revision_date": "2023-02-10",
+    "revision_date": "2026-10-29",
     "doi": "10.1038/s41379-022-01093-9",
     "pmcid": "",
     "types": [
@@ -37450,7 +37450,7 @@
       "pubmed": "2022-11-27",
       "entrez": "2022-11-26"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1038/s41391-022-00619-1",
     "pmcid": "",
     "types": [
@@ -37797,7 +37797,7 @@
       "pubmed": "2022-12-17",
       "entrez": "2022-12-16"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1038/s41391-022-00631-5",
     "pmcid": "",
     "types": [
@@ -39486,7 +39486,7 @@
       "pubmed": "2023-4-19",
       "entrez": "2023-4-18"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1007/s11912-023-01420-6",
     "pmcid": "",
     "types": [
@@ -40485,7 +40485,7 @@
       "pubmed": "2023-7-3",
       "entrez": "2023-7-3"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1007/s11934-023-01174-5",
     "pmcid": "",
     "types": [
@@ -40594,7 +40594,7 @@
       "pubmed": "2023-7-5",
       "entrez": "2023-7-4"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1007/s00259-023-06321-1",
     "pmcid": "",
     "types": [
@@ -41689,7 +41689,7 @@
       "pubmed": "2023-9-25",
       "entrez": "2023-9-25"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-10-31",
     "doi": "10.1007/s00259-023-06445-4",
     "pmcid": "",
     "types": [
@@ -44581,7 +44581,7 @@
       "pubmed": "2024-7-8",
       "entrez": "2024-7-8"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-11-01",
     "doi": "10.1007/s10147-024-02580-6",
     "pmcid": "",
     "types": [
@@ -44860,7 +44860,7 @@
       "pubmed": "2024-8-19",
       "entrez": "2024-8-18"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-11-01",
     "doi": "10.1007/s00259-024-06876-7",
     "pmcid": "",
     "types": [
@@ -52169,7 +52169,7 @@
       "pubmed": "2026-4-16",
       "entrez": "2026-4-15"
     },
-    "revision_date": "2026-07-15",
+    "revision_date": "2026-10-27",
     "doi": "10.1016/j.ucl.2026.02.007",
     "pmcid": "",
     "types": [
@@ -53265,8 +53265,7 @@
     "year": "2026",
     "publication_date_parts": {
       "Year": "2026",
-      "Month": "Jun",
-      "Day": "26"
+      "Month": "Oct"
     },
     "online_date_parts": [
       {
@@ -53279,20 +53278,20 @@
       "received": "2025-12-3",
       "revised": "2026-5-3",
       "accepted": "2026-6-8",
-      "medline": "2026-6-27",
+      "medline": "2026-10-29",
       "pubmed": "2026-6-27",
       "entrez": "2026-6-26"
     },
-    "revision_date": "2026-06-26",
+    "revision_date": "2026-10-29",
     "doi": "10.1016/j.euf.2026.06.008",
     "pmcid": "",
     "types": [
       "Journal Article"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
-    "pages": "S2405-4569(26)00103-3",
+    "volume": "12",
+    "issue": "5",
+    "pages": "948-955",
     "id": "PMID42362416",
     "sources": [
       "Europe PMC",
@@ -54262,9 +54261,9 @@
   },
   {
     "pmid": "42744091",
-    "title": "Ten-year outcomes of PET-directed salvage nodal radiotherapy and temporary ADT for N1 and M1a hormone-sensitive prostate cancer.",
+    "title": "Ten-Year Outcomes of Positron Emission Tomography-Directed Salvage Nodal Radiation Therapy and Temporary Androgen Deprivation Therapy for N1 and M1a Hormone-Sensitive Prostate Cancer.",
     "authors": [
-      "Salazar V CJ",
+      "Salazar CJ",
       "Wilhite TJ",
       "Stish BJ",
       "Phillips RM",
@@ -54300,11 +54299,11 @@
       "received": "2026-7-21",
       "revised": "2026-8-31",
       "accepted": "2026-9-3",
-      "medline": "2026-9-15",
       "pubmed": "2026-9-15",
+      "medline": "2026-9-15",
       "entrez": "2026-9-15"
     },
-    "revision_date": "2026-09-15",
+    "revision_date": "2026-10-26",
     "doi": "10.1016/j.prro.2026.09.003",
     "pmcid": "",
     "types": [
@@ -54320,7 +54319,7 @@
       "PubMed"
     ],
     "first_discovered": "2026-09-21T06:20:22.924897+00:00",
-    "abstract_sha256": "3c86a22c17960743601508e163440c72854adfd8bd095980f13a9e340bbc07b0",
+    "abstract_sha256": "b23367f2fe10e66e38e615911fcdcce9ac54b220c191b6874f0fbfe63575c689",
     "screening": "pending_priority",
     "screening_reason": "身份题录及主题词规则通过；实际人群、内容尚待逐篇精读"
   },
@@ -54773,6 +54772,72 @@
     ],
     "first_discovered": "2026-10-26T06:12:48.321119+00:00",
     "abstract_sha256": "59e7df1c2205a9dc31a2f86a727b218913a818c4fd757ea617b121b48fa13c38",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42941560",
+    "title": "Current State of Adjuvant Hormone Therapy in Prostate Cancer and in the Management of Pelvic Nodal Recurrence: A Narrative Review.",
+    "authors": [
+      "D'Andrea B",
+      "Montagna A",
+      "Benevento I",
+      "Rago L",
+      "Metallo V",
+      "Morano G",
+      "Romaniello M",
+      "Possidente F",
+      "De Fina V",
+      "Bianculli A",
+      "Lerose RMC",
+      "Mazzoccoli C",
+      "Telesca D",
+      "Storto G",
+      "Gallicchio R",
+      "Lazzari G"
+    ],
+    "journal": "Journal of clinical medicine",
+    "journal_abbr": "J Clin Med",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Oct",
+      "Day": "16"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "10",
+        "Day": "16"
+      }
+    ],
+    "dates": {
+      "received": "2026-8-21",
+      "revised": "2026-10-9",
+      "accepted": "2026-10-13",
+      "medline": "2026-10-27",
+      "pubmed": "2026-10-27",
+      "entrez": "2026-10-27",
+      "pmc-release": "2026-10-16"
+    },
+    "revision_date": "2026-10-28",
+    "doi": "10.3390/jcm15208047",
+    "pmcid": "PMC13705650",
+    "types": [
+      "Journal Article",
+      "Review"
+    ],
+    "corrections": [],
+    "volume": "15",
+    "issue": "20",
+    "pages": "8047",
+    "id": "PMID42941560",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-11-02T07:40:28.811139+00:00",
+    "abstract_sha256": "7f0c89249d64d1d222fe72b91adcc37b4359e59fd61133e68a7ded31f47b792b",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },

@@ -2578,12 +2578,12 @@
   "PMID32624405": {
     "id": "PMID32624405",
     "seed_id": "D016",
-    "checked_at": "2026-09-14T09:33:06.190662+00:00",
+    "checked_at": "2026-11-02T07:43:43.357614+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1102,
+    "page_chars": 1014,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.brachy.2020.05.007",
     "attempts": [
@@ -2597,7 +2597,7 @@
   "PMID32154392": {
     "id": "PMID32154392",
     "seed_id": "D017",
-    "checked_at": "2026-09-14T09:33:06.962231+00:00",
+    "checked_at": "2026-11-02T07:43:43.813358+00:00",
     "body_confirmed": true,
     "pmcid": "PMC7056599",
     "status": "body_obtained",
@@ -2623,7 +2623,7 @@
   "PMID32750234": {
     "id": "PMID32750234",
     "seed_id": "D018",
-    "checked_at": "2026-09-14T09:33:07.605564+00:00",
+    "checked_at": "2026-11-02T07:43:45.065978+00:00",
     "body_confirmed": true,
     "pmcid": "PMC7520291",
     "status": "body_obtained",
@@ -2651,7 +2651,7 @@
   "PMID24252686": {
     "id": "PMID24252686",
     "seed_id": "D020",
-    "checked_at": "2026-09-14T09:33:08.949496+00:00",
+    "checked_at": "2026-11-02T07:43:46.521940+00:00",
     "body_confirmed": true,
     "pmcid": "PMC3842657",
     "status": "body_obtained",
@@ -2679,12 +2679,12 @@
   "PMID30718087": {
     "id": "PMID30718087",
     "seed_id": "D019",
-    "checked_at": "2026-09-14T09:33:08.541751+00:00",
+    "checked_at": "2026-11-02T07:43:46.186157+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 875,
+    "page_chars": 897,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.clon.2019.01.004",
     "attempts": [
@@ -2698,12 +2698,12 @@
   "PMID21075555": {
     "id": "PMID21075555",
     "seed_id": "D021",
-    "checked_at": "2026-09-14T09:33:10.311455+00:00",
+    "checked_at": "2026-11-02T07:43:47.888354+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 902,
+    "page_chars": 912,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2010.09.023",
     "attempts": [
@@ -2717,12 +2717,12 @@
   "PMID42276876": {
     "id": "PMID42276876",
     "seed_id": "F001",
-    "checked_at": "2026-09-14T09:33:10.647506+00:00",
+    "checked_at": "2026-11-02T07:43:48.180008+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1100,
+    "page_chars": 1121,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.euo.2026.04.009",
     "attempts": [
@@ -2755,7 +2755,7 @@
   "PMID39725427": {
     "id": "PMID39725427",
     "seed_id": "F002",
-    "checked_at": "2026-09-14T09:33:11.714810+00:00",
+    "checked_at": "2026-11-02T07:43:48.551840+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11683931",
     "status": "body_obtained",
@@ -2783,7 +2783,7 @@
   "PMID36959540": {
     "id": "PMID36959540",
     "seed_id": "F003",
-    "checked_at": "2026-09-14T09:33:12.258908+00:00",
+    "checked_at": "2026-11-02T07:43:49.439095+00:00",
     "body_confirmed": true,
     "pmcid": "PMC10035228",
     "status": "body_obtained",
@@ -2811,7 +2811,7 @@
   "PMID32114475": {
     "id": "PMID32114475",
     "seed_id": "F004",
-    "checked_at": "2026-09-14T09:33:12.477822+00:00",
+    "checked_at": "2026-11-02T07:44:01.613105+00:00",
     "body_confirmed": true,
     "pmcid": "PMC7050316",
     "status": "body_obtained",
@@ -2837,7 +2837,7 @@
   "PMID30545809": {
     "id": "PMID30545809",
     "seed_id": "F005",
-    "checked_at": "2026-09-14T09:33:13.302725+00:00",
+    "checked_at": "2026-11-02T07:44:03.003844+00:00",
     "body_confirmed": true,
     "pmcid": "PMC6315267",
     "status": "body_obtained",
@@ -2882,7 +2882,7 @@
   "PMID41438100": {
     "id": "PMID41438100",
     "seed_id": "E001",
-    "checked_at": "2026-09-14T09:33:13.736008+00:00",
+    "checked_at": "2026-11-02T07:44:04.133098+00:00",
     "body_confirmed": true,
     "pmcid": "PMC12719672",
     "status": "body_obtained",

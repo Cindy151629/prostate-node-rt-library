@@ -1402,5 +1402,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42519375": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:39.266094+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.adro.2026.102072",
+    "doi": "10.1016/j.adro.2026.102072",
+    "title": [
+      "Hematological Toxicity and Bone Marrow Dose-Volume Effects in Chemotherapy-Naïve Patients Treated With Whole Pelvic and Para-aortic Lymph Node Radiation Therapy For Pathologic Pelvic Lymph Node–Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42201380": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:39.612622+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00259-026-07956-6",
+    "doi": "10.1007/s00259-026-07956-6",
+    "title": [
+      "PROQURE-I: a phase I study adding concurrent [177Lu]Lu-PSMA-617 to EBRT and ADT in curative intent treatment of N1 prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40882818": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:39.944024+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.radonc.2025.111112",
+    "doi": "10.1016/j.radonc.2025.111112",
+    "title": [
+      "MUlticentre REtrospective comparison of definitive EBRT with or without HDR BRAchytherapy boost in patients with locally-advanced prostate cancer and regional lymph NOde metastases (MUREBRANO) – A propensity score matched analysis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39075567": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:40.367641+00:00",
+    "url": "https://api.crossref.org/works/10.1186%2Fs40644-024-00742-3",
+    "doi": "10.1186/s40644-024-00742-3",
+    "title": [
+      "Pelvic lymph node mapping in prostate cancer: examining the impact of PSMA PET/CT on radiotherapy decision-making in patients with node-positive disease"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36154809": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:40.700800+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euf.2022.09.005",
+    "doi": "10.1016/j.euf.2022.09.005",
+    "title": [
+      "Evaluating the Impact of Prostate Only Versus Pelvic Radiotherapy for Pathological Node-positive Prostate Cancer: First Results from the Multicenter Phase 3 PROPER Trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36536528": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:41.081498+00:00",
+    "url": "https://api.crossref.org/works/10.1002%2Fcam4.5554",
+    "doi": "10.1002/cam4.5554",
+    "title": [
+      "Ten‐year outcomes of whole‐pelvic intensity‐modulated radiation therapy for prostate cancer with regional lymph node metastasis"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37201758": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:41.500723+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2023.05.017",
+    "doi": "10.1016/j.ijrobp.2023.05.017",
+    "title": [
+      "Multi-institutional Development and Validation of Contouring Guidelines for Para-aortic Elective Nodal Irradiation in Prostate Cancer Based on Patterns of Involvement on Targeted Molecular Imaging Positron Emission Tomography/Computed Tomography"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36732055": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:41.805709+00:00",
+    "url": "https://api.crossref.org/works/10.2967%2Fjnumed.122.265159",
+    "doi": "10.2967/jnumed.122.265159",
+    "title": [
+      "An Analysis of the Distribution of PSMA PET/CT–Positive Lymph Nodes and Their Coverage by Different Elective Nodal Radiation Volumes in Postoperative Prostate Cancer Patients"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36280446": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:42.199508+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2022.09.006",
+    "doi": "10.1016/j.euo.2022.09.006",
+    "title": [
+      "Prostate-specific Membrane Antigen Positron Emission Tomography/Computed Tomography–based Lymph Node Atlas for Salvage Radiotherapy in Patients with Recurrent Prostate Cancer: A Validation of the New NRG Oncology 2020 guideline"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID35521072": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:42.632481+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.adro.2022.100944",
+    "doi": "10.1016/j.adro.2022.100944",
+    "title": [
+      "Prostate-Centric Versus Bony-Centric Registration in the Definitive Treatment of Node-Positive Prostate Cancer with Simultaneous Integrated Boost: A Dosimetric Comparison"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34359768": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:42.982651+00:00",
+    "url": "https://api.crossref.org/works/10.3390%2Fcancers13153868",
+    "doi": "10.3390/cancers13153868",
+    "title": [
+      "Intensity-Modulated Radiation Therapy with Simultaneous Integrated Boost for Clinically Node-Positive Prostate Cancer: A Single-Institutional Retrospective Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34148727": {
+    "status": "checked",
+    "checked_at": "2026-11-02T07:43:43.355563+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.meddos.2021.05.002",
+    "doi": "10.1016/j.meddos.2021.05.002",
+    "title": [
+      "Ultra hypofractionated extended nodal irradiation using volumetric modulated arc therapy for oligorecurrent pelvic nodal prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

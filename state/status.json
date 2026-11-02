@@ -1,19 +1,19 @@
 {
-  "last_attempt": "2026-10-26T06:12:48.321119+00:00",
+  "last_attempt": "2026-11-02T07:40:28.811139+00:00",
   "attempt_state": "success",
-  "last_local_validation": "2026-10-26T06:13:25.930290+00:00",
-  "current_hash": "e1611dba670dc1a329889adc2230b53bd8b5fb431e1ae2e4a60845bb162fc35f",
-  "last_run_id": "2026-10-26T06-12-48.321119+00-00-2dbd39f6",
+  "last_local_validation": "2026-11-02T07:44:16.517662+00:00",
+  "current_hash": "ee1160aa1f01a6f07c5558c3d45b2c42121047ec9bdacbf4584a7fd2512a841a",
+  "last_run_id": "2026-11-02T07-40-28.811139+00-00-0d45ecff",
   "counts": {
     "reading": 175,
-    "registry": 1067,
-    "pending": 855,
+    "registry": 1068,
+    "pending": 856,
     "excluded": 35,
     "important": 3,
     "conflicts": 0
   },
-  "new_candidates": 2,
-  "updated_candidates": 2,
+  "new_candidates": 1,
+  "updated_candidates": 13,
   "new_reading": 0,
   "full_sources_success": true
 }
