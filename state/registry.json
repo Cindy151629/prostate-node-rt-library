@@ -6622,7 +6622,7 @@
       "entrez": "2008-12-3",
       "pmc-release": "2010-1-1"
     },
-    "revision_date": "2021-10-20",
+    "revision_date": "2026-11-08",
     "doi": "10.1200/jco.2007.14.2042",
     "pmcid": "PMC2645095",
     "types": [
@@ -47057,7 +47057,7 @@
       "pubmed": "2025-4-1",
       "entrez": "2025-4-1"
     },
-    "revision_date": "2026-10-10",
+    "revision_date": "2026-11-03",
     "doi": "10.1007/s11912-025-01665-3",
     "pmcid": "",
     "types": [
@@ -47654,7 +47654,7 @@
       "pubmed": "2025-6-3",
       "entrez": "2025-6-3"
     },
-    "revision_date": "2026-10-08",
+    "revision_date": "2026-11-03",
     "doi": "10.1007/s00345-025-05733-y",
     "pmcid": "",
     "types": [
@@ -49544,7 +49544,7 @@
       "pubmed": "2025-10-13",
       "entrez": "2025-10-13"
     },
-    "revision_date": "2026-10-09",
+    "revision_date": "2026-11-03",
     "doi": "10.1007/s11547-025-02107-7",
     "pmcid": "",
     "types": [
@@ -51188,7 +51188,7 @@
       "pubmed": "2026-1-16",
       "entrez": "2026-1-16"
     },
-    "revision_date": "2026-10-09",
+    "revision_date": "2026-11-03",
     "doi": "10.1007/s00120-025-02748-6",
     "pmcid": "",
     "types": [
@@ -53159,7 +53159,7 @@
       "pubmed": "2026-6-8",
       "entrez": "2026-6-7"
     },
-    "revision_date": "2026-10-08",
+    "revision_date": "2026-11-05",
     "doi": "10.1007/s00259-026-07982-4",
     "pmcid": "",
     "types": [
@@ -54166,8 +54166,7 @@
     "year": "2026",
     "publication_date_parts": {
       "Year": "2026",
-      "Month": "Sep",
-      "Day": "04"
+      "Month": "Nov"
     },
     "online_date_parts": [
       {
@@ -54179,20 +54178,23 @@
     "dates": {
       "received": "2026-6-8",
       "accepted": "2026-8-17",
-      "medline": "2026-9-4",
+      "medline": "2026-11-4",
       "pubmed": "2026-9-4",
-      "entrez": "2026-9-4"
+      "entrez": "2026-9-4",
+      "pmc-release": "2026-9-4"
     },
-    "revision_date": "2026-09-04",
+    "revision_date": "2026-11-06",
     "doi": "10.1007/s00259-026-08147-z",
-    "pmcid": "",
+    "pmcid": "PMC13727915",
     "types": [
-      "Journal Article"
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
     ],
     "corrections": [],
-    "volume": "",
-    "issue": "",
-    "pages": "10.1007/s00259-026-08147-z",
+    "volume": "53",
+    "issue": "13",
+    "pages": "8478-8487",
     "id": "PMID42693211",
     "sources": [
       "Europe PMC",
@@ -54838,6 +54840,61 @@
     ],
     "first_discovered": "2026-11-02T07:40:28.811139+00:00",
     "abstract_sha256": "7f0c89249d64d1d222fe72b91adcc37b4359e59fd61133e68a7ded31f47b792b",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "42989924",
+    "title": "Multiparametric magnetic resonance imaging in locally advanced prostate cancer: the radiologist's perspective on staging, treatment planning, and response assessment.",
+    "authors": [
+      "Cardobi N",
+      "De Robertis Lombardi R",
+      "Spoto F",
+      "Brunelli M",
+      "Antonelli A",
+      "Bertolo RG",
+      "Veccia A",
+      "Romano M",
+      "D'Onofrio M"
+    ],
+    "journal": "Asian journal of andrology",
+    "journal_abbr": "Asian J Androl",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Nov",
+      "Day": "06"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "11",
+        "Day": "06"
+      }
+    ],
+    "dates": {
+      "received": "2026-5-28",
+      "accepted": "2026-8-26",
+      "pubmed": "2026-11-6",
+      "medline": "2026-11-6",
+      "entrez": "2026-11-6"
+    },
+    "revision_date": "2026-11-06",
+    "doi": "10.4103/aja202659",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "10.4103/aja202659",
+    "id": "PMID42989924",
+    "sources": [
+      "PubMed"
+    ],
+    "first_discovered": "2026-11-09T07:58:01.993670+00:00",
+    "abstract_sha256": "282a409b1a12500fc3869d5630703e294a8d2e15d645b74987218a181c3b99df",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },

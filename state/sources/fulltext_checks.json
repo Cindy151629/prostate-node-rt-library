@@ -2863,12 +2863,12 @@
   "PMID42177994": {
     "id": "PMID42177994",
     "seed_id": "E002",
-    "checked_at": "2026-09-14T09:33:13.881352+00:00",
+    "checked_at": "2026-11-09T07:59:11.493835+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 973,
+    "page_chars": 987,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.radonc.2026.111614",
     "attempts": [
@@ -2911,12 +2911,12 @@
   "PMID41672869": {
     "id": "PMID41672869",
     "seed_id": "E003",
-    "checked_at": "2026-09-14T09:33:14.638192+00:00",
+    "checked_at": "2026-11-09T07:59:12.064022+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 998,
+    "page_chars": 1018,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.eururo.2025.12.001",
     "attempts": [
@@ -2930,12 +2930,12 @@
   "PMID40049196": {
     "id": "PMID40049196",
     "seed_id": "E004",
-    "checked_at": "2026-09-14T09:33:15.279749+00:00",
+    "checked_at": "2026-11-09T07:59:12.488123+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 946,
+    "page_chars": 940,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/s1470-2045(24)00730-7",
     "attempts": [
@@ -2949,12 +2949,12 @@
   "PMID40446641": {
     "id": "PMID40446641",
     "seed_id": "E006",
-    "checked_at": "2026-09-14T09:33:16.231648+00:00",
+    "checked_at": "2026-11-09T07:59:25.885527+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 915,
+    "page_chars": 943,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.clgc.2025.102370",
     "attempts": [
@@ -2968,19 +2968,19 @@
   "PMID40750497": {
     "id": "PMID40750497",
     "seed_id": "E005",
-    "checked_at": "2026-09-14T09:33:15.934970+00:00",
+    "checked_at": "2026-11-09T07:59:12.897273+00:00",
     "body_confirmed": false,
     "pmcid": "PMC12921538",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 970,
+    "page_chars": 990,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.eururo.2025.07.006",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12921538/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1016/j.eururo.2025.07.006",
@@ -2993,36 +2993,39 @@
   "PMID38763153": {
     "id": "PMID38763153",
     "seed_id": "E007",
-    "checked_at": "2026-09-14T09:33:16.690886+00:00",
-    "body_confirmed": true,
+    "checked_at": "2026-11-09T07:59:26.344804+00:00",
+    "body_confirmed": false,
     "pmcid": "PMC7616389",
-    "status": "body_obtained",
-    "found_ids": {
-      "pmcid": "PMC7616389",
-      "pmcid-ver": "PMC7616389.1",
-      "pmcaid": "7616389",
-      "pmcaiid": "7616389",
-      "manuscript-id": "EMS197881",
-      "pmid": "38763153",
-      "doi": "10.1016/S0140-6736(24)00549-X",
-      "manuscript-id-alternative": "UKMS197881"
-    },
-    "body_chars": 25072,
-    "article_title": "Duration of androgen deprivation therapy with postoperative radiotherapy for prostate cancer: a comparison of long-course versus short-course androgen deprivation therapy in the RADICALS-HD randomised trial",
-    "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断",
-    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 1002,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/s0140-6736(24)00549-x",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
-        "status": "body_obtained"
+        "status": "access_failed",
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML: HTTP Error 500: "
+      },
+      {
+        "url": "https://doi.org/10.1016/s0140-6736(24)00549-x",
+        "status": "publisher_page_unconfirmed"
       }
     ],
-    "body_sha256": "fc236394215e43e1012aef53e87edc8a0f16513aeb5526ceb00ee52acf62d09b"
+    "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616389/",
+    "index_open_access": true,
+    "previous_confirmed_body": {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7616389/fullTextXML",
+      "checked_at": "2026-09-14T09:33:16.690886+00:00",
+      "verified_at": null,
+      "body_sha256": "fc236394215e43e1012aef53e87edc8a0f16513aeb5526ceb00ee52acf62d09b",
+      "version": "PMC归档全文；出版社版/作者稿需结合归档信息逐条判断"
+    }
   },
   "PMID34953525": {
     "id": "PMID34953525",
     "seed_id": "E009",
-    "checked_at": "2026-09-14T09:33:18.218233+00:00",
+    "checked_at": "2026-11-09T07:59:55.149262+00:00",
     "body_confirmed": true,
     "pmcid": "PMC8811484",
     "status": "body_obtained",
@@ -3050,7 +3053,7 @@
   "PMID36001857": {
     "id": "PMID36001857",
     "seed_id": "E010",
-    "checked_at": "2026-09-14T09:33:18.234683+00:00",
+    "checked_at": "2026-11-09T08:00:42.068742+00:00",
     "body_confirmed": true,
     "pmcid": "PMC10166371",
     "status": "body_obtained",
@@ -3078,23 +3081,21 @@
   "PMID37022702": {
     "id": "PMID37022702",
     "seed_id": "E008",
-    "checked_at": "2026-09-14T09:33:17.802851+00:00",
+    "checked_at": "2026-11-09T07:59:39.356284+00:00",
     "body_confirmed": false,
     "pmcid": "PMC10080407",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 104540,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1001/jamaoncol.2023.0161: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1001/jamaoncol.2023.0161",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10080407/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1001/jamaoncol.2023.0161",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10080407/",
@@ -3103,7 +3104,7 @@
   "PMID32215577": {
     "id": "PMID32215577",
     "seed_id": "E012",
-    "checked_at": "2026-09-14T09:33:20.224337+00:00",
+    "checked_at": "2026-11-09T08:00:50.278095+00:00",
     "body_confirmed": true,
     "pmcid": "PMC7225913",
     "status": "body_obtained",
@@ -3129,7 +3130,7 @@
   "PMID29240541": {
     "id": "PMID29240541",
     "seed_id": "E013",
-    "checked_at": "2026-09-14T09:33:21.253093+00:00",
+    "checked_at": "2026-11-09T08:01:05.748489+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "access_restricted",
@@ -3171,12 +3172,12 @@
   "PMID34494172": {
     "id": "PMID34494172",
     "seed_id": "E011",
-    "checked_at": "2026-09-14T09:33:19.858423+00:00",
+    "checked_at": "2026-11-09T08:00:50.080746+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 96427,
+    "identity_hint": false,
+    "page_chars": 1376,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1007/s10147-021-02023-6",
     "attempts": [

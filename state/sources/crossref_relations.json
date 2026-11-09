@@ -1558,5 +1558,161 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID33214044": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:06.306753+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clon.2020.10.019",
+    "doi": "10.1016/j.clon.2020.10.019",
+    "title": [
+      "Safety and Efficacy of Ultra-hypofractionation in Node-positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID33489887": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:06.678630+00:00",
+    "url": "https://api.crossref.org/works/10.3389%2Ffonc.2020.590722",
+    "doi": "10.3389/fonc.2020.590722",
+    "title": [
+      "The Distribution of Pelvic Nodal Metastases in Prostate Cancer Reveals Potential to Advance and Personalize Pelvic Radiotherapy"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32624405": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:07.060539+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.brachy.2020.05.007",
+    "doi": "10.1016/j.brachy.2020.05.007",
+    "title": [
+      "Overall survival comparison between androgen deprivation therapy (ADT) plus external beam radiation therapy (EBRT) vs ADT plus EBRT with brachytherapy boost in clinically node-positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32154392": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:07.404382+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ctro.2020.02.006",
+    "doi": "10.1016/j.ctro.2020.02.006",
+    "title": [
+      "Nodal recurrence patterns on PET/CT after RTOG-based nodal radiotherapy for prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32750234": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:08.802275+00:00",
+    "url": "https://api.crossref.org/works/10.1002%2Fcam4.2985",
+    "doi": "10.1002/cam4.2985",
+    "title": [
+      "Clinical outcomes of definitive whole pelvic radiotherapy for clinical lymph node metastatic prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID30718087": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:09.013667+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clon.2019.01.004",
+    "doi": "10.1016/j.clon.2019.01.004",
+    "title": [
+      "Moderately Hypofractionated Radiotherapy in Node-positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID24252686": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:09.453970+00:00",
+    "url": "https://api.crossref.org/works/10.1186%2F1748-717x-8-271",
+    "doi": "10.1186/1748-717x-8-271",
+    "title": [
+      "Low rate of lymphedema after extended pelvic lymphadenectomy followed by pelvic irradiation of node-positive prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID21075555": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:09.792578+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2010.09.023",
+    "doi": "10.1016/j.ijrobp.2010.09.023",
+    "title": [
+      "Magnetic Resonance Lymphography–Guided Selective High-Dose Lymph Node Irradiation in Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42276876": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:10.221638+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.euo.2026.04.009",
+    "doi": "10.1016/j.euo.2026.04.009",
+    "title": [
+      "Study Protocol of OLIGOPELVIS 2–GETUG P12: A Randomized Phase 3 Study Comparing Intermittent Androgen-deprivation Therapy with or Without Salvage High-dose Intensity-modulated Radiotherapy to Oligorecurrent Pelvic and Para-aortic Lymph Nodes in Patients with Biochemically Relapsing Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39725427": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:10.580637+00:00",
+    "url": "https://api.crossref.org/works/10.1136%2Fbmjopen-2024-095560",
+    "doi": "10.1136/bmjopen-2024-095560",
+    "title": [
+      "Pelvis Or Involved Node Treatment: Eradicating Recurrence in Prostate Cancer (POINTER-PC) – study protocol paper for a phase III multicentre, open-label randomised controlled trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36959540": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:11.219837+00:00",
+    "url": "https://api.crossref.org/works/10.1186%2Fs12885-023-10725-5",
+    "doi": "10.1186/s12885-023-10725-5",
+    "title": [
+      "Tolerability of concurrent external beam radiotherapy and [177Lu]Lu-PSMA-617 for node-positive prostate cancer in treatment naïve patients, phase I study (PROQURE-I trial)"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32114475": {
+    "status": "checked",
+    "checked_at": "2026-11-09T07:59:11.491910+00:00",
+    "url": "https://api.crossref.org/works/10.1136%2Fbmjopen-2019-034623",
+    "doi": "10.1136/bmjopen-2019-034623",
+    "title": [
+      "Study protocol of a randomised controlled trial of prostate radiotherapy in high-risk and node-positive disease comparing moderate and extreme hypofractionation (PRIME TRIAL)"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }
