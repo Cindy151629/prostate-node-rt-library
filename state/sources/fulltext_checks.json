@@ -19,14 +19,30 @@
     "index_open_access": false
   },
   "PMID41421764": {
-    "status": "body_obtained",
-    "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/331410/331410.pdf",
-    "version": "机构仓储PDF；版本见原文页首",
-    "verified_at": "2026-09-14T09:38:59.695382+00:00",
-    "method": "PDF文件头、正文及DOI对应核验",
-    "sha256": "4469e8582286e74c64104788aa6cb750ee3229feb97ba72ba08d5a54658e9189",
-    "body_chars": 94533,
-    "identity_match": true
+    "id": "PMID41421764",
+    "seed_id": "G003",
+    "checked_at": "2026-11-16T07:59:39.273610+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": false,
+    "page_chars": 913,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1016/j.annonc.2025.12.009",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1016/j.annonc.2025.12.009",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false,
+    "previous_confirmed_body": {
+      "url": "https://repository.ubn.ru.nl/bitstream/handle/2066/331410/331410.pdf",
+      "checked_at": null,
+      "verified_at": "2026-09-14T09:38:59.695382+00:00",
+      "body_sha256": null,
+      "version": "机构仓储PDF；版本见原文页首"
+    }
   },
   "PMID42457454": {
     "id": "PMID42457454",
@@ -1028,14 +1044,30 @@
     "index_open_access": false
   },
   "DOI07e046102f40f016": {
-    "status": "body_obtained",
-    "url": "https://link.springer.com/content/pdf/10.1007/s12672-026-05458-3_reference.pdf",
-    "version": "出版社已接收待排版版本",
-    "verified_at": "2026-09-14T09:39:17.953429+00:00",
-    "method": "PDF文件头、正文及DOI对应核验",
-    "sha256": "bc3824faaad2b6e16494accd4fe4582c60e8b8db7ebd2f64a4dbb1e6fefb8577",
-    "body_chars": 52389,
-    "identity_match": true
+    "id": "DOI07e046102f40f016",
+    "seed_id": "B001",
+    "checked_at": "2026-11-16T07:59:39.879124+00:00",
+    "body_confirmed": false,
+    "pmcid": "",
+    "status": "publisher_page_unconfirmed",
+    "identity_hint": true,
+    "page_chars": 69917,
+    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "url": "https://doi.org/10.1007/s12672-026-05458-3",
+    "attempts": [
+      {
+        "url": "https://doi.org/10.1007/s12672-026-05458-3",
+        "status": "publisher_page_unconfirmed"
+      }
+    ],
+    "index_open_access": false,
+    "previous_confirmed_body": {
+      "url": "https://link.springer.com/content/pdf/10.1007/s12672-026-05458-3_reference.pdf",
+      "checked_at": null,
+      "verified_at": "2026-09-14T09:39:17.953429+00:00",
+      "body_sha256": null,
+      "version": "出版社已接收待排版版本"
+    }
   },
   "PMID35304077": {
     "id": "PMID35304077",
@@ -3147,23 +3179,21 @@
   "PMID26606329": {
     "id": "PMID26606329",
     "seed_id": "E015",
-    "checked_at": "2026-09-14T09:33:22.447569+00:00",
+    "checked_at": "2026-11-16T07:58:57.099745+00:00",
     "body_confirmed": false,
     "pmcid": "PMC4789485",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 86208,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1001/jamaoncol.2015.4350: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1001/jamaoncol.2015.4350",
     "attempts": [
       {
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML",
         "status": "access_failed",
-        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML: HTTP Error 404: Not Found"
+        "error": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4789485/fullTextXML: HTTP Error 500: "
       },
       {
         "url": "https://doi.org/10.1001/jamaoncol.2015.4350",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "indexed_fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4789485/",
@@ -3191,12 +3221,12 @@
   "PMID27598803": {
     "id": "PMID27598803",
     "seed_id": "E016",
-    "checked_at": "2026-09-14T09:33:28.374142+00:00",
+    "checked_at": "2026-11-16T07:59:38.085691+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 1005,
+    "page_chars": 1013,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2016.06.011",
     "attempts": [
@@ -3210,12 +3240,12 @@
   "PMID24661660": {
     "id": "PMID24661660",
     "seed_id": "E017",
-    "checked_at": "2026-09-14T09:33:28.493921+00:00",
+    "checked_at": "2026-11-16T07:59:38.687571+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": false,
-    "page_chars": 906,
+    "page_chars": 914,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1016/j.ijrobp.2014.01.008",
     "attempts": [
@@ -3229,12 +3259,12 @@
   "PMID28101585": {
     "id": "PMID28101585",
     "seed_id": "E014",
-    "checked_at": "2026-09-14T09:33:21.661716+00:00",
+    "checked_at": "2026-11-16T07:58:54.446281+00:00",
     "body_confirmed": false,
     "pmcid": "",
     "status": "publisher_page_unconfirmed",
     "identity_hint": true,
-    "page_chars": 97993,
+    "page_chars": 86741,
     "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
     "url": "https://doi.org/10.1007/s00066-016-1094-5",
     "attempts": [
@@ -3248,18 +3278,16 @@
   "PMID18544987": {
     "id": "PMID18544987",
     "seed_id": "E018",
-    "checked_at": "2026-09-14T09:33:29.997670+00:00",
+    "checked_at": "2026-11-16T07:59:39.073977+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 18471,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1159/000139880: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1159/000139880",
     "attempts": [
       {
         "url": "https://doi.org/10.1159/000139880",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "index_open_access": false
@@ -3267,7 +3295,7 @@
   "PMID42028344": {
     "id": "PMID42028344",
     "seed_id": "X001",
-    "checked_at": "2026-09-14T09:56:47.648139+00:00",
+    "checked_at": "2026-11-16T07:59:41.935941+00:00",
     "body_confirmed": true,
     "pmcid": "PMC13101549",
     "status": "body_obtained",
@@ -3296,7 +3324,7 @@
   "PMID40114834": {
     "id": "PMID40114834",
     "seed_id": "X002",
-    "checked_at": "2026-09-14T09:56:47.648902+00:00",
+    "checked_at": "2026-11-16T08:00:05.773675+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11921305",
     "status": "body_obtained",
@@ -3324,7 +3352,7 @@
   "PMID39895963": {
     "id": "PMID39895963",
     "seed_id": "X004",
-    "checked_at": "2026-09-14T09:56:49.271836+00:00",
+    "checked_at": "2026-11-16T08:00:21.491658+00:00",
     "body_confirmed": true,
     "pmcid": "PMC11785391",
     "status": "body_obtained",
@@ -3350,7 +3378,7 @@
   "PMID36483057": {
     "id": "PMID36483057",
     "seed_id": "X005",
-    "checked_at": "2026-09-14T09:56:49.737213+00:00",
+    "checked_at": "2026-11-16T08:00:33.841562+00:00",
     "body_confirmed": true,
     "pmcid": "PMC9723301",
     "status": "body_obtained",
@@ -3376,18 +3404,16 @@
   "PMID40581618": {
     "id": "PMID40581618",
     "seed_id": "X003",
-    "checked_at": "2026-09-14T09:56:47.648959+00:00",
+    "checked_at": "2026-11-16T08:00:21.288924+00:00",
     "body_confirmed": false,
     "pmcid": "",
-    "status": "publisher_page_unconfirmed",
-    "identity_hint": true,
-    "page_chars": 97414,
-    "reason": "已取得页面；尚未确认其为对应正文，不以HTTP200当作全文",
+    "status": "access_restricted",
+    "reason": "https://doi.org/10.1093/bjr/tqaf142: HTTP Error 403: Forbidden",
     "url": "https://doi.org/10.1093/bjr/tqaf142",
     "attempts": [
       {
         "url": "https://doi.org/10.1093/bjr/tqaf142",
-        "status": "publisher_page_unconfirmed"
+        "status": "access_restricted"
       }
     ],
     "index_open_access": false

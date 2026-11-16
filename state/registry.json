@@ -26976,7 +26976,7 @@
       "medline": "2021-2-16",
       "pmc-release": "2020-2-28"
     },
-    "revision_date": "2026-01-09",
+    "revision_date": "2026-11-09",
     "doi": "10.1136/bmjopen-2019-034623",
     "pmcid": "PMC7050316",
     "types": [
@@ -41944,7 +41944,7 @@
       "pubmed": "2023-10-12",
       "entrez": "2023-10-11"
     },
-    "revision_date": "2026-08-21",
+    "revision_date": "2026-11-09",
     "doi": "10.1016/j.euo.2023.09.007",
     "pmcid": "",
     "types": [
@@ -43915,9 +43915,9 @@
       "medline": "2025-1-26",
       "pubmed": "2024-5-23",
       "entrez": "2024-5-22",
-      "pmc-release": "2026-2-1"
+      "pmc-release": "2025-2-25"
     },
-    "revision_date": "2025-10-15",
+    "revision_date": "2026-11-12",
     "doi": "10.1016/j.eururo.2024.04.038",
     "pmcid": "PMC11579255",
     "types": [
@@ -52360,7 +52360,7 @@
       "pubmed": "2026-5-1",
       "entrez": "2026-4-30"
     },
-    "revision_date": "2026-08-19",
+    "revision_date": "2026-11-10",
     "doi": "10.1016/s1470-2045(26)00066-5",
     "pmcid": "",
     "types": [
@@ -54879,7 +54879,7 @@
       "medline": "2026-11-6",
       "entrez": "2026-11-6"
     },
-    "revision_date": "2026-11-06",
+    "revision_date": "2026-11-09",
     "doi": "10.4103/aja202659",
     "pmcid": "",
     "types": [
@@ -54891,10 +54891,128 @@
     "pages": "10.4103/aja202659",
     "id": "PMID42989924",
     "sources": [
+      "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-11-09T07:58:01.993670+00:00",
     "abstract_sha256": "282a409b1a12500fc3869d5630703e294a8d2e15d645b74987218a181c3b99df",
+    "screening": "pending",
+    "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
+  },
+  {
+    "pmid": "43026774",
+    "title": "In Silico Dosimetric Comparison of Intensity-Modulated Photon Versus Proton Therapy for Pelvic and Para-Aortic Nodal Recurrence of Prostate Cancer Following Prior Irradiation.",
+    "authors": [
+      "Knight JA",
+      "Chen H",
+      "Tran A",
+      "Floreza B",
+      "Li H",
+      "Halthore A",
+      "Kumar R",
+      "Goldstein M",
+      "Kiess A",
+      "Song D",
+      "Greco S",
+      "Deville C"
+    ],
+    "journal": "Cancers",
+    "journal_abbr": "Cancers (Basel)",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Oct",
+      "Day": "26"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "10",
+        "Day": "26"
+      }
+    ],
+    "dates": {
+      "received": "2026-9-10",
+      "revised": "2026-10-19",
+      "accepted": "2026-10-22",
+      "medline": "2026-11-14",
+      "pubmed": "2026-11-14",
+      "entrez": "2026-11-14",
+      "pmc-release": "2026-10-26"
+    },
+    "revision_date": "2026-11-14",
+    "doi": "10.3390/cancers18213452",
+    "pmcid": "PMC13761812",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "18",
+    "issue": "21",
+    "pages": "3452",
+    "id": "PMID43026774",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-11-16T07:58:13.934511+00:00",
+    "abstract_sha256": "3745af269fd529fc7d973902ae50f5bf76ff11e161e43dda0bcc7d650e217c41",
+    "screening": "pending_priority",
+    "screening_reason": "身份题录及主题词规则通过；实际人群、内容尚待逐篇精读"
+  },
+  {
+    "pmid": "43033911",
+    "title": "PREDICT: a clinical tool to decide when to include the pelvis in prostate cancer radiotherapy. Development and multicohort external validation.",
+    "authors": [
+      "Rosich A",
+      "Cuervo B",
+      "Ferrer J",
+      "Sanchez E",
+      "Debenedetti P",
+      "Rivero E",
+      "Roldan S",
+      "Lorenzo F"
+    ],
+    "journal": "Practical radiation oncology",
+    "journal_abbr": "Pract Radiat Oncol",
+    "year": "2026",
+    "publication_date_parts": {
+      "Year": "2026",
+      "Month": "Nov",
+      "Day": "14"
+    },
+    "online_date_parts": [
+      {
+        "Year": "2026",
+        "Month": "11",
+        "Day": "14"
+      }
+    ],
+    "dates": {
+      "received": "2026-10-6",
+      "revised": "2026-10-30",
+      "accepted": "2026-11-3",
+      "medline": "2026-11-15",
+      "pubmed": "2026-11-15",
+      "entrez": "2026-11-14"
+    },
+    "revision_date": "2026-11-14",
+    "doi": "10.1016/j.prro.2026.11.002",
+    "pmcid": "",
+    "types": [
+      "Journal Article"
+    ],
+    "corrections": [],
+    "volume": "",
+    "issue": "",
+    "pages": "S1879-8500(26)00344-9",
+    "id": "PMID43033911",
+    "sources": [
+      "Europe PMC",
+      "PubMed"
+    ],
+    "first_discovered": "2026-11-16T07:58:13.934511+00:00",
+    "abstract_sha256": "796b5a2d09116907988354732c8aa813fe2caa845bad04cf8c82432296be35fc",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },

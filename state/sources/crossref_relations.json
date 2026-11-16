@@ -1714,5 +1714,177 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID30545809": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:50.165426+00:00",
+    "url": "https://api.crossref.org/works/10.2196%2F11256",
+    "doi": "10.2196/11256",
+    "title": [
+      "Benefits of Elective Para-Aortic Radiotherapy for pN1 Prostate Cancer Using Arc Therapy (Intensity-Modulated or Volumetric Modulated Arc Therapy): Protocol for a Nonrandomized Phase II Trial"
+    ],
+    "type": "journal-article",
+    "relations": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.2196/preprints.11256",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41438100": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:50.583807+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ctro.2025.101084",
+    "doi": "10.1016/j.ctro.2025.101084",
+    "title": [
+      "Pre-PROTO-PRIME: stereotactic body proton therapy to the prostate and pelvic nodes for high-risk and node-positive prostate cancer — feasibility, acute toxicity and dosimetric insights"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42177994": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:50.920493+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.radonc.2026.111614",
+    "doi": "10.1016/j.radonc.2026.111614",
+    "title": [
+      "Moderate hypofractionated boost to the prostate with pelvic radiotherapy in high-risk prostate cancer (MOB-RT) − a phase 2 study: acute safety and quality of life outcomes"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID41672869": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:51.260755+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2025.12.001",
+    "doi": "10.1016/j.eururo.2025.12.001",
+    "title": [
+      "FORMULA-509: A Multicenter Randomized Trial of Postprostatectomy Salvage Radiotherapy and 6 months of a GNRH Agonist with Either Bicalutamide or Abiraterone Acetate plus Prednisone and Apalutamide"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40049196": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:51.733196+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fs1470-2045%2824%2900730-7",
+    "doi": "10.1016/s1470-2045(24)00730-7",
+    "title": [
+      "ADT with SBRT versus SBRT alone for hormone-sensitive oligorecurrent prostate cancer (RADIOSA): a randomised, open-label, phase 2 clinical trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40750497": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:52.119156+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2025.07.006",
+    "doi": "10.1016/j.eururo.2025.07.006",
+    "title": [
+      "Continuous Androgen Deprivation Therapy with or Without Metastasis-directed Therapy for Oligometastatic Prostate Cancer: The Multicenter Phase 2 Randomized EXTEND Trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40446641": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:52.484566+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.clgc.2025.102370",
+    "doi": "10.1016/j.clgc.2025.102370",
+    "title": [
+      "Radical Prostatectomy Versus Radiation Therapy for Locally Advanced and Clinically Nodal Positive Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID38763153": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:53.015079+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fs0140-6736%2824%2900549-x",
+    "doi": "10.1016/s0140-6736(24)00549-x",
+    "title": [
+      "Duration of androgen deprivation therapy with postoperative radiotherapy for prostate cancer: a comparison of long-course versus short-course androgen deprivation therapy in the RADICALS-HD randomised trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID37022702": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:53.287054+00:00",
+    "url": "https://api.crossref.org/works/10.1001%2Fjamaoncol.2023.0161",
+    "doi": "10.1001/jamaoncol.2023.0161",
+    "title": [
+      "Addition of Metastasis-Directed Therapy to Intermittent Hormone Therapy for Oligometastatic Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34953525": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:53.717433+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fs0140-6736%2821%2902437-5",
+    "doi": "10.1016/s0140-6736(21)02437-5",
+    "title": [
+      "Abiraterone acetate and prednisolone with or without enzalutamide for high-risk non-metastatic prostate cancer: a meta-analysis of primary results from two randomised controlled phase 3 trials of the STAMPEDE platform protocol"
+    ],
+    "type": "journal-article",
+    "relations": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.741368286.793596536",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36001857": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:54.046597+00:00",
+    "url": "https://api.crossref.org/works/10.1200%2Fjco.22.00644",
+    "doi": "10.1200/jco.22.00644",
+    "title": [
+      "Long-Term Outcomes and Genetic Predictors of Response to Metastasis-Directed Therapy Versus Observation in Oligometastatic Prostate Cancer: Analysis of STOMP and ORIOLE Trials"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID34494172": {
+    "status": "checked",
+    "checked_at": "2026-11-16T07:58:54.444628+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs10147-021-02023-6",
+    "doi": "10.1007/s10147-021-02023-6",
+    "title": [
+      "The effectiveness of high-dose-rate brachytherapy with external beam radiotherapy for clinically locally advanced and node-positive prostate cancer: long-term results of a retrospective study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }
