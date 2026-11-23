@@ -1886,5 +1886,162 @@
     "relations": {},
     "updates": [],
     "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID32215577": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:09.388209+00:00",
+    "url": "https://api.crossref.org/works/10.1001%2Fjamaoncol.2020.0147",
+    "doi": "10.1001/jamaoncol.2020.0147",
+    "title": [
+      "Outcomes of Observation vs Stereotactic Ablative Radiation for Oligometastatic Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID29240541": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:09.713035+00:00",
+    "url": "https://api.crossref.org/works/10.1200%2Fjco.2017.75.4853",
+    "doi": "10.1200/jco.2017.75.4853",
+    "title": [
+      "Surveillance or Metastasis-Directed Therapy for Oligometastatic Prostate Cancer Recurrence: A Prospective, Randomized, Multicenter Phase II Trial"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID28101585": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:10.257937+00:00",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00066-016-1094-5",
+    "doi": "10.1007/s00066-016-1094-5",
+    "title": [
+      "Whole pelvis radiotherapy for pathological node-positive prostate cancer",
+      "Bestrahlung des gesamten Beckens beim nodal metastasierten Prostatakarzinom"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID26606329": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:10.514117+00:00",
+    "url": "https://api.crossref.org/works/10.1001%2Fjamaoncol.2015.4350",
+    "doi": "10.1001/jamaoncol.2015.4350",
+    "title": [
+      "Failure-Free Survival and Radiotherapy in Patients With Newly Diagnosed Nonmetastatic Prostate Cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID27598803": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:10.845850+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2016.06.011",
+    "doi": "10.1016/j.ijrobp.2016.06.011",
+    "title": [
+      "The Outcome for Patients With Pathologic Node-Positive Prostate Cancer Treated With Intensity Modulated Radiation Therapy and Androgen Deprivation Therapy: A Case-Matched Analysis of pN1 and pN0 Patients"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID24661660": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:11.206780+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ijrobp.2014.01.008",
+    "doi": "10.1016/j.ijrobp.2014.01.008",
+    "title": [
+      "The Impact of Definitive Local Therapy for Lymph Node-Positive Prostate Cancer: A Population-Based Study"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID18544987": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:11.627721+00:00",
+    "url": "https://api.crossref.org/works/10.1159%2F000139880",
+    "doi": "10.1159/000139880",
+    "title": [
+      "Radiotherapy in Lymph Node-Positive Prostate Cancer Patients – A Potential Cure?"
+    ],
+    "type": "book-chapter",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID42028344": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:12.002726+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ctro.2026.101168",
+    "doi": "10.1016/j.ctro.2026.101168",
+    "title": [
+      "Outcomes of stereotactic body radiotherapy for supraclavicular lymph node metastasis among patients with metastatic prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40114834": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:12.387178+00:00",
+    "url": "https://api.crossref.org/works/10.21037%2Ftau-24-489",
+    "doi": "10.21037/tau-24-489",
+    "title": [
+      "Clinical characteristics and prognostic factors of low metastatic burden prostate cancer with non-regional lymph node metastases: role of cytoreductive radiotherapy?"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID40581618": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:12.745482+00:00",
+    "url": "https://api.crossref.org/works/10.1093%2Fbjr%2Ftqaf142",
+    "doi": "10.1093/bjr/tqaf142",
+    "title": [
+      "Optimizing lymph node metastasis imaging in MR-guided radiotherapy for oligometastatic prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID39895963": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:13.183529+00:00",
+    "url": "https://api.crossref.org/works/10.5603%2Frpor.101528",
+    "doi": "10.5603/rpor.101528",
+    "title": [
+      "Stereotactic ablative radiotherapy (SABR) for pelvic nodal oligorecurrence in prostate cancer"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
+  },
+  "PMID36483057": {
+    "status": "checked",
+    "checked_at": "2026-11-23T09:08:13.736979+00:00",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.adro.2022.101040",
+    "doi": "10.1016/j.adro.2022.101040",
+    "title": [
+      "Salvage Involved-Field and Extended-Field Radiation Therapy in Positron Emission Tomography–Positive Nodal Recurrent Prostate Cancer: Outcomes and Patterns of Failure"
+    ],
+    "type": "journal-article",
+    "relations": {},
+    "updates": [],
+    "note": "仅记录Crossref已登记关系；空关系不能证明没有更正、撤稿或后续版本"
   }
 }

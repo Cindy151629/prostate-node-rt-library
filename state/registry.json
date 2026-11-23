@@ -27842,7 +27842,7 @@
       "entrez": "2020-5-4",
       "pmc-release": "2020-4-21"
     },
-    "revision_date": "2021-06-18",
+    "revision_date": "2026-11-21",
     "doi": "10.1016/j.redox.2020.101542",
     "pmcid": "PMC7200317",
     "types": [
@@ -28360,7 +28360,7 @@
       "medline": "2020-11-13",
       "pmc-release": "2020-6-10"
     },
-    "revision_date": "2021-11-22",
+    "revision_date": "2026-11-20",
     "doi": "10.1007/s12032-020-01385-7",
     "pmcid": "PMC7286864",
     "types": [
@@ -31040,7 +31040,7 @@
       "medline": "2021-2-5",
       "pmc-release": "2020-1-1"
     },
-    "revision_date": "2023-11-10",
+    "revision_date": "2026-11-21",
     "doi": "10.3389/fonc.2020.606260",
     "pmcid": "PMC7848164",
     "types": [
@@ -36669,7 +36669,7 @@
       "entrez": "2022-8-24",
       "pmc-release": "2023-10-10"
     },
-    "revision_date": "2026-03-07",
+    "revision_date": "2026-11-21",
     "doi": "10.1200/jco.22.00644",
     "pmcid": "PMC10166371",
     "types": [
@@ -38573,7 +38573,7 @@
       "entrez": "2023-2-8",
       "pmc-release": "2024-4-1"
     },
-    "revision_date": "2026-01-27",
+    "revision_date": "2026-11-21",
     "doi": "10.1097/rlu.0000000000004590",
     "pmcid": "PMC9992149",
     "types": [
@@ -39996,7 +39996,7 @@
       "entrez": "2023-5-22",
       "pmc-release": "2023-5-19"
     },
-    "revision_date": "2025-01-22",
+    "revision_date": "2026-11-21",
     "doi": "10.1101/2023.05.08.539863",
     "pmcid": "PMC10197547",
     "types": [
@@ -45478,7 +45478,7 @@
       "entrez": "2024-11-1",
       "pmc-release": "2024-1-1"
     },
-    "revision_date": "2024-11-02",
+    "revision_date": "2026-11-21",
     "doi": "10.3389/fonc.2024.1434504",
     "pmcid": "PMC11524995",
     "types": [
@@ -46142,12 +46142,13 @@
       "entrez": "2024-12-26",
       "pmc-release": "2024-12-26"
     },
-    "revision_date": "2025-05-30",
+    "revision_date": "2026-11-17",
     "doi": "10.1136/bmjopen-2024-095560",
     "pmcid": "PMC11683931",
     "types": [
       "Journal Article",
-      "Clinical Trial Protocol"
+      "Clinical Trial Protocol",
+      "Research Support, Non-U.S. Gov't"
     ],
     "corrections": [],
     "volume": "14",
@@ -48009,7 +48010,7 @@
       "entrez": "2025-6-20",
       "pmc-release": "2026-6-19"
     },
-    "revision_date": "2026-07-26",
+    "revision_date": "2026-11-22",
     "doi": "10.1016/j.euo.2025.05.027",
     "pmcid": "PMC12311854",
     "types": [
@@ -50302,7 +50303,7 @@
       "entrez": "2025-11-12",
       "pmc-release": "2025-11-12"
     },
-    "revision_date": "2026-06-04",
+    "revision_date": "2026-11-22",
     "doi": "10.1200/jco-25-01553",
     "pmcid": "PMC12711279",
     "types": [
@@ -54103,29 +54104,29 @@
     "year": "2026",
     "publication_date_parts": {
       "Year": "2026",
-      "Month": "Sep",
-      "Day": "03"
+      "Month": "Dec"
     },
     "online_date_parts": [
       {
         "Year": "2026",
         "Month": "09",
-        "Day": "03"
+        "Day": "04"
       }
     ],
     "dates": {
       "received": "2026-1-4",
       "revised": "2026-7-29",
       "accepted": "2026-8-4",
-      "medline": "2026-9-3",
+      "medline": "2026-11-22",
       "pubmed": "2026-9-3",
       "entrez": "2026-9-3"
     },
-    "revision_date": "2026-09-03",
+    "revision_date": "2026-11-21",
     "doi": "10.1016/j.jmir.2026.102569",
     "pmcid": "",
     "types": [
       "Journal Article",
+      "Systematic Review",
       "Review"
     ],
     "corrections": [],
@@ -54706,7 +54707,7 @@
   },
   {
     "pmid": "42921729",
-    "title": "ENZARAD (ANZUP 1303): Phase 3 Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer.",
+    "title": "ENZARAD (ANZUP 1303): Phase III Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer.",
     "authors": [
       "Williams S",
       "Sweeney CJ",
@@ -54753,11 +54754,11 @@
       }
     ],
     "dates": {
-      "medline": "2026-10-25",
       "pubmed": "2026-10-25",
+      "medline": "2026-10-25",
       "entrez": "2026-10-24"
     },
-    "revision_date": "2026-10-24",
+    "revision_date": "2026-11-19",
     "doi": "10.1200/jco-26-01794",
     "pmcid": "",
     "types": [
@@ -54766,14 +54767,14 @@
     "corrections": [],
     "volume": "",
     "issue": "",
-    "pages": "101200JCO2601794",
+    "pages": "JCO2601794",
     "id": "PMID42921729",
     "sources": [
       "Europe PMC",
       "PubMed"
     ],
     "first_discovered": "2026-10-26T06:12:48.321119+00:00",
-    "abstract_sha256": "59e7df1c2205a9dc31a2f86a727b218913a818c4fd757ea617b121b48fa13c38",
+    "abstract_sha256": "a94ff93be7d4ff267652324cba3be15d630bf73da997b76a556ef9b8e1b8e6aa",
     "screening": "pending",
     "screening_reason": "交集检索命中，尚不能凭词语确定实际人群/干预"
   },
